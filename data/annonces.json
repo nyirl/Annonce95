@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-21T13:49:26+00:00",
+ "maj": "2026-11-21T14:42:00+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTPuS4F9p1nFAO4mTQXhT61Gx15LIQ992Bkp0221zsSZ_MzwyhlYrkhrFU0jQ9m-5guaKrac4wyda10p0QPkxWe5NHz7TOy-f8KJLftMbEm6pF",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces à vendre à Franconville - Der...",
+   "prix": 146900,
+   "surface": 43.29,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "cff9260125",
+   "premier_vu": "2026-11-21T14:42:00+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5485021",
    "source": "Bien'ici",
@@ -6608,6 +6620,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOY3gvzhDcgQcTzy1gAuLw5xWsCRDlQDuqwkd7IW-yKdHzUFFehYE3oJUnHjSjSw4H1JGIJMy_J3ADcdki2TLcO9u81qpr0Sd4GkC8X4RouaPF"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTQnODqNYz2Ul_zb3zQ3mBZ45Hx-k4Pa8mvlY9H2nxyFf2DxC8U_xerla4QYrBCC29b8oGaEVAtUIFN-ePpxu9T4f3sV24wbgdtOqq54-oCBv7"
     }
    ]
   },
@@ -22351,7 +22367,13 @@
    "cp": "95130",
    "id": "6ab98b3dd4",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTPuS4erVhHfOmQiaA_xVn6R9kF1r4ajB3v-IAjoDU2-IGHT7OV0w5MfNEj5EB_d4qixD_B_8T5Ure59I9ibywB8VzKZdFm6PsVcm8sE8SFw5y"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2104954",
