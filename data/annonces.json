@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-21T19:58:50+00:00",
+ "maj": "2026-11-21T20:37:45+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2164902",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 160000,
+   "surface": 80.0,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "b9ed3a0893",
+   "premier_vu": "2026-11-21T20:37:45+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTnoGsNX2ZGZix4puFUd4zXx5_5Rfe1BqR4PB7W7-vOBS8YU0bPAhq2Fo48N9H2vjcYZSMmE1R2BnV5YUXYy80RBITXEgKC9KVqq-ixkHd6A",
+   "source": "SeLoger",
+   "titre": "T2 de 45m à vendre Franconville",
+   "prix": 185000,
+   "surface": 46.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "baa44899f3",
+   "premier_vu": "2026-11-21T20:37:45+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTkUqCgEmrkpubh33cy3B9y5NkP1tUFAOO1kkYKMbGGhQPCdG-qqGs9K2G24onLgykrG4xxWUczYKdy649NhIXQEMBXWP_JAWb5xUdEYl41oYn",
    "source": "SeLoger",
@@ -5845,7 +5869,13 @@
    "cp": "95320",
    "id": "038d6a490d",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-16"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTn1cCFR9SLp2J2zPGmvBn6K5DzICgaopQEGqpB1wwM6oyXb8LCezLye0fYhIn0_PjRHvXhVPmKy7feymJM9OxIQp11Fs25Fdu7Im-SBQbpClX"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNTksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFFgftdSb8oIA486ZgdW_4wEVVCNgJlIrKu-m1ITfqlvS3_OLAv9SBCfeZQy0nu3PzY3FJ7j1UL3A92OJFh5lUzUMlvVHKg6B9tNxwYCqYj4fZXCA",
@@ -6022,6 +6052,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTcUMuTyGCcIpujfss4b4HKGLD3gOK96ns57rNZ-pxHBGEH9vbKphyj6TzAoSiiwZJaB93CNYBkrleecVIFqBagJXre6pVLdX_Fn-WwdanvAeo"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTmKbTmUJzRux-p0dfAr85GFbhRCqAXe21hFFR1Fejn9IIrHA4Lgst7XVCFesjEtVdf_VtK8qkSCRdoTMFqilhRXwe2Br_mJLZrgg31ohfI5s5"
     }
    ]
   },
