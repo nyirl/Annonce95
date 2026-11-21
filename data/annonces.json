@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-21T16:23:46+00:00",
+ "maj": "2026-11-21T17:21:44+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/netty-weelodgegroupe-appt-21223",
+   "source": "Bien'ici",
+   "titre": "Appartement à vendre Bezons",
+   "prix": 209900,
+   "surface": 55.3,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "907fa2fee8",
+   "premier_vu": "2026-11-21T17:21:44+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61723883",
+   "source": "Bien'ici",
+   "titre": "Appartement Cergy 4 pièce(s)  3 chambres, gare, commerces, parking sécurisé.",
+   "prix": 192000,
+   "surface": 86.25,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "f7488b3714",
+   "premier_vu": "2026-11-21T17:21:44+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag743447-561752594",
+   "source": "Bien'ici",
+   "titre": "Appartement 5 pièces",
+   "prix": 316000,
+   "surface": 102.0,
+   "commune": "Domont",
+   "cp": "95330",
+   "id": "24c21ad41e",
+   "premier_vu": "2026-11-21T17:21:44+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://www.bienici.com/annonce/hektor-SABOURAUDIMMOBILIER-1225",
    "source": "Bien'ici",
@@ -2947,7 +2983,13 @@
    "cp": "95320",
    "id": "30b6725a07",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-561696512"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560721152",
@@ -2959,7 +3001,13 @@
    "cp": "95320",
    "id": "7ac7616924",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-561696356"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560721182",
@@ -2971,7 +3019,13 @@
    "cp": "95320",
    "id": "863e4206b3",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-561696437"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560722967",
@@ -5020,6 +5074,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSXxzy-0RzyTuPBDJKG1GhOOS1Ad-7sLfSHPekxy1iK2fN1s8uO1m1ckbEIYrCaeNhf5KpTksr4sLWAy3n1exocnqzXJ_gzHETmeXCFZxuJX_SQg"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTap4gQFc4NSqRv7hZTDix9AYf7H7iofm0AkqF29FdLjAZdH7uKh89V2gc57GrtMU9X3SgzJC7DycF49WP1LTp0tp4mPyMRxyyDU3Sv4K0-pZ-JQ"
     }
    ]
   },
@@ -5586,6 +5644,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOQrb5Tlaq84S_fYMiXEBpukJs7lh7tqP9BuhX5U0Vmfwq83nFSfHr_P2pT0bem0_MKVsIszPrXDlZwc6FixYdBO7CzSdzdIbwHbAd68NjIVa_"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTap4gRiMMu24_MCO1VvSyH5MU0Vtc0CeHqrhjB-opE8yXxglsiBUBzld0u_JzoiMQqu3C65d6zmAOPmyuSfKAFseFhk24RJgVE1iix_uheKL7nw"
     }
    ]
   },
@@ -5977,7 +6039,7 @@
    "cp": "95320",
    "id": "b00a390dd7",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-20",
+   "vu": "2026-11-21",
    "autres": [
     {
      "source": "SeLoger",
@@ -5990,6 +6052,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-560721131"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-561696266"
     }
    ]
   },
