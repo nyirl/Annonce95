@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21T20:37:45+00:00",
+ "maj": "2026-11-21T21:19:13+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/iad-france-2164902",
@@ -4435,7 +4435,13 @@
    "cp": "95560",
    "id": "79c47813c9",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTmqsQGoxu3CQo72361AlbGIxNOEMNpHbx7KIlj5eMbZ94g_kl_fi4wCr8UCGTSGtiaR0YrOYOc2pMHLiIzFpJ72Gd_d7dWegi_pW_W-q6UEbJRA"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFI4jtviLmxTcLvyj6wn4KAvCo_XR-40AJDu9QGvEy7iAtJH21ETt8LMlyJU0tF2__YDD_0hlHdBgwsJvTdalAdS1tthhxUHpQhhB43AvUDpMs0",
@@ -5206,6 +5212,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTap4gQFc4NSqRv7hZTDix9AYf7H7iofm0AkqF29FdLjAZdH7uKh89V2gc57GrtMU9X3SgzJC7DycF49WP1LTp0tp4mPyMRxyyDU3Sv4K0-pZ-JQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTpmA-JKbE3uoIRKiRp-zXPPsv-IOK_ilws9Y9ng3CdQv0enM33Cp-_sdsCr00j8V_VXWgwq4KCRyuHeAuYC4XdQJgBkNs0OL8X6YPf3v5DJY3"
     }
    ]
   },
@@ -6056,6 +6066,14 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTmKbTmUJzRux-p0dfAr85GFbhRCqAXe21hFFR1Fejn9IIrHA4Lgst7XVCFesjEtVdf_VtK8qkSCRdoTMFqilhRXwe2Br_mJLZrgg31ohfI5s5"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTpKlRSbA6aNB9ibtV4FLBsWhYSEG9LnFHSNvMwnD2ylW8oFlOMiLRxokb3TYsXfzLxQR4Dmg31mSdfjBK9A_Jtc9QGTwT6ydbmfIndmZVm1F75Q"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTpKlRTwyayJ4lsQnPaBkX8R4xAOhcaOI79UX3zLVv58ATSc4aVNYHHKJkUHVb9brFYxE3fEXFzrFxmhczypIVxz7OP8ucRVvsv67d_NnbCf0S2A"
     }
    ]
   },
@@ -22312,6 +22330,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSG2Gx4HsAzcZAcIqz_XVsAxo0P4PoLJSv77Ra2LQH3fxekDuys9kHOPU1LBZLrNvXbdJKRA31yywg4XxNwQcAPlw-67WiWdQdDEoAhM13jn2d"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTmqsQIG_wlc_SoUAa47yOCHZH9zhPqfdcxeZdJmgGWiC2XNgVMCC-9CzWydd-TC2WO6_rhYcU5PFZgajl1DifvJ949n1LvwTvhX-9f5xRimZc5w"
     }
    ]
   },
