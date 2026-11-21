@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21T17:21:44+00:00",
+ "maj": "2026-11-21T18:16:58+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/netty-weelodgegroupe-appt-21223",
@@ -4809,7 +4809,7 @@
    "cp": "95560",
    "id": "afda6ee941",
    "premier_vu": "2026-11-16T07:35:41+00:00",
-   "vu": "2026-11-20",
+   "vu": "2026-11-21",
    "autres": [
     {
      "source": "SeLoger",
@@ -4818,6 +4818,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKEx5eWANeEkSeXswt7xnXtMhb3lVE1P9Ljk781Egcm4K3ZWit6k0qPMjpG0n0jCBx7HI4aNB4Ern1u28VQzmOkR6BXbUBadzGoZAGtEjI8E4X"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTf8oPMj-WZCwCw8BpHfY0rnsSfP6xF0V7ATY__vWy0Ep3aRopmtjVwEjUCpWR6wiMy9cDubZNF4mbs6DgRAnLoglMpQpsHdltL2tOGD5h_WAXzA"
     }
    ]
   },
@@ -5914,6 +5918,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTFkUQlqJQPFxq57gg6nxenzKI5j6NFXRQS9mVN-Eq-CTQUcITuZ3m4Ttp3m6QxP3YYOAF7_vSZo7tVshZNSfnk6dxveH2BFFEk0fvoAYGK4OgOQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTcUMuTyGCcIpujfss4b4HKGLD3gOK96ns57rNZ-pxHBGEH9vbKphyj6TzAoSiiwZJaB93CNYBkrleecVIFqBagJXre6pVLdX_Fn-WwdanvAeo"
     }
    ]
   },
@@ -21661,7 +21669,13 @@
    "cp": "95370",
    "id": "e59e9195b5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTZSiFoFlJS2w5cZHMaDxoUpbEI5CCs2xrtTY9aSWHH1wGgR8u-PKXbmbwKc0tMi1xazNVIHiTfA68_x1L0-4MdvRvq-znhXq5sSRYP2u1pPHO"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1867737",
@@ -25140,6 +25154,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720560"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTf8oPLKmWWDCx4Dg5ti4ka38d42gQcOHSLjbrPaNPR93L7W5KtOHbU-YW2Nn0ZmaCluGU2Coguz6z-uqxxFBpujWp7YUnAIIW6FcfpW6A4tFToQ"
     }
    ]
   },
