@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-21T11:58:46+00:00",
+ "maj": "2026-11-21T13:49:26+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5485021",
+   "source": "Bien'ici",
+   "titre": "Appartement  2 pièces Mériel",
+   "prix": 210500,
+   "surface": 44.91,
+   "commune": "Mériel",
+   "cp": "95630",
+   "id": "183b2d03e1",
+   "premier_vu": "2026-11-21T13:49:26+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTNmcRqOTXxhnJQbtERp8zZKllVP_Ra_StfP3l-c25oiB9a0mXcrDuZ-lqgv3HRR7i6vKH4qTzqVjUkqhH2CVm194Wm6TTptmBtQY-VyaaX8jE",
+   "source": "SeLoger",
+   "titre": "Appartement F3",
+   "prix": 159000,
+   "surface": 62.42,
+   "commune": "Montigny-lès-Cormeilles",
+   "cp": "95370",
+   "id": "d466a8eace",
+   "premier_vu": "2026-11-21T13:49:26+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTG09JAWbfrfa_iEahfg8qStTPTapa3b7-y3QseZRAzXvubBJ7AsLK37fLVQiPcU1z7iC_YYTaTXhgCO3JfQIKjrUThkrnNY_WmE9oZITaSbz7",
    "source": "SeLoger",
