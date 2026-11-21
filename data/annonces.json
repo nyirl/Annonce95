@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-21T19:11:43+00:00",
+ "maj": "2026-11-21T19:58:50+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTkUqCgEmrkpubh33cy3B9y5NkP1tUFAOO1kkYKMbGGhQPCdG-qqGs9K2G24onLgykrG4xxWUczYKdy649NhIXQEMBXWP_JAWb5xUdEYl41oYn",
+   "source": "SeLoger",
+   "titre": "Baillet-en-France — Appartement 2 pièces",
+   "prix": 203000,
+   "surface": 41.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "a259272570",
+   "premier_vu": "2026-11-21T19:58:50+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTmjfE6Gfq-0iUPuX638QMywsvbeoEqbAlfFA9NcU29C9dHPOHEtfHwxA7hud9n4XTTpXrd-pShqx0Ji2b6niT7RSUux8MiE6l_hKfZ3RjdSr0bw",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces",
+   "prix": 140000,
+   "surface": 42.87,
+   "commune": "Pontoise",
+   "cp": "95000",
+   "id": "b034b9c70b",
+   "premier_vu": "2026-11-21T19:58:50+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTmjfE7tC0VKIQXLPiVG4yuGs5mBAebtdLtyFVhF4tYN-kPD7lEeIAzUbkkCyKoGwshDwVqehmDkbgYDsuqYX8a18QW0lkiHlldvY2rIMnzrNx4Q",
+   "source": "SeLoger",
+   "titre": "Appartement de 3 pièces",
+   "prix": 195500,
+   "surface": 66.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "f128ecb5f6",
+   "premier_vu": "2026-11-21T19:58:50+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61757682",
    "source": "Bien'ici",
@@ -4748,6 +4784,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFR8xRPxcvW7WqX5dEbSzzw1Isf12hcRU5AF13WbAG4tPxsI70FROt-DcYjBXibVGxDp3X-gJnKzZbPsnY9uuYd7j6KGMoHLMFnAX_TVwYV1p3EpQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTmjfE9OmfqXUEIFpQ3odUX9_oK4SDfRgprYRWrDF4FnCButh1X3oefGpZ4ZPIcD9_7q80sz1j1fgFPq9kE41ig3bXlvIpyJm5EawVHDAJMvorxw"
     }
    ]
   },
@@ -6862,6 +6902,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61776419"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTmCUrlOtyoGv8YZFN5KPSxl4B3qZM6LlriF7EonD4LzfJB5A0pInO6lF6en2svNEHEkCbwH6PFRzo5_a1i5rJk6INDxzLxH8GKd03cU8fbA"
     }
    ]
   },
