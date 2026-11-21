@@ -1,6 +1,66 @@
 {
- "maj": "2026-11-21T18:16:58+00:00",
+ "maj": "2026-11-21T19:11:43+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61757682",
+   "source": "Bien'ici",
+   "titre": "A VENDRE Appartement Soisy Sous Montmorency 2 pièce(s) 53 m2",
+   "prix": 241000,
+   "surface": 53.0,
+   "commune": "Soisy-sous-Montmorency",
+   "cp": "95230",
+   "id": "b6fde07b42",
+   "premier_vu": "2026-11-21T19:11:43+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/era-2-61776358",
+   "source": "Bien'ici",
+   "titre": "Appartement 4 pièce(s)",
+   "prix": 165000,
+   "surface": 81.0,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "id": "6a26f1b97b",
+   "premier_vu": "2026-11-21T19:11:43+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/era-2-61776372",
+   "source": "Bien'ici",
+   "titre": "Superbe appartement 5 pièces à vendre à Saint Ouen L Aumone - 127,80 m²",
+   "prix": 345000,
+   "surface": 140.5,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "662024fac8",
+   "premier_vu": "2026-11-21T19:11:43+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTe3tgX7Fk8SmGWcpJdDmsWQotYASeqZvt34lJ7M7mT4HGx1WLJh6wKVHsu1QYmJTixzXodK2bbYnijTvoUompBXzIeF3KNChFHZQX62M35L0",
+   "source": "SeLoger",
+   "titre": "CERGY SAINT-CHRISTOPHE - Appartement F2 avec terra...",
+   "prix": 185000,
+   "surface": 43.47,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "8effb3ff71",
+   "premier_vu": "2026-11-21T19:11:43+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTi7I4VWWyuk8oGeWGxStM2TIV4XMUtgS7dgIs21UdfL9x-Dmlhrm5oX41Z4GcG7kiXSMmYnjeQKE9cOYRVZTbswmHX_EtpTM-w1lpj6T6lB5Z",
+   "source": "SeLoger",
+   "titre": "L2S IMMOBILIER F2 AVEC BALCON",
+   "prix": 179500,
+   "surface": 41.7,
+   "commune": "Maffliers",
+   "cp": "95560",
+   "id": "8b4b6ad08d",
+   "premier_vu": "2026-11-21T19:11:43+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://www.bienici.com/annonce/netty-weelodgegroupe-appt-21223",
    "source": "Bien'ici",
@@ -6798,6 +6858,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFGo6op1-5TU5pEqzNDj2g6TBtV25mYuhHjzp6qdrCDBL9rLWEj8zwVNGpj7xZoencnGSw3Q7zH92ympD9AKMZQCe3fV_TfzK2x-rLuyno_p2M"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776419"
     }
    ]
   },
@@ -7999,7 +8063,13 @@
    "cp": "95170",
    "id": "f48bfe55e8",
    "premier_vu": "2026-11-12T17:37:48+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/apimo-87620214"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-ACCESS-Immobilier-2555",
@@ -13492,6 +13562,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720748"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776317"
     }
    ]
   },
@@ -13517,7 +13591,13 @@
    "cp": "95400",
    "id": "e2a6f903f4",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag754248-561774008"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag762216-555094109",
@@ -15982,6 +16062,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFG4W8lu2B3Cdut6yPOUCvlFlNuW5rS1UYFDofdH0EVwYCUUGDLsyw9dwxZEG0_Yr5pGBIq6lyYnZzJC9a7uGA0HSS_Et8ZuIvXkqMu9Otk8LRU"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776339"
     }
    ]
   },
@@ -16084,6 +16168,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720552"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776413"
     }
    ]
   },
@@ -25158,6 +25246,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTf8oPLKmWWDCx4Dg5ti4ka38d42gQcOHSLjbrPaNPR93L7W5KtOHbU-YW2Nn0ZmaCluGU2Coguz6z-uqxxFBpujWp7YUnAIIW6FcfpW6A4tFToQ"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776417"
     }
    ]
   },
@@ -39288,6 +39380,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720568"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776422"
     }
    ]
   },
@@ -39310,6 +39406,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720573"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776424"
     }
    ]
   },
@@ -39352,6 +39452,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720777"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776347"
     }
    ]
   },
@@ -39370,6 +39474,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720796"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776351"
     }
    ]
   },
@@ -39388,6 +39496,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720799"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776354"
     }
    ]
   },
@@ -39406,6 +39518,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720820"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776357"
     }
    ]
   },
@@ -50300,6 +50416,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720575"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776425"
     }
    ]
   },
@@ -54627,7 +54747,13 @@
    "cp": "95170",
    "id": "5c9c02e973",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61761142"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5461192",
@@ -54710,6 +54836,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720585"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776431"
     }
    ]
   },
@@ -54736,6 +54866,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61720590"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61776433"
     }
    ]
   },
