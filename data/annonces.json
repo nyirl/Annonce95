@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-21T14:42:00+00:00",
+ "maj": "2026-11-21T15:36:13+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/hektor-SABOURAUDIMMOBILIER-1225",
+   "source": "Bien'ici",
+   "titre": "APPARTEMENT",
+   "prix": 149800,
+   "surface": 36.78,
+   "commune": "Montmorency",
+   "cp": "95160",
+   "id": "e09a0c0e01",
+   "premier_vu": "2026-11-21T15:36:13+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2164833",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 89000,
+   "surface": 40.0,
+   "commune": "Garges-lès-Gonesse",
+   "cp": "95140",
+   "id": "a7279a5248",
+   "premier_vu": "2026-11-21T15:36:13+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2164159",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 1 pièce",
+   "prix": 114000,
+   "surface": 33.0,
+   "commune": "Persan",
+   "cp": "95340",
+   "id": "81e1f950fe",
+   "premier_vu": "2026-11-21T15:36:13+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTQ34gBTvn8_OsMxASR-rW8ALV_fIGzQ7Au6wE5uamhhE9DeEivEEaX9IA4ROQhR0xib3-tJfU5ug-Bje5rFBIVCsrBVPW8ATTQjTBizsm4mS_",
+   "source": "SeLoger",
+   "titre": "F2 idéal premiere acquisition",
+   "prix": 200900,
+   "surface": 45.73,
+   "commune": "Mériel",
+   "cp": "95630",
+   "id": "2befbceb77",
+   "premier_vu": "2026-11-21T15:36:13+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTPuS4F9p1nFAO4mTQXhT61Gx15LIQ992Bkp0221zsSZ_MzwyhlYrkhrFU0jQ9m-5guaKrac4wyda10p0QPkxWe5NHz7TOy-f8KJLftMbEm6pF",
    "source": "SeLoger",
@@ -3013,7 +3061,13 @@
    "cp": "95320",
    "id": "5120146887",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-561688685"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5490877",
