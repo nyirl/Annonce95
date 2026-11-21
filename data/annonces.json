@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-21T21:19:13+00:00",
+ "maj": "2026-11-21T22:00:13+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2165267",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 182000,
+   "surface": 65.0,
+   "commune": "Seraincourt",
+   "cp": "95450",
+   "id": "8e85b88687",
+   "premier_vu": "2026-11-21T22:00:13+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2164902",
    "source": "Bien'ici",
