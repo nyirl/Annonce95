@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-22T07:49:14+00:00",
+ "maj": "2026-11-22T08:41:59+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFT92pTvruMsZBrbODzV9_KAFSvc62ONHUZx33VdyIEpL2OW3v6SHG2EyQ4nFXyBkaGKsfuB3lQkZPwbtXhfZ-B3S2DT_iOk_3rR_y8kTx-cocP",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces de 42 m2 Beauchamp",
+   "prix": 198000,
+   "surface": 42.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "86ac324527",
+   "premier_vu": "2026-11-22T08:41:59+00:00",
+   "vu": "2026-11-22"
+  },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977576548",
    "source": "Bien'ici",
