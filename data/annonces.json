@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-22T18:17:24+00:00",
+ "maj": "2026-11-22T19:13:38+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUqvxDhGjtQ3Viz9HS2IUCZq8OTfAx7TVE24TLNRaTdT3iW08YtrBXbqXeDVxa25hL0nXUHA7kKod_FonqSr5XtMYFutx9uktx3quGVYxlRFbO",
+   "source": "SeLoger",
+   "titre": "Jouy-le-Moutier T2 de 42m² avec extérieur de 3m² e...",
+   "prix": 185000,
+   "surface": 42.0,
+   "commune": "Jouy-le-Moutier",
+   "cp": "95280",
+   "id": "0f0be327cd",
+   "premier_vu": "2026-11-22T19:13:38+00:00",
+   "vu": "2026-11-22"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUweBfxPUOiwzUTygp2ILZATP2wK9UEHGPwurGOnLJtsfEfQzcjuolZPHWFDDBX4i-O9bDiM4FKb4sPtsSd0-ebdtKRw23WzEFnFnqCgcadKLx",
+   "source": "SeLoger",
+   "titre": "Cergy T2 de 45m² avec extérieur de 12m² et parking",
+   "prix": 191500,
+   "surface": 45.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "606bbd0d82",
+   "premier_vu": "2026-11-22T19:13:38+00:00",
+   "vu": "2026-11-22"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUpCLUzQCx-I1rOW5iJqM3LZinbEpWle_LG-KI19wM5vS7SovAHDZ0-zrCsyZoXV6pUI9icNHsuoXf-2CZPLyQ5MI3CzMNB5zAnEPWyBZSAoXT",
    "source": "SeLoger",
