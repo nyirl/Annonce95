@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-22T13:37:58+00:00",
+ "maj": "2026-11-22T15:23:42+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2165228",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 159000,
+   "surface": 76.12,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "id": "170c79b8ed",
+   "premier_vu": "2026-11-22T15:23:42+00:00",
+   "vu": "2026-11-22"
+  },
+  {
+   "prix": 167000,
+   "surface": 42.0,
+   "commune": "Saint-Gratien",
+   "cp": "95210",
+   "url": "https://www.pap.fr/annonces/-r465400702",
+   "source": "PAP",
+   "titre": "Saint-Gratien (95210) Vente appartement 2 pièces 42 m² 167.000 € Voir l'annonce",
+   "id": "95899c16a4",
+   "premier_vu": "2026-11-22T15:23:42+00:00",
+   "vu": "2026-11-22"
+  },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1745218",
    "source": "Bien'ici",
@@ -32767,7 +32791,13 @@
    "cp": "95000",
    "id": "c7ef3efd88",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-22"
+   "vu": "2026-11-22",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUbBs6Szb3Pu1uodBs6oympSNUeBv5ro3floJoBIfTdcZ9kRmT5GdJ-RlyDlcUC9gwFZZ5SpodNqrOVG_b-AKMtRbsBdZOARCOuMhQOgH9TS16"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-77646",
@@ -33943,7 +33973,13 @@
    "cp": "95220",
    "id": "16c533a552",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-22"
+   "vu": "2026-11-22",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUe1n2c-Ppf33hx-CeoN7ow_3ro3RZaxn4BwLX9-pjEoBIqYpUazT1o9Bc10E2Pw1DNwPataJFRdrpx_OJSwf408I073FnTf63LKPBhihstz9C"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1985833",
@@ -53242,6 +53278,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61763509"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61778954"
     }
    ]
   },
@@ -53284,6 +53324,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61763521"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61778960"
     }
    ]
   },
