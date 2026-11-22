@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-22T09:39:52+00:00",
+ "maj": "2026-11-22T11:23:07+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUSFumsvyrLXK_z6ZnVc9KGF6u7SRVrgoP050OaHLxalEp8OOFVmwfP7yo1xx5JuDN7zQ5pj-iZ1vszpRPI_5UK4uLWviWTr2iYOfvvAmUSFHf",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces de 49 m2 Beauchamp",
+   "prix": 180000,
+   "surface": 49.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "ab86b439f3",
+   "premier_vu": "2026-11-22T11:23:07+00:00",
+   "vu": "2026-11-22"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFT92pTvruMsZBrbODzV9_KAFSvc62ONHUZx33VdyIEpL2OW3v6SHG2EyQ4nFXyBkaGKsfuB3lQkZPwbtXhfZ-B3S2DT_iOk_3rR_y8kTx-cocP",
    "source": "SeLoger",
@@ -1617,7 +1629,13 @@
    "cp": "95560",
    "id": "31571e8e73",
    "premier_vu": "2026-11-19T18:48:53+00:00",
-   "vu": "2026-11-22"
+   "vu": "2026-11-22",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUQHJl-d-ce-HeNJL37ogrEqgEadBflEEPoMmW7Wnzq9rMz9jn_zLTCGvEl_nfQj8O4E5QXLCll8Qd_h5_-w0LvbHilWo6OKOOPttN5XDdA07o"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-30375_107",
@@ -33003,7 +33021,13 @@
    "cp": "95130",
    "id": "fcb6fce387",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-22"
+   "vu": "2026-11-22",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUTjGA-JoUCoGF31-xOY1idihzblDDWXRI-SZGtvIT2rW7t3jIlK7xCPerNNKv_dPXrZ3X6jzLNgGC4-yU6WDU9U3bzh4u5gniIWp_88209B8"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_590_27288",
