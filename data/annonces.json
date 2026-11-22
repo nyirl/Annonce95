@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-22T11:23:07+00:00",
+ "maj": "2026-11-22T12:22:02+00:00",
  "annonces": [
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUSFumsvyrLXK_z6ZnVc9KGF6u7SRVrgoP050OaHLxalEp8OOFVmwfP7yo1xx5JuDN7zQ5pj-iZ1vszpRPI_5UK4uLWviWTr2iYOfvvAmUSFHf",
@@ -6400,6 +6400,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFT3Yks1met5-ZqkXh6cv6fosdZoxPOVYKGlXVn8qH02eYrcw3ySxrr69Fj89ilS2N5pmiH_GiKhnni3PXf3rDNt9vRqOF9WaMQuEMM45xkCsQS"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUXOx6Cb9zor9cNgxrO7qzgGNsZdAx_Lcq6fbaRafIhEgR6S_U3Ij-vwAA9rU3AKPCczVZeRKvgJzqOmW-fR7SgkUvWpN2KstnfT7LrJXWC95G"
     }
    ]
   },
