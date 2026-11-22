@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-22T20:58:57+00:00",
+ "maj": "2026-11-22T21:39:15+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2163156",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 267000,
+   "surface": 66.83,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "2269db960b",
+   "premier_vu": "2026-11-22T21:39:15+00:00",
+   "vu": "2026-11-22"
+  },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1742337",
    "source": "Bien'ici",
@@ -7761,7 +7773,13 @@
    "cp": "95170",
    "id": "b5212113c3",
    "premier_vu": "2026-11-14T10:38:55+00:00",
-   "vu": "2026-11-14"
+   "vu": "2026-11-22",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-561993650"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-559980359",
