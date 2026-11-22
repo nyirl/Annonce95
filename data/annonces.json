@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-22T04:35:54+00:00",
+ "maj": "2026-11-22T05:33:49+00:00",
  "annonces": [
+  {
+   "prix": 170000,
+   "surface": 44.0,
+   "commune": "Vauréal",
+   "cp": "95490",
+   "url": "https://www.leboncoin.fr/vi/3313997126.htm",
+   "source": "Leboncoin",
+   "titre": "170 000 € 3 864 €/m² Pro Appartement · 2 pièces · 44 m² Terrasse · Parking Sablo",
+   "id": "0320b41402",
+   "premier_vu": "2026-11-22T05:33:49+00:00",
+   "vu": "2026-11-22"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTqeEfHdLodQ1Iqos4Y8Ji0oxyuzp_1G5N7qhimKls4ntetGTKrB_MtUbzEII3u8LBm1Oti4cG62oyyAWTO7M_0zZw6kX6Pouog-51DHJVS-Yh",
    "source": "SeLoger",
@@ -23,7 +35,13 @@
    "cp": "95450",
    "id": "8e85b88687",
    "premier_vu": "2026-11-21T22:00:13+00:00",
-   "vu": "2026-11-22"
+   "vu": "2026-11-22",
+   "autres": [
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3314797831.htm"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2164902",
@@ -922,6 +940,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQvy1qDXZSfwsgk4MZL2bLGZLQIk7VpMgDFd012Wa-U7olSFMPI7a5H0tT1xf4PDHO82CRtsm5Ihc4i2C74G5vAOGooDMrLueYaysjF3jEEgQ-tg"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTucrfowON9qmiPuesM5xCxuQNfBD2yoW1Og-viBWTg-xK09fPMLrt5PX8otw62KG9hBdzhU0aP4oIzWxcvQt4tkWlaGgPwTFmLIQMWotvfmLG"
     }
    ]
   },
@@ -1114,6 +1136,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977572076"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTucrfnUIjq9yzHDSlwqe5WRYMWiTzdGgOSg2XuPCsobR8yPi44Ti2DYkMM2sx7hPM8w2pXbzNijlFdsU_8k4pwTN22X7kBRGgYMLd7fb9FKuz"
     }
    ]
   },
@@ -5569,7 +5595,13 @@
    "titre": "172 000 € 4 095 €/m² Pro Appartement · 2 pièces · 42 m² Balcon · Terrain : 1688m",
    "id": "99efad9249",
    "premier_vu": "2026-11-15T08:25:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-22",
+   "autres": [
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3314897666.htm"
+    }
+   ]
   },
   {
    "prix": 190000,
@@ -21328,6 +21360,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHw8sennnhAJvKEi4fzbNp_rDOUysSRMFnGrcQw3Ik5EEKf44Ec8Dr6tgJU_VBJXA8EQnlUCe2fSf_WtaCHYxwZZXzaxpsKote0DWznMEZmw"
+    },
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3277345135.htm"
     }
    ]
   },
@@ -31471,7 +31507,13 @@
    "cp": "95310",
    "id": "e95551e29e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-22"
+   "vu": "2026-11-22",
+   "autres": [
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3211846406.htm"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-SABOURAUDIMMOBILIER-1185",
