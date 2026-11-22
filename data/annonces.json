@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-22T17:23:18+00:00",
+ "maj": "2026-11-22T18:17:24+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUpCLUzQCx-I1rOW5iJqM3LZinbEpWle_LG-KI19wM5vS7SovAHDZ0-zrCsyZoXV6pUI9icNHsuoXf-2CZPLyQ5MI3CzMNB5zAnEPWyBZSAoXT",
+   "source": "SeLoger",
+   "titre": "Pontoise T2 de 38m² avec extérieur de 5m² et parki...",
+   "prix": 169625,
+   "surface": 38.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "a45efbb779",
+   "premier_vu": "2026-11-22T18:17:24+00:00",
+   "vu": "2026-11-22"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2165228",
    "source": "Bien'ici",
@@ -5588,6 +5600,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTpmA-JKbE3uoIRKiRp-zXPPsv-IOK_ilws9Y9ng3CdQv0enM33Cp-_sdsCr00j8V_VXWgwq4KCRyuHeAuYC4XdQJgBkNs0OL8X6YPf3v5DJY3"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUpCLUxzzubBo3wc-G5TLA23d-Yyy_GpbMQlwxJLBf5ySiykHyRYLnLdXBGi0vHoGv10tokMuAzm1fQybZLBfdY_ZYP69MV2OcGMYDKw4j2F4h"
     }
    ]
   },
