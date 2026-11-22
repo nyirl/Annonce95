@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-22T15:23:42+00:00",
+ "maj": "2026-11-22T17:23:18+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/iad-france-2165228",
@@ -5320,6 +5320,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTf8oPMj-WZCwCw8BpHfY0rnsSfP6xF0V7ATY__vWy0Ep3aRopmtjVwEjUCpWR6wiMy9cDubZNF4mbs6DgRAnLoglMpQpsHdltL2tOGD5h_WAXzA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUm7l7Raw9YsLhOgWsNSxy4isHLs7SxBA6S3TP0531JDXzyLKUF1uwdIowV7znZEaR0CkmGW_NC615j7tG_I_AANp2X6xHERQqxW07ACIfc1iF"
     }
    ]
   },
