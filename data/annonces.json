@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-22T05:33:49+00:00",
+ "maj": "2026-11-22T06:31:53+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTRVhKLIa8VO9kD6YIoVmLw3vaHIT0mGq2HOPmqQC7HDiYGmUrLBI_qi4bMysBqh8cmXWPcC7Uddi6nVzuJsiEJjmm68x7n0owy3v3nUjgWlc",
+   "source": "SeLoger",
+   "titre": "3 pièces",
+   "prix": 164000,
+   "surface": 68.89,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "3858844ed6",
+   "premier_vu": "2026-11-22T06:31:53+00:00",
+   "vu": "2026-11-22"
+  },
   {
    "prix": 170000,
    "surface": 44.0,
@@ -1471,7 +1483,13 @@
    "cp": "95560",
    "id": "20b77d657a",
    "premier_vu": "2026-11-19T16:54:31+00:00",
-   "vu": "2026-11-22"
+   "vu": "2026-11-22",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFToLaYvJ20ujBZbjt9fDrnyEOk3QqV2A75wa3zfrevpzQGoVdWpp8EO-0jdOxrhSgKHPt9cHMzQs5MDWhhqg1Ud7bqtYSeVFzzWeSLE5TR94S4"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPvf_oCoueZBVRML2cwlMIN4RH4yv18f75NibhkHPv7JnwfsWkneT3OhiZs6pVJhJPAcwZJ6Mu-XICDmmKlCdlG-xr3eluhXWd0Ye-7m8YsFue",
@@ -5670,6 +5688,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFO-9_i6XHoLJz9_VloaqX8V-Fi6rWQBhicXDUI4vOGBmvpN0g53pwzosnFkgbPe7OQKjlpZWUDqHYrk1Fxeuhl8HyEkcAxribjYseAcEVrCKL3"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFToLaYtk7JcEIpHKVew5KUstCHeNG6b5VVqtc_Yko_abenSk6WXQ6PD1-tDftuH1wfOQqqVcrnCCLSjNd5AA8U7H10vP0pkBaQ-kp7r1FEOA_w"
     }
    ]
   },
@@ -8797,7 +8819,7 @@
    "titre": "Persan (95340) Vente appartement 2 pièces 46 m² 165.000 € Voir l'annonce",
    "id": "3666029ae1",
    "premier_vu": "2026-11-12T09:12:14+00:00",
-   "vu": "2026-11-15"
+   "vu": "2026-11-22"
   },
   {
    "prix": 152000,
