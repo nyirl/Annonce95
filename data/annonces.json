@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-22T12:22:02+00:00",
+ "maj": "2026-11-22T13:37:58+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1745218",
+   "source": "Bien'ici",
+   "titre": "Appartement KAUFMAN & BROAD sans travaux",
+   "prix": 239600,
+   "surface": 61.0,
+   "commune": "Éragny",
+   "cp": "95610",
+   "id": "b5c3dd2149",
+   "premier_vu": "2026-11-22T13:37:58+00:00",
+   "vu": "2026-11-22"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2163447",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 185000,
+   "surface": 62.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "277f50da83",
+   "premier_vu": "2026-11-22T13:37:58+00:00",
+   "vu": "2026-11-22"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUZv3Fcl5t6Lfd8Lvesg3ON5c6Q7kE40X_FKhJhwgwELWod_bEypb-k3-rstG_oj_porgRZThKWg0jmIpIE-MAF4VdOCs7FUDCwHdZqNis8dRE",
+   "source": "SeLoger",
+   "titre": "Baillet-en-France — Appartement 2 pièces",
+   "prix": 197000,
+   "surface": 41.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "af25d844bf",
+   "premier_vu": "2026-11-22T13:37:58+00:00",
+   "vu": "2026-11-22"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUSFumsvyrLXK_z6ZnVc9KGF6u7SRVrgoP050OaHLxalEp8OOFVmwfP7yo1xx5JuDN7zQ5pj-iZ1vszpRPI_5UK4uLWviWTr2iYOfvvAmUSFHf",
    "source": "SeLoger",
