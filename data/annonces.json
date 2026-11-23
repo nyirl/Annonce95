@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-23T20:42:43+00:00",
+ "maj": "2026-11-23T21:42:02+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2166545",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 185000,
+   "surface": 67.2,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "ec2f3b31be",
+   "premier_vu": "2026-11-23T21:42:02+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2166440",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 269000,
+   "surface": 84.98,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "8738ba29d6",
+   "premier_vu": "2026-11-23T21:42:02+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2165239",
    "source": "Bien'ici",
