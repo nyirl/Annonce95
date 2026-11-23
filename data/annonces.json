@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-23T08:07:41+00:00",
+ "maj": "2026-11-23T09:40:26+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVTMP77N_n344vUZwYldYJtWkXbqkdj0Cq9kITeYhm5quprmXQPVsKwViWNr2sLLzXqxgyjcR5VlXHzIce57EkRrbpnCPHpF5TjZJ_itFjXQ",
+   "source": "SeLoger",
+   "titre": "0080",
+   "prix": 163043,
+   "surface": 46.7,
+   "commune": "Osny",
+   "cp": "95520",
+   "id": "b977efbb25",
+   "premier_vu": "2026-11-23T09:40:26+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://www.bienici.com/annonce/ladresse-1-adresse-14707930",
    "source": "Bien'ici",
@@ -3639,11 +3651,15 @@
    "cp": "95320",
    "id": "30b6725a07",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-22",
+   "vu": "2026-11-23",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-561696512"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562114310"
     }
    ]
   },
@@ -3657,11 +3673,15 @@
    "cp": "95320",
    "id": "7ac7616924",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-22",
+   "vu": "2026-11-23",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-561696356"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562114370"
     }
    ]
   },
@@ -3675,11 +3695,15 @@
    "cp": "95320",
    "id": "863e4206b3",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-22",
+   "vu": "2026-11-23",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-561696437"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562114337"
     }
    ]
   },
@@ -7085,7 +7109,13 @@
    "cp": "95250",
    "id": "8961d80e19",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-23",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVW0sIfXOTt7J21jKmxh1xEfNocEWMZBZr7-eFV5ktiVh_PVH8L9WIlaTVQ8Ifx2BjWcGJkAamc7EmkDhxdrmsaPwVGME9onMC9j-EOLbC7l8k"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFGSWeFn-jjKEIZ1Yr2FGPHQE-aERsZDNdJBxP4S0nurKgPT5ESdaUGKp80P_B0qXL2hNXU7dy3A6IqbU6eDZbGHma7ZV3hlcYZLtGiMo4EmwnI",
@@ -16216,6 +16246,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/iad-france-2020780"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVUfLZXCZIsJhemKtHPW1LaoKMZ51SHtUFC70Jm3tsfHxeokm4pziVSZAbQsk0dWYsENqqZyZmmCcVuQfIXKeRW4bVlXk6N6dpS9W20pTkyX-E"
     }
    ]
   },
@@ -30664,6 +30698,10 @@
     {
      "source": "Leboncoin",
      "url": "https://www.leboncoin.fr/vi/3240797005.htm"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVQnqx6C8QydhWbDtSYuVcIE7N91CumflSaxoV8hln4i1dcfhX4QAegUSOwPrHIR-Ik_XEbi58DVXryiRfSq1MW0-RKwO0TuE1vxxRbMGgrVbw"
     }
    ]
   },
@@ -35960,6 +35998,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag753878-536558819"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag753878-562116872"
     }
    ]
   },
