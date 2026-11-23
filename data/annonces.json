@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-23T14:22:44+00:00",
+ "maj": "2026-11-23T15:41:50+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/dr-house-immo-1-1148055",
+   "source": "Bien'ici",
+   "titre": "Super apppartement très lumineux Idéal premier achat ou pour investir !",
+   "prix": 152000,
+   "surface": 40.5,
+   "commune": "Persan",
+   "cp": "95340",
+   "id": "88c0f35ba4",
+   "premier_vu": "2026-11-23T15:41:50+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "prix": 170000,
+   "surface": 59.0,
+   "commune": "Villiers-le-Bel",
+   "cp": "95400",
+   "url": "https://www.pap.fr/annonces/-r466202442",
+   "source": "PAP",
+   "titre": "Villiers-le-Bel (95400) Vente appartement 3 pièces 59 m² 170.000 € Voir l'annonc",
+   "id": "65023fd7c2",
+   "premier_vu": "2026-11-23T15:41:50+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFV3KgDO8bxHUWoecpX-ZIRDJY_8rurWnEZ5PT3AGb_J52LlmC7Ga23pc2uFIXYJz5TLOCoOcYtLZiFyDMigwbJjAbOCbBZEGNsAoYJuZrVWHDt",
    "source": "SeLoger",
@@ -1428,6 +1452,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977576565"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWG3zLGoei_7wmC8EZO8l7AQEO4DZIROeZvAEISZ_1bqYBwulXwHX8M3TZOVPwkfsyYBZ1kqiUO2Z2kOPuYL-163cMyLEtV7ydmw-LOpsCZAib"
     }
    ]
   },
@@ -1676,6 +1704,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977576563"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWOy2ZXIl3gRol3K9H8awljPOr3nbLTw_TwCHRclsi8LH8xZYFgRpZ2JnC9e4X5XvGQeczfAKWJ-PN5P4Z0a8PzMgLRweaMfGCryEUBMJjbInwgw"
     }
    ]
   },
@@ -3286,6 +3318,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNWABE281474977573255"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWOy2ZYu9MD7gA_d0lTQY0jUQ0zDIGMBRXP5B3BWNoFJV-udg18o_K8uPAL0mHaF0UujSmeF_IAMNmsDIGXYOpuH0X6ZFj8SO1GmUTLUw73uhFKg"
     }
    ]
   },
@@ -5494,6 +5530,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFV3KgDNQO1R96tjivrep0vmr8uQ0B1gDnar-9SEDoNXKqbHfuW-B1pN9NBFB8_AAo1lCbc1Bf1HJWPzGxIO3sl_kCblOCpuedGckuzqf7Qi6z8"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWOy2wKM5GH0VN-tCYJr-9v2qJvToUdG8NDH66E85wYKWjYXQtThCkpfM1o3KtCGPucgk1ClgjTf45uwONwTtUQRhPZuJshqmptz2FiAx-OVNv"
     }
    ]
   },
@@ -6092,6 +6132,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUvRrZ6zFRYy-JjQeQ0CdmilLS6w_aaddRYI8FnyB37SCciDJiY8KsBCJm1HVgkpxqyHHtne0_0iMCorvlATiCdctKooBWlt9HurQuf9631iig"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWG3zjK0HZF2iOhf2fAMrXVuQyNNOT3X1uLyKFkDhkIuBG3MRkByrZhBPjVgmT0FMaWrF4lKMR8lCiBHv_Xrri-qX_Od9aH8-64-MyvZLjmiDT"
     }
    ]
   },
@@ -24566,6 +24610,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977572084"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWMWysJaimEQQDRvrur_ZAJrpUp8igXCKTTtvVHEeNNu2zz88_w0P1MPhg8i_jynetyVDYnk9wV7CXY5GlsSDA0CCGbVZ8jn4vx0S-1VBhnhYl"
     }
    ]
   },
@@ -25424,6 +25472,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977572116"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWLUVef3Gfh1ErjVYLMH_TSX0ds6AR1xjVfbj34NnI5ohrwTohJsMP5B16lHKx6oS7UEFDyIcttxybfc6kTAj36NjKMhhB2Uwc9kgBH76lfCG8"
     }
    ]
   },
