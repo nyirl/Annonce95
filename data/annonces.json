@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-23T21:42:02+00:00",
+ "maj": "2026-11-23T22:42:43+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61671730",
+   "source": "Bien'ici",
+   "titre": "Appartement 3 pièces lumineux et calme",
+   "prix": 129000,
+   "surface": 40.0,
+   "commune": "Persan",
+   "cp": "95340",
+   "id": "b0e390402d",
+   "premier_vu": "2026-11-23T22:42:43+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2166545",
    "source": "Bien'ici",
@@ -23802,6 +23814,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag753775-555129776"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag753775-562264154"
     }
    ]
   },
