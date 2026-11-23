@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-23T06:25:35+00:00",
+ "maj": "2026-11-23T08:07:41+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ladresse-1-adresse-14707930",
+   "source": "Bien'ici",
+   "titre": "Magnifique appartement 3 pièces, 1 balcon, parking privatif, coeur de ville VAURÉAL !",
+   "prix": 274000,
+   "surface": 62.24,
+   "commune": "Vauréal",
+   "cp": "95490",
+   "id": "9ff16a80e0",
+   "premier_vu": "2026-11-23T08:07:41+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "prix": 176000,
+   "surface": 64.0,
+   "commune": "Val Notre Dame Argenteuil",
+   "cp": "95100",
+   "url": "https://www.leboncoin.fr/vi/3179305031.htm",
+   "source": "Leboncoin",
+   "titre": "176 000 € 2 750 €/m² Pro Appartement · 3 pièces · 64 m² Parking Val Notre Dame A",
+   "id": "91b2a0ccd1",
+   "premier_vu": "2026-11-23T08:07:41+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "prix": 199900,
+   "surface": 57.0,
+   "commune": "Jouannes - Vast Jouy-le-Moutier",
+   "cp": "95280",
+   "url": "https://www.leboncoin.fr/vi/3146413851.htm",
+   "source": "Leboncoin",
+   "titre": "199 900 € 3 507 €/m² Pro Appartement · 3 pièces · 57 m² Terrasse · Terrain : 6m²",
+   "id": "3a974fa1af",
+   "premier_vu": "2026-11-23T08:07:41+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "prix": 190000,
+   "surface": 58.0,
+   "commune": "Parking Centre-ville Argenteuil",
+   "cp": "95100",
+   "url": "https://www.leboncoin.fr/vi/3315388534.htm",
+   "source": "Leboncoin",
+   "titre": "190 000 € 3 276 €/m² Appartement · 3 pièces · 58 m² Dernier étage · Parking Cent",
+   "id": "47dceede60",
+   "premier_vu": "2026-11-23T08:07:41+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag773658-561646289",
    "source": "Bien'ici",
@@ -6610,6 +6658,14 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFU27IVcyoIXSrze5ZItUc7dqWQxUMOw1TDo1BRxbR7Ll4C7H-ANUnDjU40fQ5LmFaVI95ZPouXA4uDlBqm7eNyGGxd62p96TC4cF3UgMAssxte"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFU2pbBi7WVGLqipuk8QY-9IUuGEbvcMP50sixDhCwHF8nfFO_zLRbI0kdpyKqO4KJij59_aMZmk0q4FG78vLoFwP7L0vB4K1llF-tVBraGaGSF"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVEFWZS0v1gyf-0BEXfiRSCQQMtVSrRRlvsSojl9YBkJGCSpWdxPU4OD8LoyZyr7O91Pb6Uk_F-KqQuizZO8WVr2qh6biNHLRysHik7JOwQVu4"
     }
    ]
   },
@@ -17655,7 +17711,13 @@
    "cp": "95200",
    "id": "ffe99a5868",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-23"
+   "vu": "2026-11-23",
+   "autres": [
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3277661192.htm"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag311656-552188570",
@@ -30245,7 +30307,13 @@
    "cp": "95310",
    "id": "e297e26a3c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-23"
+   "vu": "2026-11-23",
+   "autres": [
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3243864183.htm"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61276150",
