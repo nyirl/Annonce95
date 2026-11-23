@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-23T12:57:56+00:00",
+ "maj": "2026-11-23T14:22:44+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFV3KgDO8bxHUWoecpX-ZIRDJY_8rurWnEZ5PT3AGb_J52LlmC7Ga23pc2uFIXYJz5TLOCoOcYtLZiFyDMigwbJjAbOCbBZEGNsAoYJuZrVWHDt",
+   "source": "SeLoger",
+   "titre": "Appartement de 3 pièces",
+   "prix": 199500,
+   "surface": 56.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "289ce3b7fd",
+   "premier_vu": "2026-11-23T14:22:44+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61700566",
    "source": "Bien'ici",
@@ -4023,7 +4035,13 @@
    "cp": "95000",
    "id": "d25ec2818d",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-23",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFV-Grl86aNi-YSP6CZKaP7Hnrf3PkWm50A-nuFj3uF-1aPlu0GKZtebJ0JRg8XMYu9q1sb3VV3aQ8PyP-iAtE1--xnqbpbispigHm0pF1smmq7"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK_VbyI8OXHTmfBRrFEWvizakDv1o2U449vnL0MJuu6xH78KBY78AOimyNOkmbzEfYSQA_LMmnHbCXNHWaVYGifFOjxQPRSQFXw_pBYl5eCTy7",
@@ -5472,6 +5490,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVCixJ0UOweKt6qFWAI6IhqrRodFestsDnGTwc3pgfMsHAJR-7GwwUPtl6uAwAXM1jGbu-kxwdf09ETinC3COnjjW3xs15VH6UmAj-W_sBZsmq"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFV3KgDNQO1R96tjivrep0vmr8uQ0B1gDnar-9SEDoNXKqbHfuW-B1pN9NBFB8_AAo1lCbc1Bf1HJWPzGxIO3sl_kCblOCpuedGckuzqf7Qi6z8"
     }
    ]
   },
@@ -25038,6 +25060,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNQUPO281474977572957"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFV-Grl7etSZ8xP39mQX3NCE_4eZJSqBdoOdmeQyYauvBmmVwKZWEIj4JpLqZCQa87cz3caa1J9unu-Z_W9yZjW10w8eMcg2Uq0Q8K-E9wMkkBa"
     }
    ]
   },
@@ -25152,6 +25178,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFF_bdXmStUtXlxnDRXSMPOqjCFGxaycU1S4MzSiZ7CZEO1RjjE0pkWx7u7u2JgDs_RmjAGKHvhWcCAFh4l_i_5zV7OsCgyuEuCofDkGV-ZBIE"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWA75w2PoUp9qVw0dXdQIEO06ZMWCsZ7qYPV9uIpsPckonOOq0pE3b824ycx_-dyUjFkHNX5qeTTztUr0SMqusWiDeSQ2eWYmvlAyFOkrUSFf3"
     }
    ]
   },
