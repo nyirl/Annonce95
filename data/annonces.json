@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-23T10:55:56+00:00",
+ "maj": "2026-11-23T11:47:18+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVjVcd78QgcalDA798n3dzygdL3DjJUMO3f1X1SDxhX27VTV9aDEQ29AgqSNxy_I6bdpmow75xi8TjUZIlaDpcrhgqcNXnHO5_tIacZuBZNrUe",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces de 54 m2 Beauchamp",
+   "prix": 196000,
+   "surface": 54.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "1d3500eb05",
+   "premier_vu": "2026-11-23T11:47:18+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "prix": 159000,
    "surface": 59.0,
@@ -6222,6 +6234,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFToLaYtk7JcEIpHKVew5KUstCHeNG6b5VVqtc_Yko_abenSk6WXQ6PD1-tDftuH1wfOQqqVcrnCCLSjNd5AA8U7H10vP0pkBaQ-kp7r1FEOA_w"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVqTCVYMsX9LAsX1kowpcTX9tms8fWiwTlqm-qchNBf8HFTjfpLLOQRuQX39xhoExgIyHIOxow9uiPoIcaU1l-ipdG2KSwVXng0_QNyEaF6tv9"
     }
    ]
   },
