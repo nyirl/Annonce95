@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-23T16:51:29+00:00",
+ "maj": "2026-11-23T17:50:59+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWgcy58CWsGtQlT0Jp3JVj-fuwdoVDAuFOD_F0D_7iA9DYmwjgSILmkIdsYzYRf0Q-jODyIgUL9ty5a6gWIlkYNeB4MmZw8EUVH3_VL28gah43",
+   "source": "SeLoger",
+   "titre": "Appartement F2 à vendre",
+   "prix": 159000,
+   "surface": 47.53,
+   "commune": "Auvers-sur-Oise",
+   "cp": "95430",
+   "id": "e1990b62a1",
+   "premier_vu": "2026-11-23T17:50:59+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://www.bienici.com/annonce/dr-house-immo-1-1148055",
    "source": "Bien'ici",
