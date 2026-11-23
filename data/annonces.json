@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-23T18:49:30+00:00",
+ "maj": "2026-11-23T19:54:59+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2165239",
+   "source": "Bien'ici",
+   "titre": "Vente Studio 1 pièce",
+   "prix": 79000,
+   "surface": 19.67,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "60fde1939d",
+   "premier_vu": "2026-11-23T19:54:59+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2156157",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 226000,
+   "surface": 62.76,
+   "commune": "Éragny",
+   "cp": "95610",
+   "id": "e25499e5e3",
+   "premier_vu": "2026-11-23T19:54:59+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWxHO-IYP4l5ikzPaYC7dZ6XksGVZ_HNe4U5F8b7dg2JOk_mFNABwStei6WUiU88KH-uU_-jeFjYlclwdfFbJZIwjpbUTUiwjxAKdz386C7BfA",
+   "source": "SeLoger",
+   "titre": "T2 SAINT-LEU-LA-FORÊT 44 M² – TERRASSE – PARKING –...",
+   "prix": 184900,
+   "surface": 44.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "98bd88aec2",
+   "premier_vu": "2026-11-23T19:54:59+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWxQFVl4DLCYjkX5y5RXy_kJzGglTQA-4FNS69UBJDj3voepzurGtQL6FAGduRGNPgfat-1PB0OvxqoERXnzAqF52-TKa8ztWnsD52WXBwrd2QeA",
+   "source": "SeLoger",
+   "titre": "Saint-Leu-la-Forêt ( 95320 ) - 2 pièces neuf + par...",
+   "prix": 199900,
+   "surface": 41.74,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "3ee590c0da",
+   "premier_vu": "2026-11-23T19:54:59+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag743447-562228724",
    "source": "Bien'ici",
@@ -2254,6 +2302,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTva45Kf8wuClTWqxfIaiFqIEI_DsTSy9-16Xuf6dOfsEftaY4oPCJem7qLNT_IP71rzRXVMi2vRLIoxPnphUBUKP8orXWrePEzsHAOs3meWapzw"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWyTENCKmqkRiZ6GHxOuK39R1lHh3HvtTkIGYsKVjc-sU5CkkHjBltEflpBfys-fW8dCkn1HzCXRCzY6jay6eVqgr-GhnbTrwwts93zvCUeqsj"
     }
    ]
   },
@@ -6880,6 +6932,14 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVEFWZS0v1gyf-0BEXfiRSCQQMtVSrRRlvsSojl9YBkJGCSpWdxPU4OD8LoyZyr7O91Pb6Uk_F-KqQuizZO8WVr2qh6biNHLRysHik7JOwQVu4"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWyTENAkaUhxNq0pooLbMmPBBI8U0njUZofkAeNvjMaXcKNCIezpcxnesa6usCFQ-R02QQhHaqd1SIUf-i-b7jNacMVH-CKIGx6va17-DCm80K"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWv96GT8hRvhd6RFGeNaXHocW0HZn4CJoxUDbZze89Aqru41g0orRdoji2g_cFWCyaTRGqkzK1CkTW_iqZSOMfg2wljHPtLP1WEA-okRgmT_kb"
     }
    ]
   },
