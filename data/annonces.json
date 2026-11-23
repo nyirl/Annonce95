@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-23T17:50:59+00:00",
+ "maj": "2026-11-23T18:49:30+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag743447-562228724",
+   "source": "Bien'ici",
+   "titre": "Appartement 3 pièces",
+   "prix": 199000,
+   "surface": 54.0,
+   "commune": "Montmorency",
+   "cp": "95160",
+   "id": "36a6a6e10c",
+   "premier_vu": "2026-11-23T18:49:30+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWrC15PZ0TC7ToyMG5Mjk3r9xF_J3gZe1Oe-VZITdgGI2TF4yCVY_mlG9Kfjmsw5E-oGsSx07h_Erxl4sAp5D1MaR1Zl_nECWZ7AE-qbcXZXCG",
+   "source": "SeLoger",
+   "titre": "2 pièces • Pontoise 95300 Quartier Saint-Martin",
+   "prix": 199000,
+   "surface": 42.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "f6f9aa4ef1",
+   "premier_vu": "2026-11-23T18:49:30+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWgcy58CWsGtQlT0Jp3JVj-fuwdoVDAuFOD_F0D_7iA9DYmwjgSILmkIdsYzYRf0Q-jODyIgUL9ty5a6gWIlkYNeB4MmZw8EUVH3_VL28gah43",
    "source": "SeLoger",
