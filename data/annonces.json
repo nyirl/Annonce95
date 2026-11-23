@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-23T09:40:26+00:00",
+ "maj": "2026-11-23T10:55:56+00:00",
  "annonces": [
+  {
+   "prix": 159000,
+   "surface": 59.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "url": "https://www.pap.fr/annonces/-r447101622",
+   "source": "PAP",
+   "titre": "Argenteuil (95100) Vente appartement 3 pièces 59 m² 159.000 € Voir l'annonce",
+   "id": "7e538bb144",
+   "premier_vu": "2026-11-23T10:55:56+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVTMP77N_n344vUZwYldYJtWkXbqkdj0Cq9kITeYhm5quprmXQPVsKwViWNr2sLLzXqxgyjcR5VlXHzIce57EkRrbpnCPHpF5TjZJ_itFjXQ",
    "source": "SeLoger",
@@ -6815,7 +6827,7 @@
    "cp": "95320",
    "id": "b00a390dd7",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-22",
+   "vu": "2026-11-23",
    "autres": [
     {
      "source": "SeLoger",
@@ -6832,6 +6844,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-561696266"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562114400"
     }
    ]
   },
