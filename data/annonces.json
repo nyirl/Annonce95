@@ -1,6 +1,66 @@
 {
- "maj": "2026-11-23T11:47:18+00:00",
+ "maj": "2026-11-23T12:57:56+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61700566",
+   "source": "Bien'ici",
+   "titre": "Appartement de caractère dans un cadre prestigieux à L'Isle-Adam",
+   "prix": 398000,
+   "surface": 90.75,
+   "commune": "L'Isle-Adam",
+   "cp": "95290",
+   "id": "7a9fbf7254",
+   "premier_vu": "2026-11-23T12:57:56+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag757613-562151459",
+   "source": "Bien'ici",
+   "titre": "Argenteuil hyper-centre – Appartement familial de 4 pièces avec terrasse de 14 m² et parking en sous-sol",
+   "prix": 299000,
+   "surface": 72.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "9f16265725",
+   "premier_vu": "2026-11-23T12:57:56+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87622804",
+   "source": "Bien'ici",
+   "titre": "APPARTEMENT T6 DUPLEX D'EXCEPTION — CERGY (95000) — 152 M² EN DERNIER ÉTAGE AVEC TERRASSE DE 80 M² & 2 PARKINGS — FRAIS ",
+   "prix": 438000,
+   "surface": 151.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "3b26bd6bff",
+   "premier_vu": "2026-11-23T12:57:56+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2164364",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 148000,
+   "surface": 74.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "1470e7df50",
+   "premier_vu": "2026-11-23T12:57:56+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2162056",
+   "source": "Bien'ici",
+   "titre": "Vente Studio 1 pièce",
+   "prix": 182000,
+   "surface": 34.75,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "5e7e9b8b71",
+   "premier_vu": "2026-11-23T12:57:56+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVjVcd78QgcalDA798n3dzygdL3DjJUMO3f1X1SDxhX27VTV9aDEQ29AgqSNxy_I6bdpmow75xi8TjUZIlaDpcrhgqcNXnHO5_tIacZuBZNrUe",
    "source": "SeLoger",
@@ -39568,6 +39628,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag133861-559233029"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag133861-562131188"
     }
    ]
   },
@@ -39586,6 +39650,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag133861-559233131"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag133861-562132034"
     }
    ]
   },
@@ -59169,7 +59237,13 @@
    "cp": "95880",
    "id": "20c14453c5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-23"
+   "vu": "2026-11-23",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag440414-562136939"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5471204",
