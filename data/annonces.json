@@ -1,6 +1,66 @@
 {
- "maj": "2026-11-23T04:31:50+00:00",
+ "maj": "2026-11-23T05:04:29+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-561646289",
+   "source": "Bien'ici",
+   "titre": "T2 - Osny",
+   "prix": 245000,
+   "surface": 45.0,
+   "commune": "Osny",
+   "cp": "95520",
+   "id": "017cfe8ee9",
+   "premier_vu": "2026-11-23T05:04:29+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-560835161",
+   "source": "Bien'ici",
+   "titre": "T4 - Jouy-le-Moutier",
+   "prix": 267000,
+   "surface": 75.0,
+   "commune": "Jouy-le-Moutier",
+   "cp": "95280",
+   "id": "4dea5acc71",
+   "premier_vu": "2026-11-23T05:04:29+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-561643430",
+   "source": "Bien'ici",
+   "titre": "T4 - Luzarches",
+   "prix": 327000,
+   "surface": 81.0,
+   "commune": "Luzarches",
+   "cp": "95270",
+   "id": "0406773eb4",
+   "premier_vu": "2026-11-23T05:04:29+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-562073039",
+   "source": "Bien'ici",
+   "titre": "T5 - Saint-Leu-la-Forêt",
+   "prix": 359000,
+   "surface": 99.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "ef00ae4b5c",
+   "premier_vu": "2026-11-23T05:04:29+00:00",
+   "vu": "2026-11-23"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-560841170",
+   "source": "Bien'ici",
+   "titre": "T3 - Montmorency",
+   "prix": 400000,
+   "surface": 58.0,
+   "commune": "Montmorency",
+   "cp": "95160",
+   "id": "60183e3bb0",
+   "premier_vu": "2026-11-23T05:04:29+00:00",
+   "vu": "2026-11-23"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2163156",
    "source": "Bien'ici",
@@ -7617,7 +7677,13 @@
    "cp": "95270",
    "id": "06fda13ca0",
    "premier_vu": "2026-11-14T10:38:55+00:00",
-   "vu": "2026-11-16"
+   "vu": "2026-11-23",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-560838458"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-559958060",
