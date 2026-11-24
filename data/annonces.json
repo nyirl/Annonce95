@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-24T20:44:31+00:00",
+ "maj": "2026-11-24T21:47:32+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag340369-562514483",
+   "source": "Bien'ici",
+   "titre": "Appartement à vendre 4 pièces PONTOISE (95)",
+   "prix": 170000,
+   "surface": 85.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "3147871ed1",
+   "premier_vu": "2026-11-24T21:47:32+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag603844-562509080",
+   "source": "Bien'ici",
+   "titre": "BEAUMONT SUR OISE",
+   "prix": 157500,
+   "surface": 43.0,
+   "commune": "Beaumont-sur-Oise",
+   "cp": "95260",
+   "id": "9def0137b5",
+   "premier_vu": "2026-11-24T21:47:32+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFY5dfFRI7kTT83p-lL3fcjzgvHzmI1Q_PpJQ7fUdsfMWyWQBONL9MJKtPTNcZSYaPJcM3EcTt-bud5qHbN0mnspNcxqYw5QMyGWG7PAlBzu606",
+   "source": "SeLoger",
+   "titre": "Retour à la vente ! Le Plessis-Bouchard – T2 neuf ...",
+   "prix": 183128,
+   "surface": 41.0,
+   "commune": "Le Plessis-Bouchard",
+   "cp": "95130",
+   "id": "6ccbe4f324",
+   "premier_vu": "2026-11-24T21:47:32+00:00",
+   "vu": "2026-11-24"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFY3F6m7PY3F-IjEBXBqrP6KfMQ6ng9CsY-Dq9z1J7S-QlQrAldqivGP3XiEHjkhlqCIPbQf3NVvKRw0qnvlxqEnm2lSdlMdwMQUXuynCBm4tnA",
    "source": "SeLoger",
