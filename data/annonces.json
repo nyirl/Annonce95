@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-24T16:56:26+00:00",
+ "maj": "2026-11-24T17:46:33+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYiMxJkwCOBxSHJUE03YLnmVOgwnAIll-x0SMo9WlJKFX7EOjH52hvWj-vPMG7BlSw4vBl0UcMZ9r-it2jkoFrNBCSZ0axH4ci8IBbOakk921J",
+   "source": "SeLoger",
+   "titre": "PONTOISE - PARKING - CAVE",
+   "prix": 147000,
+   "surface": 52.77,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "2797b7d5b9",
+   "premier_vu": "2026-11-24T17:46:33+00:00",
+   "vu": "2026-11-24"
+  },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61789750",
    "source": "Bien'ici",
@@ -83,7 +95,13 @@
    "cp": "95000",
    "id": "a99a8d1e3d",
    "premier_vu": "2026-11-24T14:39:10+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYqcEvxEzLg7geRAAugmwQhWLQUqSvedzKAdBg3quRNayOa26MYOd8CiLH97W8ugtU52ywTAJKMfTk0LXzPdlUGlCbNAywy6MxnL3zvRYuhaiy"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2164549",
@@ -6292,6 +6310,14 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXp9ad9Og5ky31Z3qfpgqdkuA8ztiZn6_P_QJMQ2bpl2jRUpDc10C7UcvYvzqKH1p7YclsQuApRKyqgiOOPn7JpikUO2j_a_Cymsq09rpQLt2Qdw"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYiMxJmdbzwsHLhTNLAPmcPOC1YhJFmZQqR-VOJp5NC8g-fj56I-eoC9ehVsbe-36LTRe_-NKVZRlLdbvyl0gkGKpM88hTBMB0-a5YpOWPGjZy"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYnBfYoW5dW7lnNCdDTUnloKKje13jQak436IapkaCCKig4dtWKgFUHB1gnWngIC3-2Dd1xNznueakt0TvZNOceR-LbsG8cgqjn4po3ZeuQ0Xd"
     }
    ]
   },
@@ -7632,6 +7658,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXp9ad7nzSIChjPKnTDTSYMiwo5gDXv3vTjbqEl9d2X_ykTQ5Kbc1HZ37wjO9qwdqlQodtOZjgQLQu_1eRJcZJ3TQK4dt3S3FqD1APtohTuXQYPQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYiMxJnyMStxYUm580HaRv97orljNODle0TXoA1HAC56oaogy8sIrU-hVuG3zifSiHkEBUG7QQJ9nf1N0klmwaaxUZL1iwIEyzfHNaBnscjWy4"
     }
    ]
   },
@@ -20407,7 +20437,13 @@
    "cp": "95300",
    "id": "9b93f29000",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYnBfYm7qlb1lIpDReFE6DrBU8kPHM9XODzreqU3ml5Z7QimvyGoUGbEiRT5jLwWMMyMfKVlTenrzUsaFcYjNr26o1HXjy0ag__6jMhR8gJWW2"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag340369-537675068",
