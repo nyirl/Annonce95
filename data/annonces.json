@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-24T08:59:24+00:00",
+ "maj": "2026-11-24T10:06:01+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag781419-562363829",
+   "source": "Bien'ici",
+   "titre": "PIERRELAYE – Studio de 28 m² avec jardin et stationnement – Résidence de 2021 – DPE B",
+   "prix": 124900,
+   "surface": 28.0,
+   "commune": "Pierrelaye",
+   "cp": "95480",
+   "id": "83a38c5e10",
+   "premier_vu": "2026-11-24T10:06:01+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag781419-562359443",
+   "source": "Bien'ici",
+   "titre": "HERBLAY – Appartement 2 pièces de 41 m² avec balcon et stationnement – DPE B",
+   "prix": 202000,
+   "surface": 41.0,
+   "commune": "Herblay",
+   "cp": "95220",
+   "id": "7dccfedae0",
+   "premier_vu": "2026-11-24T10:06:01+00:00",
+   "vu": "2026-11-24"
+  },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNFRPI281474977577820",
    "source": "Bien'ici",
@@ -50511,7 +50535,13 @@
    "cp": "95240",
    "id": "7de39c10c6",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/gedeon-34259437"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/gedeon-34097156",
