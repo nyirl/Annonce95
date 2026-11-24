@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-24T14:39:10+00:00",
+ "maj": "2026-11-24T15:42:35+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61736967",
+   "source": "Bien'ici",
+   "titre": "Appartement 2 pièces avec balcon et parking",
+   "prix": 155000,
+   "surface": 44.0,
+   "commune": "Éragny",
+   "cp": "95610",
+   "id": "8c026ae98f",
+   "premier_vu": "2026-11-24T15:42:35+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ladresse-1-adresse-14707783",
+   "source": "Bien'ici",
+   "titre": "MAGNIFIQUE F2 PLEIN SUD DE PLUS DE 60 M² !",
+   "prix": 178500,
+   "surface": 62.65,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "068a8325c7",
+   "premier_vu": "2026-11-24T15:42:35+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939821397",
+   "source": "Bien'ici",
+   "titre": "Appartement Ermont 2 pièces 44m² avec box en sous-sol cave",
+   "prix": 205000,
+   "surface": 44.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "890998da02",
+   "premier_vu": "2026-11-24T15:42:35+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYN71-MKbc8K0aNvZqgr-fmxytBf1Bw9UXp6AHet5kxlAs2mSkqB1sNnNp7dd0180ZWviH434SIm2ZGrx2uF_ydeUueqwgaZgoERb0dyvABZst",
+   "source": "SeLoger",
+   "titre": "Appartement à vendre Osny",
+   "prix": 169900,
+   "surface": 51.0,
+   "commune": "Osny",
+   "cp": "95520",
+   "id": "eea83e58ec",
+   "premier_vu": "2026-11-24T15:42:35+00:00",
+   "vu": "2026-11-24"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2160576",
    "source": "Bien'ici",
@@ -4101,7 +4149,13 @@
    "titre": "155 000 € 3 229 €/m² Pro Appartement · 2 pièces · 48 m² Balcon · Parking Centre-",
    "id": "a7e9afbfc7",
    "premier_vu": "2026-11-18T08:38:20+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYHrjs9qkI_Mgc6rOfOs0jzwZifQdRnaQdgRiynsW0Zo6vawvgjLGJBdI7burf7UJVc3KJXMhbnUyZVKkv9RAga_d7aL8-Yn9_fNHddaYIDQ"
+    }
+   ]
   },
   {
    "prix": 193500,
@@ -5869,7 +5923,13 @@
    "cp": "95320",
    "id": "4f9ab1545c",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYBzaYkiQleIWmCOKObAGQDYXRgmAOxQPgsRIXwif5udYtYZVuLICxqEbCT7qhzP5ieto_xLwTamg8tnUsdtWJOJ70D_jj3Srwpydc8LhYzAgz"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFJUoqhFKiId4W_0WepTATbvcwweEY7HVGVYE8kY3ZnDyGK-rWSNBx_T_LEOciBg60jyq7Wrp2hB_s7BBAgEky5pJD2nqWabp0PuwkkkKo8",
@@ -23191,7 +23251,13 @@
    "cp": "95610",
    "id": "c648a98af3",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYKnfKAYdF3ORO3H3Bqnme9Wu8xvr18QKFeXA7xs2reNMFk6VAQKvhVcYIzNvM6w5RJEhU3jYDo6TdZ3GdOxeGm4a8Q40RdjwDxYf6x4MhQdtP"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2123741",
@@ -25324,6 +25390,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNWABE281474977577456"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYH9r-icwVeoHPfw92_47Ve3ZfQKpXjpxrWdLkfdRFPbKfdFVMya5OhWWbxnAYOZ8yEb55mnUeJd9Jg0BSErBWSxmqT1vT2bAIoPyHnRNY5Ndn"
     }
    ]
   },
@@ -25460,6 +25530,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNQUPO281474977572949"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYBzaYjH89b0Hx6GoL5jeqtFQgSUdHRqJKRXVSvD4o6XT4Uz_nfjt8MP4bVz6w9NmFmnTG-OGRbGvGxvI2nUrOc7q6VnUU7eOhPa4jEszln_a7"
     }
    ]
   },
