@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-24T04:22:04+00:00",
+ "maj": "2026-11-24T06:30:51+00:00",
  "annonces": [
+  {
+   "prix": 155000,
+   "surface": 32.0,
+   "commune": "Champagne-sur-Oise",
+   "cp": "95660",
+   "url": "https://www.pap.fr/annonces/-r463702144",
+   "source": "PAP",
+   "titre": "Champagne-sur-Oise (95660) Vente appartement 2 pièces 32 m² 155.000 € Voir l'ann",
+   "id": "b15e277864",
+   "premier_vu": "2026-11-24T06:30:51+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "prix": 150000,
+   "surface": 25.0,
+   "commune": "Champagne-sur-Oise",
+   "cp": "95660",
+   "url": "https://www.pap.fr/annonces/-r463702149",
+   "source": "PAP",
+   "titre": "Champagne-sur-Oise (95660) Vente appartement 2 pièces 25 m² 150.000 € Voir l'ann",
+   "id": "04a35f28ab",
+   "premier_vu": "2026-11-24T06:30:51+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "prix": 165000,
+   "surface": 44.0,
+   "commune": null,
+   "cp": null,
+   "url": "https://www.pap.fr/annonces/-r464900392",
+   "source": "PAP",
+   "titre": "Cergy (95) Vente appartement 2 pièces 44 m² 165.000 € Voir l'annonce",
+   "id": "6093abbc1b",
+   "premier_vu": "2026-11-24T06:30:51+00:00",
+   "vu": "2026-11-24"
+  },
   {
    "url": "https://www.bienici.com/annonce/hektor-APOGEE-11911",
    "source": "Bien'ici",
@@ -95,7 +131,13 @@
    "cp": "95150",
    "id": "ec2f3b31be",
    "premier_vu": "2026-11-23T21:42:02+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXBj25UvVOf_C7YY29FlbzDqQBBS-H2JvedWRuzfvuyj_mIx-XulZAOGWuekmfbQs8eWFFl6lh64-K252lpEVtbEAdsiY_luqwwwNJh3Pw8FTv"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2166440",
@@ -971,7 +1013,13 @@
    "cp": "95300",
    "id": "1557a0d073",
    "premier_vu": "2026-11-21T11:58:46+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXDf9ouE91TkLHJS_GWZDKw-YV8HrG04CpC_wXXXE94Jr-a1TArUOa1f4up38sudM64aumY541QhGFE_25toOnrlzk7FTeQCqpW8Cfp-mZQ5Tt"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTFX8WLB7acjlMICQgb4sjtpLZZWnuWl54aNrtC0YWFYDHKW3qSum17o3uqQgVz-L1nGNyyabfEiJQwdoKFADTyIHVxprxxZWTyoBdXO9NcqiE",
@@ -33394,6 +33442,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHSNcaa8rdx5LiCvfQr5uwHp5uUN5GR3_zz0NVJU0hxz6ISaGxRTAFhoca8qO_pS5HoiSTZqz3DEIrt_MWfNzafbDxG0s8VD3S_6HS6iRWLA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXADZ2PTqEayJzc9XoPBFLvBnQaa2v1ZGOjw5C1lgsJa87QDu4QBA5EsLSXtziMN6fKaYF-pMryHz838TPSzcEGejc31XCf04GQ-UaAxxDlA"
     }
    ]
   },
