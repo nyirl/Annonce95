@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-24T00:48:20+00:00",
+ "maj": "2026-11-24T04:19:16+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61671730",
@@ -6735,7 +6735,7 @@
    "cp": "95000",
    "id": "6e9e6be5e5",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-23",
+   "vu": "2026-11-24",
    "autres": [
     {
      "source": "SeLoger",
@@ -6744,6 +6744,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRgGLVxAQ-2rb9gkBKuicfFGST2Rg9Ql-QxuxJLa9PGTIwOAeV8gB2sd54FO1C_Ny0MR395-AbLe_OmoDMEeP2tVRGE3hXbShGk6cW4Si6Noft"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFW6OjjihsMGU3uzeHezekpmoe-J3NoP08FVDVzXN1DC5fZdY5CB_emHgVA-rV0cEaDuldo4-CtawHrvEPEsM8qnhUqvvfPMePrjwjxwzcRBh0EKQ"
     }
    ]
   },
@@ -6980,6 +6984,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWv96GT8hRvhd6RFGeNaXHocW0HZn4CJoxUDbZze89Aqru41g0orRdoji2g_cFWCyaTRGqkzK1CkTW_iqZSOMfg2wljHPtLP1WEA-okRgmT_kb"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFW6OjjkD1H6qn7-Skx5XVgsHxe8jbblyRn_Mr5JiwHjcPuHdLCHQqkHsMfpqAdkqkDi5swsMhF6KTvkX_tLm--a4m26B_XjbiMXR1CGwOTRHg1Gg"
     }
    ]
   },
@@ -7058,6 +7066,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSXxzzAWKt1k7UxvrnWRSRbkarPiX-IQM5BGiLp9D2f72LamTh9yD8DXn5T8fP0nWrHmzIINQf2UcHzn_QzCN5Fw2ZB6jtYuTjLWysu4T0nWbXzg"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFW6OjjnPY32c2OkaTRD9XElztnmLAxP-UQo_CwErIuei4uJL8M3q9IirnPYBdOg8jggp96r_jIruSwjFf_gUjOJqUg1oOCB0Ea8ZIWHeKNnuHiYA"
     }
    ]
   },
@@ -11487,7 +11499,13 @@
    "cp": "95000",
    "id": "6fb4998e03",
    "premier_vu": "2026-11-08T14:45:11+00:00",
-   "vu": "2026-11-23"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFW6OjjoqtjA92bfj7S6_0pwfDFpjDagPSHu5LhNFlWbhRGFcJ464rNkD8DhJ3Q3cElnomDv20S3TtlGACR93LXzhNgvxb5KB8VbhHfg1Sgm3Xb-A"
+    }
+   ]
   },
   {
    "prix": 181900,
@@ -26057,7 +26075,13 @@
    "cp": "95310",
    "id": "ad5a933414",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-23"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFW6OjjljEsU6gpoMkOAG5-sjxWOJbmizmXl3rqiG7_qeNeXgwpUeDqHOIcI7T0LX84eAlKFZpYmK3OxqtX7LQxbZ2uFxdgjFIXhRF62TkN0oDWhQ"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/laforet-immo-facile-52975197",
