@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-24T17:46:33+00:00",
+ "maj": "2026-11-24T18:47:27+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/laforet-immo-facile-53041359",
+   "source": "Bien'ici",
+   "titre": "PONTOISE (95) - BEL APPARTEMENT 4 PIECES AVEC DEUX PLACES DE PARKING",
+   "prix": 265450,
+   "surface": 77.86,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "7a0dfc6918",
+   "premier_vu": "2026-11-24T18:47:27+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87632849",
+   "source": "Bien'ici",
+   "titre": "T3 SUD OUEST TERRASSE PARKING",
+   "prix": 259000,
+   "surface": 67.0,
+   "commune": "Jouy-le-Moutier",
+   "cp": "95280",
+   "id": "d23c031ed0",
+   "premier_vu": "2026-11-24T18:47:27+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87632822",
+   "source": "Bien'ici",
+   "titre": "T4 SUD OUEST TERRASSE 2 PARKING",
+   "prix": 315000,
+   "surface": 82.0,
+   "commune": "Jouy-le-Moutier",
+   "cp": "95280",
+   "id": "6fbb981184",
+   "premier_vu": "2026-11-24T18:47:27+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYtgqCUhwJgEFelLYwJTqCGl_EtpAbSI3ZHn73Qalh8EMZYG5iovixToD7F5yJzWP6i5ZRrOFzEOHO928_y63foxV1ML6r3Qz0lrwOS7IirgTF",
+   "source": "SeLoger",
+   "titre": "FRANCONVILLE - 1' GARE - 2 pièces 39 m²",
+   "prix": 179900,
+   "surface": 38.69,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "7627df8f19",
+   "premier_vu": "2026-11-24T18:47:27+00:00",
+   "vu": "2026-11-24"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYiMxJkwCOBxSHJUE03YLnmVOgwnAIll-x0SMo9WlJKFX7EOjH52hvWj-vPMG7BlSw4vBl0UcMZ9r-it2jkoFrNBCSZ0axH4ci8IBbOakk921J",
    "source": "SeLoger",
@@ -59,7 +107,13 @@
    "cp": "95300",
    "id": "068a8325c7",
    "premier_vu": "2026-11-24T15:42:35+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ladresse-1-adresse-14710927"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/nestenn-1-99939821397",
@@ -2843,7 +2897,7 @@
    "cp": "95120",
    "id": "e1142688d4",
    "premier_vu": "2026-11-19T15:48:53+00:00",
-   "vu": "2026-11-22",
+   "vu": "2026-11-24",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2852,6 +2906,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-561914219"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562462598"
     }
    ]
   },
@@ -2865,7 +2923,7 @@
    "cp": "95120",
    "id": "57fa94208b",
    "premier_vu": "2026-11-19T15:48:53+00:00",
-   "vu": "2026-11-22",
+   "vu": "2026-11-24",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2874,6 +2932,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-561914246"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562462490"
     }
    ]
   },
@@ -2887,7 +2949,7 @@
    "cp": "95120",
    "id": "b6026e1ec6",
    "premier_vu": "2026-11-19T15:48:53+00:00",
-   "vu": "2026-11-22",
+   "vu": "2026-11-24",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2896,6 +2958,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-561914261"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562462412"
     }
    ]
   },
@@ -3831,7 +3897,7 @@
    "cp": "95120",
    "id": "d4d347b963",
    "premier_vu": "2026-11-18T11:54:51+00:00",
-   "vu": "2026-11-22",
+   "vu": "2026-11-24",
    "autres": [
     {
      "source": "Bien'ici",
@@ -3844,6 +3910,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-561914282"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562464290"
     }
    ]
   },
@@ -3857,7 +3927,7 @@
    "cp": "95120",
    "id": "5270f4df25",
    "premier_vu": "2026-11-18T11:54:51+00:00",
-   "vu": "2026-11-22",
+   "vu": "2026-11-24",
    "autres": [
     {
      "source": "Bien'ici",
@@ -3870,6 +3940,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-561914309"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562462307"
     }
    ]
   },
@@ -43925,7 +43999,13 @@
    "cp": "95550",
    "id": "1bf38dd7d6",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-15"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/nestenn-1-99939812363"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag755942-546858797",
