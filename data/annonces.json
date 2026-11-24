@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-24T13:37:31+00:00",
+ "maj": "2026-11-24T14:39:10+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2160576",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 159500,
+   "surface": 66.78,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "a99a8d1e3d",
+   "premier_vu": "2026-11-24T14:39:10+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2164549",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 219000,
+   "surface": 41.0,
+   "commune": "Arnouville",
+   "cp": "95400",
+   "id": "67eea0741c",
+   "premier_vu": "2026-11-24T14:39:10+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "prix": 105000,
+   "surface": 25.0,
+   "commune": null,
+   "cp": null,
+   "url": "https://www.pap.fr/annonces/-r465200939",
+   "source": "PAP",
+   "titre": "Pontoise (95) Vente appartement 2 pièces 25 m² 105.000 € Voir l'annonce",
+   "id": "80b951c532",
+   "premier_vu": "2026-11-24T14:39:10+00:00",
+   "vu": "2026-11-24"
+  },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1744165",
    "source": "Bien'ici",
@@ -3934,6 +3970,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNWABE281474977577454"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYDHa8wSaLy3BSMz_KNCH1Yn304Vmj9c2_2WXPQYX0EUjAy7M2RpokbQ31yaCWZsgr9c99uycF72O_3dCHK-CLFgs2uwhFqa7KOQqL_izS--TP"
     }
    ]
   },
@@ -25132,6 +25172,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNQUPO281474977572952"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYCwAadDZZipGg04ekftXI5FO68sxBPiguNmc05RhhQDmsSteW2w5-MiNFE2evLBPZ5kTQi4YamjshyqXoPsFP8JBolgOGxOfT4-lXiPCV2_EF"
     }
    ]
   },
@@ -25908,6 +25952,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977577582"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYBwxwMSKJ773qaGCEyDKkt6fcLRTw-OmB1pRkbP9tdFbUHgUUZEK1HYHNzuiwSRBTCy_DIW64Hm4YDLWMizDQWDA6F4tQV-8uiq2w0MnyqkCG"
     }
    ]
   },
@@ -40713,7 +40761,13 @@
    "cp": "95370",
    "id": "c65d6a9a59",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFX900KoTwRRnwwm1jZ75Tg_MWnWykaV_ZBSoIlJPXkD4cpZY57L0zBE3rmOhDMsCRuUmx29OA5IrAnHUFozi23jA86chVcV9ERMvELyCAHWAgh"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag440414-556780823",
