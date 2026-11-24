@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-24T10:06:01+00:00",
+ "maj": "2026-11-24T11:10:12+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/flatbay-94746",
+   "source": "Bien'ici",
+   "titre": "Appartement T3 de 58 m² avec balcon",
+   "prix": 200000,
+   "surface": 57.72,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "1350c4ce90",
+   "premier_vu": "2026-11-24T11:10:12+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562375049",
+   "source": "Bien'ici",
+   "titre": "Beau 3 pièces traversant de 62 m² avec deux balcons",
+   "prix": 306000,
+   "surface": 61.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "28138f9ce8",
+   "premier_vu": "2026-11-24T11:10:12+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXmR06FqUvowDoxzFu3k0j81VsafuhZ9V3kHMdgzQ7VOZ3lGUsN-lJPLIGqVJ42BUI7IqfIKjvaN1yROD4ZP5McP__R1cwSc4GjkHW5DLKCFlp",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces",
+   "prix": 153700,
+   "surface": 43.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "5cc77a21b1",
+   "premier_vu": "2026-11-24T11:10:12+00:00",
+   "vu": "2026-11-24"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag781419-562363829",
    "source": "Bien'ici",
@@ -6608,6 +6644,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWG3zjK0HZF2iOhf2fAMrXVuQyNNOT3X1uLyKFkDhkIuBG3MRkByrZhBPjVgmT0FMaWrF4lKMR8lCiBHv_Xrri-qX_Od9aH8-64-MyvZLjmiDT"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXbmEatkEzUCBPJij4Y19zzo8i8yw93zIArEeUACuvemNRkAvXL2xXZVEz07fYRSsNNswEcVYaMW0kALy7ilXpQ8KEpBYBvwuT1Og5ApMjQ7UPgA"
     }
    ]
   },
@@ -13163,11 +13203,15 @@
    "cp": "95870",
    "id": "591cb5f249",
    "premier_vu": "2026-11-06T21:14:49+00:00",
-   "vu": "2026-11-16",
+   "vu": "2026-11-24",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-560426015"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562374188"
     }
    ]
   },
@@ -13181,11 +13225,15 @@
    "cp": "95870",
    "id": "b3ab597949",
    "premier_vu": "2026-11-06T21:14:49+00:00",
-   "vu": "2026-11-16",
+   "vu": "2026-11-24",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-560426372"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562374539"
     }
    ]
   },
@@ -13199,11 +13247,15 @@
    "cp": "95870",
    "id": "51c0a41ad4",
    "premier_vu": "2026-11-06T21:14:49+00:00",
-   "vu": "2026-11-16",
+   "vu": "2026-11-24",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-560426180"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562374398"
     }
    ]
   },
@@ -13217,11 +13269,15 @@
    "cp": "95870",
    "id": "b9f9887da4",
    "premier_vu": "2026-11-06T21:14:49+00:00",
-   "vu": "2026-11-17",
+   "vu": "2026-11-24",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-560426510"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562374767"
     }
    ]
   },
@@ -13253,11 +13309,15 @@
    "cp": "95870",
    "id": "2566a2e1cd",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-16",
+   "vu": "2026-11-24",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-560425832"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562374035"
     }
    ]
   },
@@ -21159,7 +21219,13 @@
    "cp": "95610",
    "id": "f29470d5fd",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXbmEapG4MTrNWLIYQ0G-CbCcXvFhGB_2ihooKrD9nhX3-qrDwv2l2UGpfcrtNbxmS5UHFxmiqOc09jE1ysvI3x32ntkqbEeTG34AyqwLB3OHN9A"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2004023",
@@ -32796,6 +32862,10 @@
     {
      "source": "Leboncoin",
      "url": "https://www.leboncoin.fr/vi/3211846406.htm"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXbmEarX5pAy1wssYiJj6GWD69R8oOElpe-80JXVPBUKkm2hIUxK0FtMej40uw8Hh-TVInfPPa1gQBZLT3MzXUjke0CQKHP-Vd6uWErTunCToTWg"
     }
    ]
   },
