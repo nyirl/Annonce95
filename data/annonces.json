@@ -1,6 +1,66 @@
 {
- "maj": "2026-11-24T12:15:49+00:00",
+ "maj": "2026-11-24T13:37:31+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1744165",
+   "source": "Bien'ici",
+   "titre": "3P - lumineux - terrasse - dernier étage - parking",
+   "prix": 199000,
+   "surface": 73.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "ae733288cf",
+   "premier_vu": "2026-11-24T13:37:31+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1746139",
+   "source": "Bien'ici",
+   "titre": "Appartement de 3 pièces, à 2 pas de la gare avec 2 box.",
+   "prix": 229900,
+   "surface": 64.0,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "712c01b203",
+   "premier_vu": "2026-11-24T13:37:31+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1743833",
+   "source": "Bien'ici",
+   "titre": "ARGENTEUIL – GRAND T2 DE 60 M² ENTIÈREMENT RÉNOVÉ – AUCUN TRAVAUX À PRÉVOIR",
+   "prix": 240000,
+   "surface": 61.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "a6633f9ac3",
+   "premier_vu": "2026-11-24T13:37:31+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag343450-562397594",
+   "source": "Bien'ici",
+   "titre": "Appartement À Vendre",
+   "prix": 199000,
+   "surface": 98.0,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "id": "79fa2543ea",
+   "premier_vu": "2026-11-24T13:37:31+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFX3roC2h3o_Clv3hpRFLThH4qo0RPQ_Tg22R3XcuupMLHmbBehbs60WhlxB8MvB06nbjVFD8h4ZN1tX4GhtUzPWLRT_Fa7BovW4NsyRWzJvU11",
+   "source": "SeLoger",
+   "titre": "T2 PONTOISE LUMINEUX EXPOSE SUD",
+   "prix": 160000,
+   "surface": 40.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "b39e13aa32",
+   "premier_vu": "2026-11-24T13:37:31+00:00",
+   "vu": "2026-11-24"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag756981-562380065",
    "source": "Bien'ici",
@@ -2732,6 +2792,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWyTENCKmqkRiZ6GHxOuK39R1lHh3HvtTkIGYsKVjc-sU5CkkHjBltEflpBfys-fW8dCkn1HzCXRCzY6jay6eVqgr-GhnbTrwwts93zvCUeqsj"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFX5KNU_rE5taWBG0zC3iXonQ1GKmDoVY6FBoQNF6nNIYKqcA8WFscRXvJk1xvPBL8lMwn0mZjl2GIH1s3O9uuZ_KcATuRKX__yPoXC_9YFsoRH"
     }
    ]
   },
@@ -6953,7 +7017,13 @@
    "cp": "95300",
    "id": "a517fd1e7f",
    "premier_vu": "2026-11-15T08:25:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFX5KNVBBSpLG-xALJbVPF2e9MnNs9bTMXM3ivSaFa9A2BOsYeDREqpcFa2VPSOcwTYck_LgHNMG4NAPqCKAKaQ1SuIe11qoqucWtt_KI4Qyxqo"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_2950_9297",
@@ -36095,7 +36165,13 @@
    "cp": "95110",
    "id": "5ed34dce78",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61788124"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_3172_2075",
