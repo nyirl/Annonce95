@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-24T19:54:35+00:00",
+ "maj": "2026-11-24T20:44:31+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFY3F6m7PY3F-IjEBXBqrP6KfMQ6ng9CsY-Dq9z1J7S-QlQrAldqivGP3XiEHjkhlqCIPbQf3NVvKRw0qnvlxqEnm2lSdlMdwMQUXuynCBm4tnA",
+   "source": "SeLoger",
+   "titre": "Appartement type T3",
+   "prix": 165000,
+   "surface": 60.15,
+   "commune": "Montigny-lès-Cormeilles",
+   "cp": "95370",
+   "id": "c581e19aee",
+   "premier_vu": "2026-11-24T20:44:31+00:00",
+   "vu": "2026-11-24"
+  },
   {
    "url": "https://www.bienici.com/annonce/gedeon-34261204",
    "source": "Bien'ici",
@@ -23,7 +35,13 @@
    "cp": "95130",
    "id": "41d85549d6",
    "premier_vu": "2026-11-24T19:54:35+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFY4KayAs8ePiiy7NHKNt-WNy7ORmb0H_LrqclZh7hs7j99YmDwhr0eGnlIF-CbbdUDj_3jB3KhSY3KKj4srfPnRQEvcRwmM7oVxO5SMKzb7OU_"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT1152-2672",
@@ -7828,6 +7846,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSXxzzE6LhQsc839BOC8OaSbcKAckX0weQ231x3jl-0F29yZTLLpxCG3jD32Vb68rbMTUgoLbWUCcxQ4l4cFLPQFRZ9DTuHAEqYz3wEImI-YvyHA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFY3F6nA6pmeBBH1ZX5OQ1utAWLkwvmA4JdHXVuiDTUUL3mv5CCcTAznkAHapBq_NzrvwmevQUN2cuR7-BLTlvabRQ84B7D1lmrGcdRiPDX4kSJ"
     }
    ]
   },
@@ -23889,7 +23911,13 @@
    "cp": "95290",
    "id": "ac8cee4176",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFY3F6m2xF9lA7G39_uj10Uc2gj5d5hbT4SjPbmy4s39Ef-xaW8XA-f_ZJOLwMV-sBxgQwW7LnIpOqSzOzLDLIoWf0tBx_r1RX6So6WtYSThAFX"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2105581",
