@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-24T15:42:35+00:00",
+ "maj": "2026-11-24T16:56:26+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61789750",
+   "source": "Bien'ici",
+   "titre": "Appartement Ecouen - 4 pièces - 3 chambres - 82 m² - Balcon",
+   "prix": 218000,
+   "surface": 82.79,
+   "commune": "Écouen",
+   "cp": "95440",
+   "id": "596165d84c",
+   "premier_vu": "2026-11-24T16:56:26+00:00",
+   "vu": "2026-11-24"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYX1URJ7fpxVnTArlKfghDzo-_GRmxTrmmUmHXrhKvmuAjDjl0WeL0UqreiPiifvDEhPfRjaa8yp_qUm9PMLh3cf8j-z9YCJSv_dX9SSW6_0JB",
+   "source": "SeLoger",
+   "titre": "Cergy – Appartement 2 pièces de 51 m² avec extérie...",
+   "prix": 186000,
+   "surface": 51.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "7cd8f62813",
+   "premier_vu": "2026-11-24T16:56:26+00:00",
+   "vu": "2026-11-24"
+  },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61736967",
    "source": "Bien'ici",
@@ -3853,7 +3877,13 @@
    "cp": "95560",
    "id": "c4a059a9a9",
    "premier_vu": "2026-11-18T11:54:51+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-24",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYX1URITdqe66DbznAMBNgyR007KYmGEd47R05RA0xqs1hp3sr2dPFWQBDWRPOe5Wktnenr7vBYUZ9C8VbFY1CZkl3LXiQZxLFyfYixjOhVyQl"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFMHgyF2zHtEyHGIFcGAgvZ88eKduq_Zv2h04W79VECZbN8Nlk37daE6DDMOf_UdvG40w5swiRqG6fQaX431bZrPs-5nBSg3ikaoHc8HxptE0P4",
@@ -4782,6 +4812,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFV-Grl86aNi-YSP6CZKaP7Hnrf3PkWm50A-nuFj3uF-1aPlu0GKZtebJ0JRg8XMYu9q1sb3VV3aQ8PyP-iAtE1--xnqbpbispigHm0pF1smmq7"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYX1URLXs8dA_IETh5VufyQNeaC_NC1P-oJ7AbJ1x-kXhxwu8oKhMrDqKjqZuba9-9o0Mfrw-4NbEI0Jq4nK7--Vv6GarrcBh-2Zp87CzaumIS"
     }
    ]
   },
@@ -41738,6 +41772,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ifsp6a-5427631"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ifsp6a-5498900"
     }
    ]
   },
