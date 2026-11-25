@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-25T20:45:52+00:00",
+ "maj": "2026-11-25T21:48:53+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag921903-562761152",
+   "source": "Bien'ici",
+   "titre": "Investissement LMNP loué - Studio seniors - Osny - 5,67 %",
+   "prix": 103600,
+   "surface": 26.0,
+   "commune": "Osny",
+   "cp": "95520",
+   "id": "1a06c2105b",
+   "premier_vu": "2026-11-25T21:48:53+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2167410",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 195900,
+   "surface": 67.0,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "cc7646b8af",
+   "premier_vu": "2026-11-25T21:48:53+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2168309",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 205000,
+   "surface": 70.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "f552a2bf19",
+   "premier_vu": "2026-11-25T21:48:53+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbK5buGoSzcmijGa3Ss5QNGPQ4TmINNaHIZ-BzmMP5h07KkR0oFd3cO_wR59jvJ-5S8hz3wU3pQf2liPYi8DL6L0mY05vXZQJ2gOszJixI5yRC",
    "source": "SeLoger",
@@ -19393,7 +19429,13 @@
    "cp": "95590",
    "id": "7c7a46573e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag922880-562749386"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/laforet-immo-facile-52962546",
@@ -23161,7 +23203,13 @@
    "cp": "95150",
    "id": "29e057caee",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbLyf4uashBLBLAKRa-xvV0-9Q3FWnUOSX3bk1KJZ-_Og9geeaZpNVBl5ropPZ-E3mht7xBFKGUMcJ2UBP6CuRW2pSMd8lQXBoY1jlZhv18zXE"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2152234",
