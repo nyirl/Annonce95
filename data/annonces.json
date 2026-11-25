@@ -1,6 +1,90 @@
 {
- "maj": "2026-11-25T18:41:44+00:00",
+ "maj": "2026-11-25T19:47:32+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2162116",
+   "source": "Bien'ici",
+   "titre": "Vente Studio 1 pièce",
+   "prix": 99000,
+   "surface": 21.1,
+   "commune": "Neuville-sur-Oise",
+   "cp": "95000",
+   "id": "9da8590f71",
+   "premier_vu": "2026-11-25T19:47:32+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2167694",
+   "source": "Bien'ici",
+   "titre": "Vente Studio 1 pièce",
+   "prix": 107000,
+   "surface": 16.75,
+   "commune": "Auvers-sur-Oise",
+   "cp": "95430",
+   "id": "766234edeb",
+   "premier_vu": "2026-11-25T19:47:32+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2157509",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 164900,
+   "surface": 64.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "eede6a9fb8",
+   "premier_vu": "2026-11-25T19:47:32+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2165130",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 180000,
+   "surface": 42.0,
+   "commune": "Montmagny",
+   "cp": "95360",
+   "id": "8a74e9636d",
+   "premier_vu": "2026-11-25T19:47:32+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2167193",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 189000,
+   "surface": 84.61,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "5b5f58ca1c",
+   "premier_vu": "2026-11-25T19:47:32+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61794791",
+   "source": "Bien'ici",
+   "titre": "Appartement Eragny 2 pièce(s) 59 m2",
+   "prix": 179000,
+   "surface": 59.0,
+   "commune": "Éragny",
+   "cp": "95610",
+   "id": "3d07079831",
+   "premier_vu": "2026-11-25T19:47:32+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87635079",
+   "source": "Bien'ici",
+   "titre": "Studio loué – DPE C – Rentabilité 7,4 %",
+   "prix": 89000,
+   "surface": 24.46,
+   "commune": "Goussainville",
+   "cp": "95190",
+   "id": "07efc8a3dc",
+   "premier_vu": "2026-11-25T19:47:32+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://www.bienici.com/annonce/apimo-87633849",
    "source": "Bien'ici",
@@ -6049,7 +6133,13 @@
    "cp": "95560",
    "id": "ed94f0a0ab",
    "premier_vu": "2026-11-17T09:16:39+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbAfzmd9BoWbqkB9MDgqNwNQthJlX0mh1jVY4jft1JDC3-N3q249nzu9bZWzpxapZZdoOXlIZwHLAKsgT-djv1ib5NRyzxY02rriD2gvY9Kk76"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKIqHwGtiDE73rQAfMIhy4kEnrQPMJCuzmiMwTeIuzvzSgHZCGh2vovQXi4Vxpmfi2EqrcMvXkEr19uQ6k3hWIK73eK6Z1XVD29je7Se_guXnS",
