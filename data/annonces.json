@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-25T00:51:58+00:00",
+ "maj": "2026-11-25T02:15:08+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/century-21-202_3029_5418",
+   "source": "Bien'ici",
+   "titre": "Appartement 2 pièces",
+   "prix": 151900,
+   "surface": 47.06,
+   "commune": "Soisy-sous-Montmorency",
+   "cp": "95230",
+   "id": "ce478a93bb",
+   "premier_vu": "2026-11-25T02:15:08+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/century-21-202_811_677829",
+   "source": "Bien'ici",
+   "titre": "Appartement 3 pièces",
+   "prix": 229000,
+   "surface": 61.08,
+   "commune": "Vauréal",
+   "cp": "95490",
+   "id": "add07651f7",
+   "premier_vu": "2026-11-25T02:15:08+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag340369-562514483",
    "source": "Bien'ici",
@@ -491,7 +515,7 @@
    "cp": "95870",
    "id": "bd2d4e6757",
    "premier_vu": "2026-11-24T07:59:12+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577588",
@@ -503,7 +527,7 @@
    "cp": "95300",
    "id": "6af1352f04",
    "premier_vu": "2026-11-24T07:59:12+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNFRPI281474977577838",
@@ -515,7 +539,7 @@
    "cp": "95130",
    "id": "5bfc1183a6",
    "premier_vu": "2026-11-24T07:59:12+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNWABE281474977577492",
@@ -527,7 +551,7 @@
    "cp": "95120",
    "id": "ec09fdd064",
    "premier_vu": "2026-11-24T07:59:12+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXDIJUG4tQ0ncF-H1BdkEI0127g8yw6NVGMM0B0r2KomlySWVGlOsN5SJjVtuNHd_dbe0GYlA5J_11cO4C36p9mOT2Tqh1oFcmsWVXzrGNtBXC",
@@ -659,7 +683,7 @@
    "cp": "95340",
    "id": "b0e390402d",
    "premier_vu": "2026-11-23T22:42:43+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2166545",
@@ -689,7 +713,7 @@
    "cp": "95800",
    "id": "8738ba29d6",
    "premier_vu": "2026-11-23T21:42:02+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2165239",
@@ -701,7 +725,7 @@
    "cp": "95800",
    "id": "60fde1939d",
    "premier_vu": "2026-11-23T19:54:59+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2156157",
@@ -713,7 +737,7 @@
    "cp": "95610",
    "id": "e25499e5e3",
    "premier_vu": "2026-11-23T19:54:59+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWxHO-IYP4l5ikzPaYC7dZ6XksGVZ_HNe4U5F8b7dg2JOk_mFNABwStei6WUiU88KH-uU_-jeFjYlclwdfFbJZIwjpbUTUiwjxAKdz386C7BfA",
@@ -749,7 +773,7 @@
    "cp": "95160",
    "id": "36a6a6e10c",
    "premier_vu": "2026-11-23T18:49:30+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFWrC15PZ0TC7ToyMG5Mjk3r9xF_J3gZe1Oe-VZITdgGI2TF4yCVY_mlG9Kfjmsw5E-oGsSx07h_Erxl4sAp5D1MaR1Zl_nECWZ7AE-qbcXZXCG",
@@ -785,7 +809,7 @@
    "cp": "95340",
    "id": "88c0f35ba4",
    "premier_vu": "2026-11-23T15:41:50+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "prix": 170000,
@@ -821,7 +845,7 @@
    "cp": "95290",
    "id": "7a9fbf7254",
    "premier_vu": "2026-11-23T12:57:56+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/ag757613-562151459",
@@ -833,7 +857,7 @@
    "cp": "95100",
    "id": "9f16265725",
    "premier_vu": "2026-11-23T12:57:56+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87622804",
@@ -845,7 +869,7 @@
    "cp": "95000",
    "id": "3b26bd6bff",
    "premier_vu": "2026-11-23T12:57:56+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2164364",
@@ -857,7 +881,7 @@
    "cp": "95310",
    "id": "1470e7df50",
    "premier_vu": "2026-11-23T12:57:56+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2162056",
@@ -869,7 +893,7 @@
    "cp": "95000",
    "id": "5e7e9b8b71",
    "premier_vu": "2026-11-23T12:57:56+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFVjVcd78QgcalDA798n3dzygdL3DjJUMO3f1X1SDxhX27VTV9aDEQ29AgqSNxy_I6bdpmow75xi8TjUZIlaDpcrhgqcNXnHO5_tIacZuBZNrUe",
@@ -917,7 +941,7 @@
    "cp": "95490",
    "id": "9ff16a80e0",
    "premier_vu": "2026-11-23T08:07:41+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "prix": 176000,
@@ -965,7 +989,7 @@
    "cp": "95520",
    "id": "017cfe8ee9",
    "premier_vu": "2026-11-23T05:04:29+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-560835161",
@@ -977,7 +1001,7 @@
    "cp": "95280",
    "id": "4dea5acc71",
    "premier_vu": "2026-11-23T05:04:29+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-561643430",
@@ -989,7 +1013,7 @@
    "cp": "95270",
    "id": "0406773eb4",
    "premier_vu": "2026-11-23T05:04:29+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-562073039",
@@ -1001,7 +1025,7 @@
    "cp": "95320",
    "id": "ef00ae4b5c",
    "premier_vu": "2026-11-23T05:04:29+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-560841170",
@@ -1013,7 +1037,7 @@
    "cp": "95160",
    "id": "60183e3bb0",
    "premier_vu": "2026-11-23T05:04:29+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2163156",
@@ -1025,7 +1049,7 @@
    "cp": "95120",
    "id": "2269db960b",
    "premier_vu": "2026-11-22T21:39:15+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1742337",
@@ -1091,7 +1115,7 @@
    "cp": "95200",
    "id": "170c79b8ed",
    "premier_vu": "2026-11-22T15:23:42+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "prix": 167000,
@@ -1115,7 +1139,7 @@
    "cp": "95610",
    "id": "b5c3dd2149",
    "premier_vu": "2026-11-22T13:37:58+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2163447",
@@ -1127,7 +1151,7 @@
    "cp": "95100",
    "id": "277f50da83",
    "premier_vu": "2026-11-22T13:37:58+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUZv3Fcl5t6Lfd8Lvesg3ON5c6Q7kE40X_FKhJhwgwELWod_bEypb-k3-rstG_oj_porgRZThKWg0jmIpIE-MAF4VdOCs7FUDCwHdZqNis8dRE",
@@ -1229,7 +1253,7 @@
    "cp": "95190",
    "id": "1a6118ee15",
    "premier_vu": "2026-11-22T07:49:14+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -1697,7 +1721,7 @@
    "cp": "95540",
    "id": "c2c2023df0",
    "premier_vu": "2026-11-21T08:03:28+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -1719,7 +1743,7 @@
    "cp": "95380",
    "id": "ad56751022",
    "premier_vu": "2026-11-21T08:03:28+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -1741,7 +1765,7 @@
    "cp": "95300",
    "id": "db8ae22787",
    "premier_vu": "2026-11-21T08:03:28+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2381,7 +2405,7 @@
    "cp": "95800",
    "id": "6f6a494b30",
    "premier_vu": "2026-11-20T08:15:59+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2403,7 +2427,7 @@
    "cp": "95250",
    "id": "5989bad84d",
    "premier_vu": "2026-11-20T08:15:59+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2425,7 +2449,7 @@
    "cp": "95280",
    "id": "dc60f0f518",
    "premier_vu": "2026-11-20T08:15:59+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2447,7 +2471,7 @@
    "cp": "95250",
    "id": "33ddcff260",
    "premier_vu": "2026-11-20T08:15:59+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2499,7 +2523,7 @@
    "cp": "95800",
    "id": "b124bde66f",
    "premier_vu": "2026-11-20T08:15:59+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -3339,7 +3363,7 @@
    "cp": "95120",
    "id": "4d5656357f",
    "premier_vu": "2026-11-19T08:20:20+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -3383,7 +3407,7 @@
    "cp": "95220",
    "id": "f562366ec8",
    "premier_vu": "2026-11-19T08:20:20+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -3427,7 +3451,7 @@
    "cp": "95120",
    "id": "2c5ce46b34",
    "premier_vu": "2026-11-19T08:20:20+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -8969,7 +8993,7 @@
    "cp": "95270",
    "id": "06fda13ca0",
    "premier_vu": "2026-11-14T10:38:55+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -9023,7 +9047,7 @@
    "cp": "95190",
    "id": "0f84d98782",
    "premier_vu": "2026-11-14T10:38:55+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -9041,7 +9065,7 @@
    "cp": "95100",
    "id": "efe1d18037",
    "premier_vu": "2026-11-14T10:38:55+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -9083,7 +9107,7 @@
    "cp": "95480",
    "id": "6a3c7f3676",
    "premier_vu": "2026-11-14T10:38:55+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -10999,7 +11023,7 @@
    "cp": "95250",
    "id": "b857bd0bb9",
    "premier_vu": "2026-11-11T11:10:38+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -11045,7 +11069,7 @@
    "cp": "95280",
    "id": "311cb5b89a",
    "premier_vu": "2026-11-11T11:10:38+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -14369,7 +14393,7 @@
    "cp": "95400",
    "id": "adc074a62b",
    "premier_vu": "2026-11-06T07:58:17+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -14411,7 +14435,7 @@
    "cp": "95100",
    "id": "2e2072a436",
    "premier_vu": "2026-11-06T07:58:17+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -14493,7 +14517,7 @@
    "cp": "95240",
    "id": "8c80006a55",
    "premier_vu": "2026-11-06T07:58:17+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -36893,7 +36917,7 @@
    "cp": "95800",
    "id": "1ca2f59ac4",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -40175,7 +40199,7 @@
    "cp": "95240",
    "id": "6509e0ac9c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -40363,7 +40387,7 @@
    "cp": "95100",
    "id": "32c5248c1e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -40385,7 +40409,7 @@
    "cp": "95170",
    "id": "51d000792c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -48777,7 +48801,7 @@
    "cp": "95160",
    "id": "ffd7538e4f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -48803,7 +48827,7 @@
    "cp": "95300",
    "id": "9972dda54c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -48889,7 +48913,7 @@
    "cp": "95100",
    "id": "13cbe31568",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -48915,7 +48939,7 @@
    "cp": "95120",
    "id": "c948de16bc",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -48975,7 +48999,7 @@
    "cp": "95800",
    "id": "0999716d8e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -49023,7 +49047,7 @@
    "cp": "95250",
    "id": "131c52c8c7",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -49049,7 +49073,7 @@
    "cp": "95320",
    "id": "f03b890e22",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -49295,7 +49319,7 @@
    "cp": "95280",
    "id": "4dd81ac80f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -49347,7 +49371,7 @@
    "cp": "95100",
    "id": "c58f9d2177",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -49629,7 +49653,7 @@
    "cp": "95870",
    "id": "d439697f85",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -49861,7 +49885,7 @@
    "cp": "95330",
    "id": "60d5385d9c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -53929,7 +53953,7 @@
    "cp": "95210",
    "id": "29619bd798",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -53975,7 +53999,7 @@
    "cp": "95230",
    "id": "debc0146e6",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -54517,7 +54541,7 @@
    "cp": "95100",
    "id": "14edafaefe",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -54543,7 +54567,7 @@
    "cp": "95880",
    "id": "5fc3e70922",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -54709,7 +54733,7 @@
    "cp": "95120",
    "id": "7ddecde5e1",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -54753,7 +54777,7 @@
    "cp": "95120",
    "id": "ab1de2f2e4",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -54779,7 +54803,7 @@
    "cp": "95880",
    "id": "7e2d9c0120",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -54805,7 +54829,7 @@
    "cp": "95555",
    "id": "35de7b91dd",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -54877,7 +54901,7 @@
    "cp": "95240",
    "id": "59a7b47fcf",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -54903,7 +54927,7 @@
    "cp": "95320",
    "id": "d8ee4a33eb",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -54929,7 +54953,7 @@
    "cp": "95800",
    "id": "d9760742c7",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -54967,7 +54991,7 @@
    "cp": "95170",
    "id": "6955614a69",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -55053,7 +55077,7 @@
    "cp": "95170",
    "id": "b0a8cc7760",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -57847,7 +57871,7 @@
    "cp": "95000",
    "id": "edeb9efbba",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -57873,7 +57897,7 @@
    "cp": "95880",
    "id": "e413461e22",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -57937,7 +57961,7 @@
    "cp": "95120",
    "id": "182180689d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -57963,7 +57987,7 @@
    "cp": "95880",
    "id": "eedfc7d0ad",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -57989,7 +58013,7 @@
    "cp": "95240",
    "id": "08ea7e6b16",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -59343,7 +59367,7 @@
    "cp": "95240",
    "id": "db1da43ea8",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -59415,7 +59439,7 @@
    "cp": "95880",
    "id": "20c14453c5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
