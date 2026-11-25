@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-25T04:29:42+00:00",
+ "maj": "2026-11-25T05:36:05+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-562566380",
+   "source": "Bien'ici",
+   "titre": "T2 - Arnouville",
+   "prix": 176000,
+   "surface": 42.0,
+   "commune": "Arnouville",
+   "cp": "95400",
+   "id": "4ef6f510c8",
+   "premier_vu": "2026-11-25T05:36:05+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-562569713",
+   "source": "Bien'ici",
+   "titre": "T3 - Jouy-le-Moutier",
+   "prix": 207000,
+   "surface": 55.0,
+   "commune": "Jouy-le-Moutier",
+   "cp": "95280",
+   "id": "d1c9e9dbe1",
+   "premier_vu": "2026-11-25T05:36:05+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-562570199",
+   "source": "Bien'ici",
+   "titre": "T4 - Deuil-la-Barre",
+   "prix": 373000,
+   "surface": 81.0,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "id": "deb6f60fc9",
+   "premier_vu": "2026-11-25T05:36:05+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZAj4ic-ljzt01E6GLkvUAIS6Ne6OCi4O9qm4cInaP5_sGxuH6QnKrWgodV1FA5RdoNMYPYsnG_qu_L5G1S-0NRWmPSFK3eZlY2HxZ_zKp2-W0uQ",
+   "source": "SeLoger",
+   "titre": "Retour de lot ! Appartement neuf 3 pièces de 65,3 ...",
+   "prix": 199750,
+   "surface": 65.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "1965279d19",
+   "premier_vu": "2026-11-25T05:36:05+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-60774260",
    "source": "Bien'ici",
@@ -1073,7 +1121,13 @@
    "cp": "95270",
    "id": "0406773eb4",
    "premier_vu": "2026-11-23T05:04:29+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-562568675"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-562073039",
@@ -1139,7 +1193,13 @@
    "cp": "95280",
    "id": "0f0be327cd",
    "premier_vu": "2026-11-22T19:13:38+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZEvO2e8g0YI7G4vN0-f6266HlK3KlSXV3NBpSbsuDGNq1qhoHxVI2UvNpCWXwt_Mzmlpc2fV1OM1OaXfK9Ivbete1z_sJr_zbJieJ9nNomgFN"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUweBfxPUOiwzUTygp2ILZATP2wK9UEHGPwurGOnLJtsfEfQzcjuolZPHWFDDBX4i-O9bDiM4FKb4sPtsSd0-ebdtKRw23WzEFnFnqCgcadKLx",
@@ -1915,7 +1975,13 @@
    "cp": "95330",
    "id": "20067e7b86",
    "premier_vu": "2026-11-21T05:47:36+00:00",
-   "vu": "2026-11-23"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-562566767"
+    }
+   ]
   },
   {
    "prix": 172000,
@@ -4361,11 +4427,15 @@
    "cp": "95540",
    "id": "e3e14e1d02",
    "premier_vu": "2026-11-18T08:38:20+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFL_hWPPWFf-0fiSzzNanPiyk40vkUNx4Vpm83uE_TBOArJfY-uhWH7gPNU3oX8I923LqLJt51Ull5unjsObTRTRAkWwDvlg-QnliJmS7RlB9PbtA"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-562570064"
     }
    ]
   },
@@ -6596,6 +6666,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYnBfYoW5dW7lnNCdDTUnloKKje13jQak436IapkaCCKig4dtWKgFUHB1gnWngIC3-2Dd1xNznueakt0TvZNOceR-LbsG8cgqjn4po3ZeuQ0Xd"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZAj4ibM6Tr2WhhR_b7FKBzjABZ8266sVkmsjCCGFr3fJ5pi9A1fFEJXdOzmk4Hya7FAT-7XZpITHCbMQlZVb-IEDQ3XkZhAnhCy15QT44PbLWIA"
     }
    ]
   },
@@ -6633,7 +6707,13 @@
    "cp": "95870",
    "id": "27f4ee9e21",
    "premier_vu": "2026-11-16T07:35:41+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-562564676"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_3029_6415",
@@ -11023,7 +11103,13 @@
    "cp": "95500",
    "id": "4d81c770bb",
    "premier_vu": "2026-11-11T11:10:38+00:00",
-   "vu": "2026-11-13"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-562569533"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-559342952",
@@ -50033,11 +50119,15 @@
    "cp": "95670",
    "id": "bb45c03f6a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-16",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag773658-559335908"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-562570151"
     }
    ]
   },
