@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-25T05:36:05+00:00",
+ "maj": "2026-11-25T06:32:41+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZGEX4vSTybt_5USWmuQFwu6EsBIOfonlHYYjkg8Y8HUnhhKa9BGeJ9SnDOg9xroWLal5NiQYzrt2TEvrxwNd5iuY454_Jot7P6aiDakhYmb_hFw",
+   "source": "SeLoger",
+   "titre": "Derniers appartements neufs dans le programme - T2...",
+   "prix": 154750,
+   "surface": 45.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "e8550d90c6",
+   "premier_vu": "2026-11-25T06:32:41+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZGEX4xO05IGXsRb4q_4gbsN5fq9WMXEz55fxBHrXUkw-yyfHOTkArYE5vfvpJUfme7FxmPLhV4Y9w2bS0cWZbaoTvqE-Bs42AAvI84jE1ql-JqQ",
+   "source": "SeLoger",
+   "titre": "Derniers appartements neufs dans le programme - Ap...",
+   "prix": 167750,
+   "surface": 45.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "8f815ceee4",
+   "premier_vu": "2026-11-25T06:32:41+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag773658-562566380",
    "source": "Bien'ici",
@@ -4436,6 +4460,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag773658-562570064"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZIND9C2Lk18ELTdtBM2BbeZP_4qsHcNhSnr3EnBvQUxEc6kFfL_0kh8eurOVG79b16D38-ejzv6eg3jowZm6G-VhJBpPa2TO02VhtZ3LtcS4_"
     }
    ]
   },
@@ -7367,7 +7395,13 @@
    "cp": "95300",
    "id": "21bfabe696",
    "premier_vu": "2026-11-15T08:25:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZF-UaJBIdakEiqOuToySp4M6PC7v7iCFywzATMF0G5D8gJWanZxpILJLvf2Riu19pDBLD5OtLvHW6D7dh5YHwufaXQUxtkKnGtmpNExMzqJ5y"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHJ6-I6DIXpW_3poU7ZG28sr7HxeI37wP-1DxvFXU65VPWn5sH1PhC-UGZXIlJXYGgrAIKm_ntuNIA7JtUEVWJ4r5b2M5aNVtXnme6Yb17ST7yGQ",
@@ -7679,7 +7713,7 @@
    "cp": "95300",
    "id": "4ac4cf94a2",
    "premier_vu": "2026-11-14T21:40:17+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "SeLoger",
@@ -7688,6 +7722,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTap4gRiMMu24_MCO1VvSyH5MU0Vtc0CeHqrhjB-opE8yXxglsiBUBzld0u_JzoiMQqu3C65d6zmAOPmyuSfKAFseFhk24RJgVE1iix_uheKL7nw"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZDxrsndkll_AXCcih2ieBTiyyGxlg_6OgLBZFtve87tNhjpKx9aQFBlSHek8cWvCOGGq35n-wsBYjB5J_FH0VV9GgZQ-6RDugPLfrGI8VEdqj"
     }
    ]
   },
@@ -8841,7 +8879,7 @@
    "cp": "95000",
    "id": "b3f7565b74",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "SeLoger",
@@ -8850,6 +8888,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTV2YKAwtmARvJp6hA26Ir-g_JnjjJIh5ZVGKSECJiQ1g-eoYFkKl9hDRDWlpgJy5wrVpkIQttv-QXCG95865S95WXwFYZl_kiL2UpxL8vGjD8"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZIND9JfnORoPb2a9yvz9hcLroJ9nnRqCDAdUAaIp9SSN0B94OsJmXi_Uczg6n6cJD8lhCv9inKLF0fRlA5QQBCg-OvBdGfx2S3HYdX0X0zMfM"
     }
    ]
   },
@@ -22852,6 +22894,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/century-21-202_639_677314"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZFK5zzUbJ29A8ptvLZ90jRAZAFvum1hb6uyVBki2HI_vcHjOB5jGrHWuTRG5QgGPMNS7B-ey5fp2ovTmw6u-ETtYXnMbfO9v94VAVyc8E7JXP"
     }
    ]
   },
