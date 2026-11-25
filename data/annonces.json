@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-25T14:12:15+00:00",
+ "maj": "2026-11-25T15:24:34+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2166985",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 199000,
+   "surface": 44.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "a9eed39cfc",
+   "premier_vu": "2026-11-25T15:24:34+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaTn6zC2YIWHDDjzCdDXFwcS76Uw03IeaQW3QyamBB0O7DjLS5r8F6iX03vr9wd5iIwGiNWCuhcRdM2HtXQ--6ai8ZkNMB8Fr81wp1KXSnXWZt",
+   "source": "SeLoger",
+   "titre": "Appartement 3 pièces avec balcon et 2 parkings - P...",
+   "prix": 203000,
+   "surface": 58.1,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "50549a640d",
+   "premier_vu": "2026-11-25T15:24:34+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://www.bienici.com/annonce/gedeon-34265655",
    "source": "Bien'ici",
@@ -2551,7 +2575,13 @@
    "cp": "95880",
    "id": "d0bf7d29ba",
    "premier_vu": "2026-11-20T15:47:53+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/iad-france-2167314"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRj7s68bcGBdY5owL3q-tT62c2oceU5tXqWqrl-bXlqHCmGSPugq2KhCmi2NZDNOkJUqCw81j1HDk5rpmzSh5L50sy6jeGFrljPNF0e5_2vg",
@@ -8344,6 +8374,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaFiyWvq1rBwLuylkNEOOlKRZFanW62CJ3g_ugpG-daHcQgcOIUMJ7GdqUmUMxtwVmbLukgYJt4tW4qx_DxfJKoSF04q7x5vGFi4hn6AYGkO9r"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaU0uSJ9eRwtxLXKqSPj6UFBQcanL_Y9H_nLk8kkl5zBaUKMH0tzRmWuw2KFoLmeD30iUHOaHHl5E9GX4MLFhv9kHtGZGQkrrbBP3TCG_Gb6S8"
     }
    ]
   },
@@ -34580,6 +34614,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXADZ2PTqEayJzc9XoPBFLvBnQaa2v1ZGOjw5C1lgsJa87QDu4QBA5EsLSXtziMN6fKaYF-pMryHz838TPSzcEGejc31XCf04GQ-UaAxxDlA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaQyyqwz0Gf-8MtHSxv5yNOkM-YE4GA291Y84-3Tek92o8gHaelJBRPSrn4bCqGeLMy8SqxO1O2ehet5Gb2NXQVahSbL1hHX1xlI469Q4Dcw"
     }
    ]
   },
