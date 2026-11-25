@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-25T16:40:51+00:00",
+ "maj": "2026-11-25T17:43:01+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87633849",
+   "source": "Bien'ici",
+   "titre": "Studio loué + parking – DPE C – Rentabilité 8,6 %",
+   "prix": 95000,
+   "surface": 25.0,
+   "commune": "Goussainville",
+   "cp": "95190",
+   "id": "784c1b50db",
+   "premier_vu": "2026-11-25T17:43:01+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag060811-562717319",
+   "source": "Bien'ici",
+   "titre": "PONTOISE (95) Appartement 2 pièces 45m² dernier étage",
+   "prix": 150500,
+   "surface": 47.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "27d3c659ed",
+   "premier_vu": "2026-11-25T17:43:01+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5458751",
+   "source": "Bien'ici",
+   "titre": "Appartement Bezons 2 pièce(s) 50 m2",
+   "prix": 219900,
+   "surface": 50.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "f5f110a01a",
+   "premier_vu": "2026-11-25T17:43:01+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5078856",
+   "source": "Bien'ici",
+   "titre": "Appartement Bezons 3 pièce(s) 50.59 m2",
+   "prix": 249900,
+   "surface": 50.59,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "0b098f6d98",
+   "premier_vu": "2026-11-25T17:43:01+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag920856-562700153",
    "source": "Bien'ici",
@@ -7012,6 +7060,22 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaFiyWxPn6Rb-tD3XHi83HB3VRojSkymXmgzzBwEjlYfqiFBV1Iqp0dJlP4Gzf2aeDeiZmsGQGfozvYlUIUk_9KyXRzkLbDMp1XOdbEXOYtSf1"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaq0zNsC-2qLow-s2J7vzlJ5PCI97wnt0l4XZs9tVpbhOd59ob7UextKzjGzS2N0E4QZWfiVp2c2VcT5cPWw76RPZ4YtjibfpmbAqxYpziBu1UCA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFa0ADuVKg9ARVnW_VOdiBU_lo-2hvDXOFJ1bvvWcQnLmb43Eg_zAxPTpgJB_T39nspjla9yITJq5m6EKaRqfWJAnjuq0g2KVK_jSXTk8Te3OHs"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFatslbCA_zVJ0Fap1U-poupeGQWWgQamuckU0XsID8ZQel-A2sHUQRsp-SpbtO2MyZlMfERDMlHke-PHZPc1f0SphIuIsg1PDYTmQAqHBg6rBe"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFatslbDhEdpvvcTXcB7fdIdJV0dfrCcwLsu0cC3DndnozCvyoZbAeavUQIAO1YRBBIQOjcuFVI0q2bn2BKWq_Ze97XUbGNmey81CqCBNEMawLj"
     }
    ]
   },
@@ -7331,7 +7395,7 @@
    "titre": "Franconville (95130) Vente appartement 3 pièces 50 m² 148.000 € Voir l'annonce",
    "id": "a633dd7d48",
    "premier_vu": "2026-11-15T20:45:21+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-25"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHpYmQGFcPbhDwAhR7XEinuZk6gWbM-jxQ0y6S7gI7H6FhD8LnMkzakBwv5Spnt8aaVw3km4aTMG88r1kqWgtYRgmTM_VWxtLqHhP1W3mCQg",
@@ -7434,6 +7498,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaOy_coZ6pPfuCm08UdAWJ8uzAeU9xpzFn_kGWaD_kpWDUvtCbOy8UFeQkV3Ksya_zOjMnFF1mCFPb4YT9za85036AFwwSct_8q9l_r5lm5RkO"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFayQo0FVLb1JppD5e8luRyDTk04Uh3R38VRTKrrVQhLMZLkSBQBMlRdeBILvG7Rr9oKxpSngRDe2nvqgfjCWZE6Sh11fCCjVnv-OxN1mMSHy3Psg"
     }
    ]
   },
@@ -8418,6 +8486,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFajiVFqL0Lw-nxybACd8v89R-p5yvj7aRiPLG4GeIeA4eT_uTJLodVLoS3Xl2FIMEYlINFauoAxORZEkrl8vaeUcZdjpcCOGg9NGq_yQAs4BMD"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFayQo0D7XdIna3jdI_uDZaMUYRpU59QR2hSpIT3pFXBD0i3d_I4suxNYzky-NswDdxqzSglwWmvulGHcO8gn85HHLEfI5whHpX2LGCVJC7buutqQ"
     }
    ]
   },
