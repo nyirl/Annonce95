@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-25T08:02:21+00:00",
+ "maj": "2026-11-25T09:32:56+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977580940",
@@ -377,7 +377,13 @@
    "cp": "95000",
    "id": "7cd8f62813",
    "premier_vu": "2026-11-24T16:56:26+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZd8vQuxkGfCma0Q8SfK4ilXLAkx_3MCCgcr3UzlYQU5yu6LtWDklWwKWk7QquaMp7wuj9Gh4yQcArBc8OIWmbdyOT0VKtDkIij57uLlGeLYRryQ"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61736967",
@@ -1265,7 +1271,13 @@
    "cp": "95000",
    "id": "606bbd0d82",
    "premier_vu": "2026-11-22T19:13:38+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZd8vQzauiGcKDnyna6N_qg84Ur6IsEbzbDVwZ9JLx2Rpgy1Nnovl89vyBMlZWR7IPy2U22tKN9vlyGYy90OEUYRhyscXs98vxkqUMvuk9ct02jQ"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUpCLUzQCx-I1rOW5iJqM3LZinbEpWle_LG-KI19wM5vS7SovAHDZ0-zrCsyZoXV6pUI9icNHsuoXf-2CZPLyQ5MI3CzMNB5zAnEPWyBZSAoXT",
@@ -7873,11 +7885,15 @@
    "cp": "95320",
    "id": "038d6a490d",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTn1cCFR9SLp2J2zPGmvBn6K5DzICgaopQEGqpB1wwM6oyXb8LCezLye0fYhIn0_PjRHvXhVPmKy7feymJM9OxIQp11Fs25Fdu7Im-SBQbpClX"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZd8vQwYPpkTImyrDcpPNdijtyhf9YCkYhpxUYIpfEZBuNjs3UNv71z-mta4iYhkWO1nEiXO7d5PfJL72KGms2meTps7i94VNvlkRKj2rffGhnOg"
     }
    ]
   },
@@ -12347,7 +12363,7 @@
    "cp": "95300",
    "id": "621c145588",
    "premier_vu": "2026-11-09T10:17:46+00:00",
-   "vu": "2026-11-21",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "SeLoger",
@@ -12356,6 +12372,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLswprNGgdH_Fr42a0LTxy_emwA5yisVK8j3EkzP67IGtduqotjPW7WcWQHqmRXeBTC2KBMxpV_E4vFWbEJpBPNWuLiMzmu1NVmqT_bxbXDJsa"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZbQbzb4-6p7MwkUdSc9pp4r5nehbUbb4LOOBApPXMMRgOse5KDuTQL2wnKDeLYw8LyCcBm7bM0WBNPi0M187AEizSu1czz161coBLIj1-LWNR"
     }
    ]
   },
@@ -12409,7 +12429,7 @@
    "cp": "95560",
    "id": "e93febb406",
    "premier_vu": "2026-11-09T10:17:46+00:00",
-   "vu": "2026-11-21",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -12422,6 +12442,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLrnPZTeOWa5Y71WVhJQq_tqSs7cxg_r8MJy01oyzWG5Pt7qjGKw8JMeD1i16s-PM9jd-m6L7rVPqe6b1FwqTMY9x8fdXC_bZJvMwG39IN"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZd8vQx-IabAuoZzzn5yixIy4_0LvNlJfY57lB8nd6hzku0Q54S5oWb9mclCXijGQr1T5se756TkyYHnxYi1C011p36rHr-ANAye7e3U2H4ehwJA"
     }
    ]
   },
@@ -29230,6 +29254,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/la-residence-1-2363_44"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZfO0klkmPaEFkF6UOp2dooCulWMLIuJALoTcdh5ugSYBgEFtdl2mHSlIQirzu1mi7gd90ZIYdGIK_T2BUamPOopq_3eiaiMf3QIvE4k71uT9I"
     }
    ]
   },
