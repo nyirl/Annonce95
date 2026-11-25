@@ -1,6 +1,150 @@
 {
- "maj": "2026-11-25T11:35:45+00:00",
+ "maj": "2026-11-25T12:41:21+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2060021",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 115000,
+   "surface": 33.91,
+   "commune": "Persan",
+   "cp": "95340",
+   "id": "859444bb16",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5489105",
+   "source": "Bien'ici",
+   "titre": "Appartement L'isle-adam 2 pièces jardin",
+   "prix": 263000,
+   "surface": 41.2,
+   "commune": "L'Isle-Adam",
+   "cp": "95290",
+   "id": "c7f01f4718",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag060811-562525313",
+   "source": "Bien'ici",
+   "titre": "Appartement à vendre 2 pièces  (95)",
+   "prix": 195000,
+   "surface": 46.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "f6e9f3f6ad",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag136427-562631885",
+   "source": "Bien'ici",
+   "titre": "Test description annonce pour mep",
+   "prix": 134000,
+   "surface": 60.0,
+   "commune": "Montsoult",
+   "cp": "95560",
+   "id": "5ab86a6232",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag571045-562618973",
+   "source": "Bien'ici",
+   "titre": "Appartement  4 pièces 91.4 m²",
+   "prix": 280000,
+   "surface": 91.0,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "id": "7921ebc03e",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562618328",
+   "source": "Bien'ici",
+   "titre": "IDÉAL PREMIER ACHAT – GRAND STUDIO AVEC BALCON – PARKING",
+   "prix": 191000,
+   "surface": 35.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "897931d5e3",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562617683",
+   "source": "Bien'ici",
+   "titre": "OPPORTUNITÉ – 2 PIÈCES LUMINEUX – SÉJOUR D'ENVIRON 27 M² – BALCON – PARKING",
+   "prix": 233000,
+   "surface": 43.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "1b287422f0",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562616489",
+   "source": "Bien'ici",
+   "titre": "COUP DE CŒUR – 3 PIÈCES AVEC BALCON – SÉJOUR D'ENVIRON 24 M² – PARKING",
+   "prix": 275000,
+   "surface": 60.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "493c0bb24b",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562615751",
+   "source": "Bien'ici",
+   "titre": "LUMINEUX 3 PIÈCES EXPOSÉ SUD-OUEST – SÉJOUR D'ENVIRON 27 M² – BALCON – PARKING",
+   "prix": 289000,
+   "surface": 63.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "4e28ef4516",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562614995",
+   "source": "Bien'ici",
+   "titre": "IDÉAL FAMILLE – 5 PIÈCES DERNIER ÉTAGE – TERRASSE D'ENVIRON 81 M² – 2 PARKINGS",
+   "prix": 408000,
+   "surface": 98.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "3fb2bc8982",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "prix": 165000,
+   "surface": 56.0,
+   "commune": "Taverny",
+   "cp": "95150",
+   "url": "https://www.pap.fr/annonces/-r465901786",
+   "source": "PAP",
+   "titre": "Taverny (95150) Vente appartement 3 pièces 56 m² 165.000 € Voir l'annonce",
+   "id": "47661544da",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZ_rszIUBzXbML31LiiTuqFHXC1FJAF64LlnkkiVTaV9eiMOtsvrdlXfZG4XnHPyNXP2h-kEyWsiVinjCLNVHaSg_H6Z0zlcW3KSdaJQIX8dpY",
+   "source": "SeLoger",
+   "titre": "CERGY – LE PONCEAU | 2 pièces avec terrasse de 11 ...",
+   "prix": 165000,
+   "surface": 56.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "2f967e5eb0",
+   "premier_vu": "2026-11-25T12:41:21+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61791800",
    "source": "Bien'ici",
@@ -5015,7 +5159,7 @@
    "cp": "95320",
    "id": "7ac7616924",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -5024,6 +5168,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562114370"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562617095"
     }
    ]
   },
@@ -5037,7 +5185,7 @@
    "cp": "95320",
    "id": "863e4206b3",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "Bien'ici",
@@ -5046,6 +5194,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562114337"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562614182"
     }
    ]
   },
@@ -8297,7 +8449,7 @@
    "cp": "95320",
    "id": "b00a390dd7",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-25",
    "autres": [
     {
      "source": "SeLoger",
@@ -8318,6 +8470,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562114400"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562618031"
     }
    ]
   },
@@ -14536,6 +14692,10 @@
     {
      "source": "Leboncoin",
      "url": "https://www.leboncoin.fr/vi/3309910134.htm"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61793347"
     }
    ]
   },
@@ -29784,6 +29944,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/hektor-agencegare-3853"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/hektor-agencegare-4027"
     }
    ]
   },
@@ -42849,7 +43013,13 @@
    "cp": "95800",
    "id": "6292d8cc9d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/flatbay-99061"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61553954",
@@ -58714,6 +58884,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61762922"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61793051"
     }
    ]
   },
