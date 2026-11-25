@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-25T09:32:56+00:00",
+ "maj": "2026-11-25T10:37:23+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61791800",
+   "source": "Bien'ici",
+   "titre": "APPARTEMENT SANNOIS - 5 pièce(s) - 136.1 m2",
+   "prix": 430000,
+   "surface": 137.58,
+   "commune": "Sannois",
+   "cp": "95110",
+   "id": "8337d61fe0",
+   "premier_vu": "2026-11-25T10:37:23+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZsYXGeL1RosC75vyd8VducsFjpcjBvTxleyo1-ZPUzMKypvaHslvyGzM5Bo-JL1ZAoWu-iMsYGYGge82aiVW5YQ6VZKEdCNvi3E7-mKEtkY4",
+   "source": "SeLoger",
+   "titre": "Appartement Franconville 2 pièces 40.04 m2",
+   "prix": 169000,
+   "surface": 40.04,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "8cec2529a4",
+   "premier_vu": "2026-11-25T10:37:23+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977580940",
    "source": "Bien'ici",
@@ -8128,6 +8152,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYz7yYCH8AwdZXjxQXavRmLz5bATDwbzJ5uVjrrHlf0E2dcUBqxwS_6r1JERhkH94oiRfFjPqif0YTkeB6c4zDQ4_6cu_j6D4DtLU9hAkTn3F6gQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZtDL_KQpyrDv86IpT8cg2AJjR52wdR-cA1ztIr9McajltN8FJCh-mrTzV9Fupc4uPKT-qlnzwZxH_t9i76nU2NV886QY-chC5lOoNmTbSNff8"
     }
    ]
   },
@@ -54526,6 +54554,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61778954"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61791846"
     }
    ]
   },
@@ -54572,6 +54604,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61778960"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61791950"
     }
    ]
   },
