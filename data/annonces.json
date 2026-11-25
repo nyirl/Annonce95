@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-25T12:41:21+00:00",
+ "maj": "2026-11-25T14:12:15+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/gedeon-34265655",
+   "source": "Bien'ici",
+   "titre": "Studio entièrement rénové de 25 m² avec parking à 9 min de la gare à pied",
+   "prix": 125000,
+   "surface": 25.0,
+   "commune": "Saint-Gratien",
+   "cp": "95210",
+   "id": "0a2d7f842c",
+   "premier_vu": "2026-11-25T14:12:15+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2060021",
    "source": "Bien'ici",
@@ -6930,6 +6942,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZAj4ibM6Tr2WhhR_b7FKBzjABZ8266sVkmsjCCGFr3fJ5pi9A1fFEJXdOzmk4Hya7FAT-7XZpITHCbMQlZVb-IEDQ3XkZhAnhCy15QT44PbLWIA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaFiyWxPn6Rb-tD3XHi83HB3VRojSkymXmgzzBwEjlYfqiFBV1Iqp0dJlP4Gzf2aeDeiZmsGQGfozvYlUIUk_9KyXRzkLbDMp1XOdbEXOYtSf1"
     }
    ]
   },
@@ -7348,6 +7364,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUpCLUxzzubBo3wc-G5TLA23d-Yyy_GpbMQlwxJLBf5ySiykHyRYLnLdXBGi0vHoGv10tokMuAzm1fQybZLBfdY_ZYP69MV2OcGMYDKw4j2F4h"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaOy_coZ6pPfuCm08UdAWJ8uzAeU9xpzFn_kGWaD_kpWDUvtCbOy8UFeQkV3Ksya_zOjMnFF1mCFPb4YT9za85036AFwwSct_8q9l_r5lm5RkO"
     }
    ]
   },
@@ -8052,6 +8072,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFW6OjjihsMGU3uzeHezekpmoe-J3NoP08FVDVzXN1DC5fZdY5CB_emHgVA-rV0cEaDuldo4-CtawHrvEPEsM8qnhUqvvfPMePrjwjxwzcRBh0EKQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaOy_cmxWqkB-tj96JLha3yOJ3allNzzTEVaWoI4jFs2eJpNWa37ITmnKYaQAmeJtZ3d5-T1umdyxYKhQCWVN7CDt50PKAlwbOgjFHDPyuunzZ"
     }
    ]
   },
@@ -8316,6 +8340,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZ1ot0vuhGGsmOcEsrMv8pn64vnZtFrcWvIizHsC7sBFCe0T30z1rk3Z47GujuhboO_79Z0ZJ9tID_Vb1Kl38ftyziQFee-kdke03HevNSO0ON"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaFiyWvq1rBwLuylkNEOOlKRZFanW62CJ3g_ugpG-daHcQgcOIUMJ7GdqUmUMxtwVmbLukgYJt4tW4qx_DxfJKoSF04q7x5vGFi4hn6AYGkO9r"
     }
    ]
   },
@@ -25452,6 +25480,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFGNQIba5fku8JxShq84d-KxWu_so7tkOdsLNBn6M_IWzPlo5Xw6YFRgPVokO12o0Kxrpx0JbpPRrcoSigHvE3p6jLXV46PCHOIf5uH71A5aag_"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/nestenn-1-99939822999"
     }
    ]
   },
