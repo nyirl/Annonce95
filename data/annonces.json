@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-25T19:47:32+00:00",
+ "maj": "2026-11-25T20:45:52+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbK5buGoSzcmijGa3Ss5QNGPQ4TmINNaHIZ-BzmMP5h07KkR0oFd3cO_wR59jvJ-5S8hz3wU3pQf2liPYi8DL6L0mY05vXZQJ2gOszJixI5yRC",
+   "source": "SeLoger",
+   "titre": "Appartement Saint Leu La Foret 3 pièces 57 m2",
+   "prix": 175000,
+   "surface": 57.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "763ce2110b",
+   "premier_vu": "2026-11-25T20:45:52+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2162116",
    "source": "Bien'ici",
@@ -71,7 +83,13 @@
    "cp": "95610",
    "id": "3d07079831",
    "premier_vu": "2026-11-25T19:47:32+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbM_ov3m_hFut0jSOQRxEsra7rURAn_yQumVVskGGFhWKmdgI7afSQoo9I5x9TijbyIiGVNMAxnz2srENlYnaHQ2SkExi2SONiuCPTqH1UJlFV"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87635079",
@@ -27467,7 +27485,13 @@
    "cp": "95000",
    "id": "c36ef43a8a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbMfRvYXBFycdLXJQnVJzMLQgP2BUiHvsn5EVyc325cxhOcZy0haOF-B1gEPWYPCCqDDL-cU8PN4745PibN3GnVRMdQMZrm18jKFP9CitWIzpa"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_3029_6168",
@@ -30939,7 +30963,13 @@
    "cp": "95310",
    "id": "f1a4861280",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbM_owYpmwQd9tb8cGWa8wl9kNOwUReL1LPERt0Z0JlGnu-P1yt3z22AMJwtvfQrVFp5k7e5tcq6VSub0hqd2hcDhHnxdL_2flplXj6I1PLrkS"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag952400-549354887",
