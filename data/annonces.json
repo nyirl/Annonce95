@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-25T15:24:34+00:00",
+ "maj": "2026-11-25T16:40:51+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag920856-562700153",
+   "source": "Bien'ici",
+   "titre": "Appartement 95100",
+   "prix": 249900,
+   "surface": 91.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "45ce15a9c5",
+   "premier_vu": "2026-11-25T16:40:51+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/era-2-61648692",
+   "source": "Bien'ici",
+   "titre": "Appartement Argenteuil 4 pièce(s) 80 m2",
+   "prix": 175000,
+   "surface": 80.08,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "21d5c7925b",
+   "premier_vu": "2026-11-25T16:40:51+00:00",
+   "vu": "2026-11-25"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaoUSX9kBvC6XlH5MGIkoBFhtLq7589pKjfXjWavxi5kajmyPMeSNYsezEJMa4w_yQk376Q_EXtxgVUKnd2F1nXDbQSfYTVQI2LIJCUfz_LGKZ",
+   "source": "SeLoger",
+   "titre": "APPARTEMENT 3 PIÈCES ? MODERNE, LUMINEUX ET CLÉS E...",
+   "prix": 189500,
+   "surface": 60.38,
+   "commune": "Osny",
+   "cp": "95520",
+   "id": "8006088568",
+   "premier_vu": "2026-11-25T16:40:51+00:00",
+   "vu": "2026-11-25"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2166985",
    "source": "Bien'ici",
@@ -8378,6 +8414,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaU0uSJ9eRwtxLXKqSPj6UFBQcanL_Y9H_nLk8kkl5zBaUKMH0tzRmWuw2KFoLmeD30iUHOaHHl5E9GX4MLFhv9kHtGZGQkrrbBP3TCG_Gb6S8"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFajiVFqL0Lw-nxybACd8v89R-p5yvj7aRiPLG4GeIeA4eT_uTJLodVLoS3Xl2FIMEYlINFauoAxORZEkrl8vaeUcZdjpcCOGg9NGq_yQAs4BMD"
     }
    ]
   },
