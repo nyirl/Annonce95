@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-25T17:43:01+00:00",
+ "maj": "2026-11-25T18:41:44+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/apimo-87633849",
@@ -95,7 +95,13 @@
    "cp": "95130",
    "id": "a9eed39cfc",
    "premier_vu": "2026-11-25T15:24:34+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFa9dQlo5MdbUeNXe_QqEnvBlkkSVAGChyzwaMGVhwy5KWQRWYU5uEUL4TTFBIjmvpt65er4dSoO19SsTgwG5Mfdz7v5cryrKMHnGte6bX-7XUU"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaTn6zC2YIWHDDjzCdDXFwcS76Uw03IeaQW3QyamBB0O7DjLS5r8F6iX03vr9wd5iIwGiNWCuhcRdM2HtXQ--6ai8ZkNMB8Fr81wp1KXSnXWZt",
@@ -30885,7 +30891,13 @@
    "cp": "95220",
    "id": "f59b0432e8",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFa42VIPs4MlqH4u9lWAmkxex5eQcA_IhT46vL5ymy6AgcZ71l8vqvXDKqcTNXKnjZW5yEnF9Q-Sz0DLU7gMu3iSlEdwXFTti8u4qp5Ol2KOQ"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-10176_13",
