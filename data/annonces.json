@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-25T10:37:23+00:00",
+ "maj": "2026-11-25T11:35:45+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61791800",
@@ -7396,6 +7396,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXbmEatkEzUCBPJij4Y19zzo8i8yw93zIArEeUACuvemNRkAvXL2xXZVEz07fYRSsNNswEcVYaMW0kALy7ilXpQ8KEpBYBvwuT1Og5ApMjQ7UPgA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZzIBc2vykMGGoOwNgIFMwDkOJg6JZjhKjKxL-bTwJ2aS4pmfF8zBgTlL-etCsJKo6qcO5tVl95INTJf7xe-exwkdoMikzlL0tcmANJaYw5cyndQ"
     }
    ]
   },
@@ -8156,6 +8160,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZtDL_KQpyrDv86IpT8cg2AJjR52wdR-cA1ztIr9McajltN8FJCh-mrTzV9Fupc4uPKT-qlnzwZxH_t9i76nU2NV886QY-chC5lOoNmTbSNff8"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZ1ot0vuhGGsmOcEsrMv8pn64vnZtFrcWvIizHsC7sBFCe0T30z1rk3Z47GujuhboO_79Z0ZJ9tID_Vb1Kl38ftyziQFee-kdke03HevNSO0ON"
     }
    ]
   },
@@ -33541,7 +33549,13 @@
    "cp": "95300",
    "id": "2aedd5d0d0",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZ1eKSrtWqm3npIbBFM9AjqrphoqKSg9dXd0wOPR5CzBD-lyb8KSlr15mk9n49KjJGbDUefOy7TJ01vaQXEqhHFbXofAoRwUsuZtklodjXxg"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-251727654",
@@ -34169,7 +34183,13 @@
    "cp": "95000",
    "id": "4fd5626f0d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-25",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZzIBc4OTiFUW-RGDaAsMwrsnS_7dqQ9snXhn90eTBPxFLHfw4uuc8L-jwaC9-ZrozTO0HTC8RpUTVTdePRGv8XjhwU3erUb7W7E-4o2k7UsDWdg"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag340369-524890598",
