@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-26T05:36:21+00:00",
+ "maj": "2026-11-26T06:34:40+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbae9zZ4ulvCmSFYXMbD7Hd88RbGZwyjwkNVc_R4PjG_-g-Dt4SrpvOko2MWW61wfOptR37a66Y7BEKgX6UUiW6-0Gg2__JTY8D54QoIepSIQp",
+   "source": "SeLoger",
+   "titre": "Appartement neuf 2 pièces 44m² + 5m² ext - Baillet...",
+   "prix": 183580,
+   "surface": 45.7,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "7fc5e38628",
+   "premier_vu": "2026-11-26T06:34:40+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbb5X5kce1gsxoc5Of_rQij2JIcIpWtDZua7XPF2TI5VxUQ684yhqFMNuVm8a8FvSjhl0vMJW3QgBY2dVP5E2qHq-z4puikx0vzGq5hHgk4EMT",
+   "source": "SeLoger",
+   "titre": "Appartement T2 de 40,76m² avec parking à Baillet-e...",
+   "prix": 203000,
+   "surface": 40.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "ee86109cac",
+   "premier_vu": "2026-11-26T06:34:40+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "prix": 140000,
+   "surface": 29.0,
+   "commune": "Champagne-sur-Oise",
+   "cp": "95660",
+   "url": "https://www.pap.fr/annonces/-r463702902",
+   "source": "PAP",
+   "titre": "Champagne-sur-Oise (95660) Vente appartement 2 pièces 29 m² 140.000 € Voir l'ann",
+   "id": "fa644bdaee",
+   "premier_vu": "2026-11-26T06:34:40+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2168077",
    "source": "Bien'ici",
@@ -2296,6 +2332,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFXDf9ouE91TkLHJS_GWZDKw-YV8HrG04CpC_wXXXE94Jr-a1TArUOa1f4up38sudM64aumY541QhGFE_25toOnrlzk7FTeQCqpW8Cfp-mZQ5Tt"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbZz6beyZGs7AO31vtpEfTfV6YmFCFjoyPVaGfVhVhgHZU8zyryGd3HzzBxQDWVFEagTdx5QOQvmOlv54z4th9Co-Ks-tTVIs5kMhKEoPLkSX2IQ"
     }
    ]
   },
@@ -3304,6 +3344,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577393"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbae9ywp1ZZfRKKRf3qLbjmDDNynPePlOJAaMieCSONucOnKHVGFJs-x00r0N5ORqbQjU0MtlWpzQPVu5dIoANXmKRykmHGp0k8uLUMu_gvaqm"
     }
    ]
   },
@@ -9716,6 +9760,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577621"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbZz6bdQA8lIDoTIgKpBmV6n6DZIKYJLuR1xQRwB3xWeZ2iJeUAgWBRjyPmPlgzecIZ-FwHxuwVOBUaubsj9pL-ibAku8Wl1zcG2TfrhbBCEN6Ng"
     }
    ]
   },
