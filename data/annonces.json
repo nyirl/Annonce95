@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-26T09:30:02+00:00",
+ "maj": "2026-11-26T10:35:51+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag951006-562879445",
+   "source": "Bien'ici",
+   "titre": "STUDIO AVEC JARDIN",
+   "prix": 125000,
+   "surface": 38.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "6805e52cb3",
+   "premier_vu": "2026-11-26T10:35:51+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag952529-561204935",
+   "source": "Bien'ici",
+   "titre": "F3 avec balcon et deux places de stationnement",
+   "prix": 179000,
+   "surface": 55.0,
+   "commune": "Persan",
+   "cp": "95340",
+   "id": "8662611deb",
+   "premier_vu": "2026-11-26T10:35:51+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "prix": 182000,
+   "surface": 53.0,
+   "commune": "Vauréal",
+   "cp": "95490",
+   "url": "https://www.pap.fr/annonces/-r465800809",
+   "source": "PAP",
+   "titre": "Vauréal (95490) Vente appartement 3 pièces 53 m² 182.000 € Voir l'annonce",
+   "id": "968dea43d6",
+   "premier_vu": "2026-11-26T10:35:51+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583082",
    "source": "Bien'ici",
@@ -71,7 +107,13 @@
    "cp": "95560",
    "id": "7fc5e38628",
    "premier_vu": "2026-11-26T06:34:40+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcDaMzxF4H8mEGY6ikxfR9PK2KruLelgdAZFTUpmQ2HV3mPzcUGKjXAe0q_k-i4oZ9Z5Csc6PoFQG96BhojpZV6z6HUQ6rT4W7ogkq2fKCE8GS"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbb5X5kce1gsxoc5Of_rQij2JIcIpWtDZua7XPF2TI5VxUQ684yhqFMNuVm8a8FvSjhl0vMJW3QgBY2dVP5E2qHq-z4puikx0vzGq5hHgk4EMT",
@@ -20365,7 +20407,13 @@
    "cp": "95300",
    "id": "75ad0cb4ae",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFb6LQk0W6PmRBvFCrP5rzXzWDj6TaZ0lBvJVeK5BDK7M3ketfrdxrBHwCvyBHVPXxbleBGU7-JZU4aF1pNROlhWtzRd7Vpyr1ykDHnjFX1gDIz"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag951353-545302565",
