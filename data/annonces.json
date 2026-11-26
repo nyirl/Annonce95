@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-26T16:40:42+00:00",
+ "maj": "2026-11-26T17:48:19+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/netty-company53474tds-appt-9811",
+   "source": "Bien'ici",
+   "titre": "APPRTEMENT F3 65 M²",
+   "prix": 163000,
+   "surface": 64.69,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "ac28c3e065",
+   "premier_vu": "2026-11-26T17:48:19+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61775862",
    "source": "Bien'ici",
@@ -797,7 +809,7 @@
    "cp": "95100",
    "id": "45ce15a9c5",
    "premier_vu": "2026-11-25T16:40:51+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-26"
   },
   {
    "url": "https://www.bienici.com/annonce/era-2-61648692",
@@ -9498,6 +9510,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdE04x7j65sjl2qE3q4s5O58QaMcP5eJB1Ropa1PJ12oUGfC4_0wqvvTpmYyUJx8G-Tc5l-TwoRpdnOPxupsJ_42rwhiU1V2I530a3vTIY0-zK7w"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdIeXJJie7COBgy2raRCbFqibpDrM4NcXmbMvkpa0Od4YrY26aUm98QCR6njPbRQvYmmyqaFLmF85jZe-J61dWA6bsGHjDLaNzfGhul1712Yeq"
     }
    ]
   },
@@ -31723,7 +31739,13 @@
    "cp": "95220",
    "id": "ac1bf004db",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdSzpR0rW0TJqFjoMxxop_wX4oocw8DvMeUCBlwI7iWShHkmGaIEKLEqeXTgjJI6GNblmGi759XlD1vVP9UtqeuDrlGXSmy4_UAUvOh07DMm8"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-agenceterminus-5580",
