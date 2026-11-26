@@ -1,6 +1,66 @@
 {
- "maj": "2026-11-26T06:34:40+00:00",
+ "maj": "2026-11-26T08:00:41+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583082",
+   "source": "Bien'ici",
+   "titre": "BEL APPARTEMENT 2 PIÈCES DE 42 M² AVEC BALCON - PLACE DE PARKING – EXPOSITION SUD-OUEST",
+   "prix": 180000,
+   "surface": 42.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "e28842073d",
+   "premier_vu": "2026-11-26T08:00:41+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583060",
+   "source": "Bien'ici",
+   "titre": "3 PIÈCES DE 70 M² AVEC JARDIN PRIVATIF DE 67 M² ET TERRASSE",
+   "prix": 299000,
+   "surface": 82.0,
+   "commune": "Pierrelaye",
+   "cp": "95220",
+   "id": "1a32ae06fb",
+   "premier_vu": "2026-11-26T08:00:41+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbfbAyxwJ_yuiU2yxi14Zgm5vio5jtMKNrQDrXxe-4uF7y-3yM5YtcmuN47vrdzVM3le3IpmqpxpO6KDx41Cva2hSjG4mEUI3-SFuCZy4uf9Hz",
+   "source": "SeLoger",
+   "titre": "3 pièces",
+   "prix": 154000,
+   "surface": 49.95,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "59a3d59f3a",
+   "premier_vu": "2026-11-26T08:00:41+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "prix": 190000,
+   "surface": 40.0,
+   "commune": "Verdun - Copistes Herblay-sur-Seine",
+   "cp": "95220",
+   "url": "https://www.leboncoin.fr/vi/3317930448.htm",
+   "source": "Leboncoin",
+   "titre": "190 000 € 4 750 €/m² Pro Appartement · 2 pièces · 40 m² Jardin · Parking Verdun ",
+   "id": "22555ba356",
+   "premier_vu": "2026-11-26T08:00:41+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbjGw46WUb0ooVyJyHswCSgQb8yB9Dc799O2Zb-PwhUCD_1DbaP1bCLMkLhlAnuu8cErqEC7tkNc4Aen1BBeXEUsxV54-JiV0bPH_6iPhh_9oD",
+   "source": "SeLoger",
+   "titre": "Appartement à vendre Saint-Ouen-l'Aumône",
+   "prix": 199000,
+   "surface": 61.7,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "b1004c21e9",
+   "premier_vu": "2026-11-26T08:00:41+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbae9zZ4ulvCmSFYXMbD7Hd88RbGZwyjwkNVc_R4PjG_-g-Dt4SrpvOko2MWW61wfOptR37a66Y7BEKgX6UUiW6-0Gg2__JTY8D54QoIepSIQp",
    "source": "SeLoger",
@@ -185,7 +245,13 @@
    "cp": "95130",
    "id": "eede6a9fb8",
    "premier_vu": "2026-11-25T19:47:32+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbg9zQ_RGep9dMijgp6BEC-vZ4NrSZ0QGEyzhN8R98fSUbuNoZjmkqyQGT0m1R8I7RiyqWXm9LOcCh32MzLw-A_XtHjzcvgz9utwwxK7rQbMB_"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2165130",
@@ -197,7 +263,13 @@
    "cp": "95360",
    "id": "8a74e9636d",
    "premier_vu": "2026-11-25T19:47:32+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3317822690.htm"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2167193",
@@ -545,7 +617,13 @@
    "cp": "95150",
    "id": "c1501514fe",
    "premier_vu": "2026-11-25T08:02:21+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583078"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZI2Q_bCLHYlzXYRm8ScywRTIXmw8FH9n4SXmUPVrV_yowniP_YYKa2jT3GtyniXE17FqncUsRBte4fDJ2co7YvyXUvgI94P3YRCimfHQGFpuy",
@@ -1223,7 +1301,17 @@
    "cp": "95300",
    "id": "6af1352f04",
    "premier_vu": "2026-11-24T07:59:12+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582535"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582536"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNFRPI281474977577838",
@@ -1930,6 +2018,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577408"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583088"
     }
    ]
   },
@@ -1948,6 +2040,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577409"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583085"
     }
    ]
   },
@@ -1984,6 +2080,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577407"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583068"
     }
    ]
   },
@@ -2394,6 +2494,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577397"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583087"
     }
    ]
   },
@@ -2416,6 +2520,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577401"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583080"
     }
    ]
   },
@@ -2438,6 +2546,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577398"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583074"
     }
    ]
   },
@@ -2460,6 +2572,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577394"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583067"
     }
    ]
   },
@@ -2482,6 +2598,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577399"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583063"
     }
    ]
   },
@@ -3056,6 +3176,14 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577391"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583083"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbjGHCxQHri6qa4yuMQIbv1MN7vcM8WagVN_kgLMxuMa-FioY1Dn9jMlSJ0cDCHT3fEZp23Nn7QBG2sYjxbq3EWxxeDJGPc7TqVHVmtDvfP9IF"
     }
    ]
   },
@@ -3090,6 +3218,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577378"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583079"
     }
    ]
   },
@@ -3112,6 +3244,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577386"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583075"
     }
    ]
   },
@@ -3134,6 +3270,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577373"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583072"
     }
    ]
   },
@@ -3156,6 +3296,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577376"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583070"
     }
    ]
   },
@@ -3178,6 +3322,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577390"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583064"
     }
    ]
   },
@@ -3200,6 +3348,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577374"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583061"
     }
    ]
   },
@@ -3222,6 +3374,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577389"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583062"
     }
    ]
   },
@@ -3274,6 +3430,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577375"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583051"
     }
    ]
   },
@@ -3348,6 +3508,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbae9ywp1ZZfRKKRf3qLbjmDDNynPePlOJAaMieCSONucOnKHVGFJs-x00r0N5ORqbQjU0MtlWpzQPVu5dIoANXmKRykmHGp0k8uLUMu_gvaqm"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583081"
     }
    ]
   },
@@ -4048,6 +4212,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577383"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583086"
     }
    ]
   },
@@ -4096,6 +4264,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577382"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583071"
     }
    ]
   },
@@ -4122,6 +4294,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577384"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583066"
     }
    ]
   },
@@ -4214,6 +4390,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977577387"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583056"
     }
    ]
   },
@@ -5182,6 +5362,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYHrjs9qkI_Mgc6rOfOs0jzwZifQdRnaQdgRiynsW0Zo6vawvgjLGJBdI7burf7UJVc3KJXMhbnUyZVKkv9RAga_d7aL8-Yn9_fNHddaYIDQ"
+    },
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3317929272.htm"
     }
    ]
   },
@@ -7477,7 +7661,7 @@
    "cp": "95560",
    "id": "afda6ee941",
    "premier_vu": "2026-11-16T07:35:41+00:00",
-   "vu": "2026-11-25",
+   "vu": "2026-11-26",
    "autres": [
     {
      "source": "SeLoger",
@@ -7494,6 +7678,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFUm7l7Raw9YsLhOgWsNSxy4isHLs7SxBA6S3TP0531JDXzyLKUF1uwdIowV7znZEaR0CkmGW_NC615j7tG_I_AANp2X6xHERQqxW07ACIfc1iF"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbjGHC4osOUawRgbXvk_AMn1ZycQNci13NAJBWJS01gMj3tJAlR3pbyuovBQkcrCBV84c6d-UmY-wKrNJLzPtBlj6wB_vIYV0eU7HOfGFKp9pS"
     }
    ]
   },
@@ -7927,11 +8115,15 @@
    "cp": "95150",
    "id": "60adc1d896",
    "premier_vu": "2026-11-15T10:57:16+00:00",
-   "vu": "2026-11-20",
+   "vu": "2026-11-26",
    "autres": [
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKYNs6NjmcAf19keWjg7Mms9UdMWiK3aDIIXUGTO4MiaJBKszx7qNAze-e4JSOeUYtjGmgCLpirmz-WjbchOaPnKndLYp27JxG0pkqK1UuIjW9"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbjGHC0-aYM9-amu4v6S11HrhvBGRAK9WNY-T3stACLKry1ItL-geHkPE6QF5n7aspBm6Mk_WtyKCs05YwJD_xiod-UZ9JxzKYTYNbv_aRVmRe"
     }
    ]
   },
@@ -8758,6 +8950,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFayQo0D7XdIna3jdI_uDZaMUYRpU59QR2hSpIT3pFXBD0i3d_I4suxNYzky-NswDdxqzSglwWmvulGHcO8gn85HHLEfI5whHpX2LGCVJC7buutqQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbrp1vLlOs0z6niVh9np_l50N92uZ7gB2-eNBRWyI192jhjqm3urDfQcG73ob6Ih6cANqhdR2knh1InfMchRbk-AKyd65_An9mNYBqVBVttJnh"
     }
    ]
   },
@@ -9734,6 +9930,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577624"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582519"
     }
    ]
   },
@@ -9764,6 +9964,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbZz6bdQA8lIDoTIgKpBmV6n6DZIKYJLuR1xQRwB3xWeZ2iJeUAgWBRjyPmPlgzecIZ-FwHxuwVOBUaubsj9pL-ibAku8Wl1zcG2TfrhbBCEN6Ng"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582522"
     }
    ]
   },
@@ -9867,7 +10071,13 @@
    "cp": "95380",
    "id": "2b8cd44554",
    "premier_vu": "2026-11-14T10:38:55+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582544"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977564083",
@@ -9879,7 +10089,13 @@
    "cp": "95870",
    "id": "89ee93a420",
    "premier_vu": "2026-11-14T10:38:55+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582554"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-559958816",
@@ -9950,6 +10166,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577605"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582527"
     }
    ]
   },
@@ -9968,6 +10188,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577623"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582520"
     }
    ]
   },
@@ -9981,7 +10205,13 @@
    "cp": "95250",
    "id": "638beb8570",
    "premier_vu": "2026-11-14T10:38:55+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582556"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977560556",
@@ -10010,6 +10240,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577600"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582530"
     }
    ]
   },
@@ -26070,6 +26304,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977564092"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582549"
     }
    ]
   },
@@ -26092,6 +26330,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977564076"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582557"
     }
    ]
   },
@@ -26118,6 +26360,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577603"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582528"
     }
    ]
   },
@@ -26186,6 +26432,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577622"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582521"
     }
    ]
   },
@@ -26382,6 +26632,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977564082"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582555"
     }
    ]
   },
@@ -26586,6 +26840,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577617"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582523"
     }
    ]
   },
@@ -26780,6 +27038,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFF_vHcf-PgYxcQ3AZ2nu8fPb8M1OkWflOiRWOWBwBsIQxqYwCrymdSi0VNc8LXYFR9i8x8f826Pnga4jWdYID6tUs9THyTlyfHpiJ5lbNRZWmD"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582542"
     }
    ]
   },
@@ -26882,6 +27144,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977564097"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582546"
     }
    ]
   },
@@ -39584,6 +39850,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977564099"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582545"
     }
    ]
   },
@@ -40798,6 +41068,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977564108"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582543"
     }
    ]
   },
@@ -49674,6 +49948,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977564090"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582550"
     }
    ]
   },
@@ -49730,6 +50008,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577597"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582531"
     }
    ]
   },
@@ -49920,6 +50202,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977564093"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582548"
     }
    ]
   },
@@ -49984,6 +50270,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577626"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582518"
     }
    ]
   },
@@ -50548,6 +50838,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977564109"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582538"
     }
    ]
   },
@@ -55442,6 +55736,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577608"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582526"
     }
    ]
   },
@@ -55574,6 +55872,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577613"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582524"
     }
    ]
   },
@@ -55600,6 +55902,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577596"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582532"
     }
    ]
   },
@@ -55754,6 +56060,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977577611"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977582525"
     }
    ]
   },
