@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-26T18:45:58+00:00",
+ "maj": "2026-11-26T19:54:54+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939823872",
+   "source": "Bien'ici",
+   "titre": "Appartement 4 pièces - Deuxième et dernier étage - Résidence récente - Deux balcons et deux places de parking",
+   "prix": 290000,
+   "surface": 87.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "f4a3210b1e",
+   "premier_vu": "2026-11-26T19:54:54+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2166936",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 165000,
+   "surface": 120.0,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "id": "1c41527a56",
+   "premier_vu": "2026-11-26T19:54:54+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2167856",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 310000,
+   "surface": 63.22,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "aaae7293ea",
+   "premier_vu": "2026-11-26T19:54:54+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdfmbXha_BwcAcloJI5kCzMrdxaOIH3a1ohwihw4yoWCLASxO9tx2mu5Tcuo3QMVMY4HP9QOV02LCQAz8ZOOokkeGvegMOV__eRtiChzB8JdyE",
+   "source": "SeLoger",
+   "titre": "Appartement F4 à Herblay sur Seine",
+   "prix": 179000,
+   "surface": 58.0,
+   "commune": "Herblay-sur-Seine",
+   "cp": "95220",
+   "id": "5ceb571914",
+   "premier_vu": "2026-11-26T19:54:54+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://www.bienici.com/annonce/netty-company53474tds-appt-9811",
    "source": "Bien'ici",
@@ -7363,7 +7411,13 @@
    "cp": "95100",
    "id": "7914abf635",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562955858"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87600223",
@@ -7387,7 +7441,13 @@
    "cp": "95100",
    "id": "958885d963",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562955624"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2159628",
@@ -7495,7 +7555,13 @@
    "cp": "95100",
    "id": "dec983d350",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562955150"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560455853",
@@ -7507,7 +7573,13 @@
    "cp": "95100",
    "id": "b8d9f38664",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562955291"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/square-habitat-immo-facile-43391426",
@@ -7543,7 +7615,13 @@
    "cp": "95100",
    "id": "5cf2421001",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562955069"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560430194",
@@ -8068,6 +8146,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdAQaNkBKTOL8OzK0QTINycAhN2kmiqf6VmBs6WhP2zLk11If8CUPDnK0aRCt_XKMDTT75uYShaQHAqeebfOuE8p62ddKvZ7tlLbtCaQwvU8Dj"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdimHGFvhpwep9rgAA0m-CoeONAM0KAxs9p7S2dcO1SV17Mh4bLcwjolsTqmSmnf1xeEqUlSLeVoUibVpiNw6LUYy6pEp8H4hDfz45LOAWFOPK"
     }
    ]
   },
