@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-26T20:44:38+00:00",
+ "maj": "2026-11-26T21:43:50+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1747251",
+   "source": "Bien'ici",
+   "titre": "Appartement avec 2 chambres et terrasse",
+   "prix": 229900,
+   "surface": 78.0,
+   "commune": "Éragny",
+   "cp": "95610",
+   "id": "0c87d7bcd2",
+   "premier_vu": "2026-11-26T21:43:50+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdjzL_64CxOE4kkMGtM1BqElwE47KWFCt18kMlEnbJyQafo2TPlFvMKwhyEDvd6o7v3GFNARw8tZSsUW4FGFS9FiEAnMhRavX34Mmi9Z4BB0WS",
+   "source": "SeLoger",
+   "titre": "Appartement de 3 pièces principales",
+   "prix": 179000,
+   "surface": 52.87,
+   "commune": "Mériel",
+   "cp": "95630",
+   "id": "8ab6e8aa22",
+   "premier_vu": "2026-11-26T21:43:50+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://www.bienici.com/annonce/nestenn-1-99939823872",
    "source": "Bien'ici",
@@ -7649,7 +7673,13 @@
    "cp": "95100",
    "id": "7bf0315a5e",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562954979"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFIi3GRXIxgz7m3rcwrHu78RXdRlROji9I02hs3iBlYc0HTKH5zKQU1bn3oWNsML6fZ9sna5MR964pBAZrXhuOYnHDHjcHVsheoju_1mAknrJ-d",
