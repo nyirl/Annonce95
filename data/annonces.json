@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-26T08:00:41+00:00",
+ "maj": "2026-11-26T09:30:02+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583082",
@@ -8166,6 +8166,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZzIBc2vykMGGoOwNgIFMwDkOJg6JZjhKjKxL-bTwJ2aS4pmfF8zBgTlL-etCsJKo6qcO5tVl95INTJf7xe-exwkdoMikzlL0tcmANJaYw5cyndQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFb69X_UmqAFyXp4ZIdBI8I7a1eIBI6qNUN9HJ0xMvz4jhCfpBTNlsE54LjeeIiFVqQK21iEqIBv5BWL2dEkuAh4g4qibFrytkvK9OzzVe2NOoQ"
     }
    ]
   },
@@ -10327,7 +10331,13 @@
    "cp": "95400",
    "id": "75efea8acb",
    "premier_vu": "2026-11-14T10:38:55+00:00",
-   "vu": "2026-11-14"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562663361"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977560568",
