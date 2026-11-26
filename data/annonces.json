@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-26T21:43:50+00:00",
+ "maj": "2026-11-26T22:45:59+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag757613-562992923",
+   "source": "Bien'ici",
+   "titre": "Argenteuil – La Colonie | Appartement de charme en meulière, cave de 10 m² et petite copropriété",
+   "prix": 169000,
+   "surface": 48.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "c7a0bf6293",
+   "premier_vu": "2026-11-26T22:45:59+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1747251",
    "source": "Bien'ici",
