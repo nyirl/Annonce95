@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-26T11:30:17+00:00",
+ "maj": "2026-11-26T12:41:04+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/era-2-61718026",
+   "source": "Bien'ici",
+   "titre": "Beau T4 à rénover de 81m2 en plein quartier de la Basilique",
+   "prix": 199900,
+   "surface": 79.63,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "de8884a698",
+   "premier_vu": "2026-11-26T12:41:04+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939823846",
+   "source": "Bien'ici",
+   "titre": "Appartement Franconville 4 pièces résidence esprit ville gare de Franconville",
+   "prix": 295000,
+   "surface": 68.23,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "98be925b7a",
+   "premier_vu": "2026-11-26T12:41:04+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag951006-562879445",
    "source": "Bien'ici",
