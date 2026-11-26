@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-26T03:14:28+00:00",
+ "maj": "2026-11-26T04:23:29+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/ag921903-562761152",
@@ -23903,7 +23903,13 @@
    "cp": "95000",
    "id": "1b59e02b2b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbOgWPrnw--7F5CP2w7D1T9RnPG7fLfbv2NrEXgZ9_h90AqCP_hrSK4UE4gGwrO-aX0fzCtW9RdjAf-h5rPK15ofc42PjGdJUtU4QILT42QJM"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2070660",
@@ -30615,7 +30621,13 @@
    "cp": "95800",
    "id": "324b20534b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbOgWPp0i3_zYrU-RR2-DABSKl210Vi8zZI3Hj62lLDMTrn-jXkwXXMGwEEj4i9-tXFjkPZgSe3vHisDwNAAhtnfNSJRxtsxwDkWFCSZ0lrNQ"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87334372",
