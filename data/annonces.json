@@ -1,6 +1,102 @@
 {
- "maj": "2026-11-26T14:11:01+00:00",
+ "maj": "2026-11-26T15:20:31+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/gedeon-34271562",
+   "source": "Bien'ici",
+   "titre": "Appartement 4 pièces avec une grande terrasse",
+   "prix": 211200,
+   "surface": 85.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "0553bc9384",
+   "premier_vu": "2026-11-26T15:20:31+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562923512",
+   "source": "Bien'ici",
+   "titre": "*Charmant 2 pièces avec loggia face à la Marina*",
+   "prix": 299000,
+   "surface": 42.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "ce54114ab9",
+   "premier_vu": "2026-11-26T15:20:31+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562922723",
+   "source": "Bien'ici",
+   "titre": "*Charmant 2 pièces face à la Marina*",
+   "prix": 311000,
+   "surface": 50.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "531277bae5",
+   "premier_vu": "2026-11-26T15:20:31+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562923539",
+   "source": "Bien'ici",
+   "titre": "*Charmant 3 pièces avec loggia face à la Marina*",
+   "prix": 449000,
+   "surface": 80.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "1b8f579e8a",
+   "premier_vu": "2026-11-26T15:20:31+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562921796",
+   "source": "Bien'ici",
+   "titre": "*Charmant 4 pièces avec terrasse et très grand jardin en coeur de ville*",
+   "prix": 453000,
+   "surface": 79.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "63589154c0",
+   "premier_vu": "2026-11-26T15:20:31+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562922111",
+   "source": "Bien'ici",
+   "titre": "*Charmant 3 pièces en Duplex avec terrasse face à la Marina*",
+   "prix": 523000,
+   "surface": 96.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "e3019cc4d0",
+   "premier_vu": "2026-11-26T15:20:31+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562924298",
+   "source": "Bien'ici",
+   "titre": "*Charmant et rare 6 pièces en Duplex avec deux grandes terrasses face à la Marina*",
+   "prix": 785000,
+   "surface": 132.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "98e76849b7",
+   "premier_vu": "2026-11-26T15:20:31+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcw2UTxunk_FxZozhRZjRUCJLV6a49kYyUQACmlCgM0oHc-LY3JOpi18-NMBESkj-YWDN4Q9xoyygLtCBYk2FQE0_LiBFfnapiGrTjPK-_XV0",
+   "source": "SeLoger",
+   "titre": "APPARTEMENT 2 PIÈCES - HERBLAY",
+   "prix": 179000,
+   "surface": 45.21,
+   "commune": "Herblay-sur-Seine",
+   "cp": "95220",
+   "id": "308a264daa",
+   "premier_vu": "2026-11-26T15:20:31+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://www.bienici.com/annonce/hektor-vovardimmobilier-2452",
    "source": "Bien'ici",
@@ -3418,6 +3514,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbjGHCxQHri6qa4yuMQIbv1MN7vcM8WagVN_kgLMxuMa-FioY1Dn9jMlSJ0cDCHT3fEZp23Nn7QBG2sYjxbq3EWxxeDJGPc7TqVHVmtDvfP9IF"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcwH7Mv_l3BHgRWvhBAig7yubsF4v-WEeVzPtKav2T2gVfU_65unu3K5TzuPAz4pUZQ3LUz6ztlNToS8C3XrNhT7TABa2MLHqwHp5SSFvZWtnh"
     }
    ]
   },
@@ -3746,6 +3846,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977583081"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcq4UHCaZH-kwVV8aB2pt81buk4L1GUcxm29vlssrrDV8otkZc9OpKcbSdwrmzDnb2ooUHXzM1nXidHy9_eSndKtBU0vtAuYNmHoAthJ4CQZ9v"
     }
    ]
   },
@@ -12927,7 +13031,13 @@
    "cp": "95250",
    "id": "3ec1ba7092",
    "premier_vu": "2026-11-10T11:20:23+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/eiffage-6593-6593_2P_D1-406"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/eiffage-6593-6593_3P_D1-001",
@@ -26488,6 +26598,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977577580"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcpZF6EqBLcEtzt1SjLNdJ3OKc-wdhn-SRHSjVF9-PdZWr4JMHVBPo9eEWQK1k12LdCmOT17ChwVihdpso2IPLYROcjEoQxFuRpDzbyl3_66I"
     }
    ]
   },
@@ -26850,6 +26964,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977572086"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcwH7MsIdJTad4FuZwHWo63RlkYAiQBcYiH2UTT5ByWXTYih1ZSbsat2Akj5V0L9ZBZEFTnyvjltKTDPLUAQmfIDV8pHwy6TvrxRIRR6cRa9wf"
     }
    ]
   },
@@ -27274,6 +27392,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977572114"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcuor5A749IW-i-RXuVKWjmn58HN0FgocVbxOIlbsH261NQzbSS0lJgBs2M5SE5IwM6XTY_SqNIupLdwoKli94gk0mHybmI51P8PYtsTldVBlD"
     }
    ]
   },
