@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-26T04:25:41+00:00",
+ "maj": "2026-11-26T05:36:21+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2168077",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 5 pièces",
+   "prix": 219000,
+   "surface": 88.12,
+   "commune": "Éragny",
+   "cp": "95610",
+   "id": "bbbe39279d",
+   "premier_vu": "2026-11-26T05:36:21+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61621999",
    "source": "Bien'ici",
@@ -71,7 +83,13 @@
    "cp": "95150",
    "id": "cc7646b8af",
    "premier_vu": "2026-11-25T21:48:53+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbYyD1HXQ3rSPstEWhpQtmHCRE2x_L8CFjt8ROhrAIUtIPNAZi08vGp35LjFBLwRupDPo3OKXIbcvPzRtvM9AIG3FNaCPxSTZF6-FugaCCkWPu"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2168309",
@@ -8782,6 +8800,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFW6OjjnPY32c2OkaTRD9XElztnmLAxP-UQo_CwErIuei4uJL8M3q9IirnPYBdOg8jggp96r_jIruSwjFf_gUjOJqUg1oOCB0Ea8ZIWHeKNnuHiYA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbQivHcY8VtDQtZh5GZ3W6L7WC0vrxXnY9z92MYG1MYeurG0-_czz_uzzFl_xoSlFi_CrsH_AiEwUyFNyhWVszjI6CXSMtm7w7BWdZKaFsHZUw0g"
     }
    ]
   },
@@ -23487,7 +23509,13 @@
    "cp": "95610",
    "id": "785a95e168",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbQivHdwF2BVXhxVs9B4GskpPfcrUVi1gHYsr6UNN66Dz5FSwT23FCQgta9Kz7oJCpxhtxgBiX70Qys5rmFd2OqfC5Azm-JbPL7SG0ci1brAM0iw"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2125132",
@@ -25423,7 +25451,13 @@
    "cp": "95630",
    "id": "fa880e949a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbQivHa2wXUummMsWUHPyFlD3qde4SBWsM5s0NPW8i36WIgkW9UnM4KRUijL85uuVt2bRZQ7eQh1CPkkqaM4rf0gREnCPGWWimrrIWF-zHHeuYgQ"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2058477",
