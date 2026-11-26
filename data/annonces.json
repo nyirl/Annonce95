@@ -1,6 +1,138 @@
 {
- "maj": "2026-11-26T15:20:31+00:00",
+ "maj": "2026-11-26T16:40:42+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61775862",
+   "source": "Bien'ici",
+   "titre": "A VENDRE Appartement Enghien Les Bains 3 pièce(s) 64 m2",
+   "prix": 310000,
+   "surface": 64.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "83462f1d44",
+   "premier_vu": "2026-11-26T16:40:42+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag952031-562939589",
+   "source": "Bien'ici",
+   "titre": "VAURÉAL COEUR DE VILLE F2 AVEC PARKING SOUS-SOL",
+   "prix": 172000,
+   "surface": 38.0,
+   "commune": "Vauréal",
+   "cp": "95490",
+   "id": "bcd32cccc0",
+   "premier_vu": "2026-11-26T16:40:42+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-BIENCHEZNOUS95-522",
+   "source": "Bien'ici",
+   "titre": "Appartement 2 pièces de 44m2 avec cave et place de parking",
+   "prix": 180000,
+   "surface": 43.89,
+   "commune": "Belloy-en-France",
+   "cp": "95270",
+   "id": "addbbed86a",
+   "premier_vu": "2026-11-26T16:40:42+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939819460",
+   "source": "Bien'ici",
+   "titre": "BEL APPARTEMENT  AVEC BALCON A RAFRAICHIR !",
+   "prix": 172000,
+   "surface": 76.63,
+   "commune": "Saint-Brice-sous-Forêt",
+   "cp": "95350",
+   "id": "868f811bbb",
+   "premier_vu": "2026-11-26T16:40:42+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562932707",
+   "source": "Bien'ici",
+   "titre": "*Charmant studio avec terrasse en coeur de ville*",
+   "prix": 169000,
+   "surface": 28.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "3b05fdf9a9",
+   "premier_vu": "2026-11-26T16:40:42+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562930226",
+   "source": "Bien'ici",
+   "titre": "*Charmant 2 pièces avec balcon en coeur de ville*",
+   "prix": 242000,
+   "surface": 38.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "99f56396ad",
+   "premier_vu": "2026-11-26T16:40:42+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562928417",
+   "source": "Bien'ici",
+   "titre": "Bezons - Dernier lot disponible",
+   "prix": 322000,
+   "surface": 58.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "0a775d0c5a",
+   "premier_vu": "2026-11-26T16:40:42+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562932950",
+   "source": "Bien'ici",
+   "titre": "*Charmant 3 pièces avec terrasse et très grand jardin en coeur de ville*",
+   "prix": 378000,
+   "surface": 62.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "64b239760f",
+   "premier_vu": "2026-11-26T16:40:42+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562929605",
+   "source": "Bien'ici",
+   "titre": "*Magnifique 5 pièces Duplex traversant avec terrasses et parking*",
+   "prix": 695000,
+   "surface": 135.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "1bad987bad",
+   "premier_vu": "2026-11-26T16:40:42+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562931906",
+   "source": "Bien'ici",
+   "titre": "*Magnifique 5 pièces Duplex traversant avec grande terrasse de 46m2 et parking*",
+   "prix": 698000,
+   "surface": 133.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "69e1973a14",
+   "premier_vu": "2026-11-26T16:40:42+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562920548",
+   "source": "Bien'ici",
+   "titre": "*Charmant 3 pièces avec balcon en coeur de ville*",
+   "prix": 359000,
+   "surface": 62.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "fb1017b224",
+   "premier_vu": "2026-11-26T16:40:42+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://www.bienici.com/annonce/gedeon-34271562",
    "source": "Bien'ici",
@@ -4289,7 +4421,7 @@
    "cp": "95120",
    "id": "e1142688d4",
    "premier_vu": "2026-11-19T15:48:53+00:00",
-   "vu": "2026-11-25",
+   "vu": "2026-11-26",
    "autres": [
     {
      "source": "Bien'ici",
@@ -4302,6 +4434,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562462598"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562917701"
     }
    ]
   },
@@ -4315,7 +4451,7 @@
    "cp": "95120",
    "id": "57fa94208b",
    "premier_vu": "2026-11-19T15:48:53+00:00",
-   "vu": "2026-11-25",
+   "vu": "2026-11-26",
    "autres": [
     {
      "source": "Bien'ici",
@@ -4328,6 +4464,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562462490"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562917761"
     }
    ]
   },
@@ -4341,7 +4481,7 @@
    "cp": "95120",
    "id": "b6026e1ec6",
    "premier_vu": "2026-11-19T15:48:53+00:00",
-   "vu": "2026-11-25",
+   "vu": "2026-11-26",
    "autres": [
     {
      "source": "Bien'ici",
@@ -4354,6 +4494,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562462412"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562917836"
     }
    ]
   },
@@ -5343,7 +5487,7 @@
    "cp": "95120",
    "id": "5270f4df25",
    "premier_vu": "2026-11-18T11:54:51+00:00",
-   "vu": "2026-11-25",
+   "vu": "2026-11-26",
    "autres": [
     {
      "source": "Bien'ici",
@@ -5360,6 +5504,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562462307"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562917905"
     }
    ]
   },
@@ -7904,6 +8052,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcF4ef6eZm3B_-M7u4aYM6QSEyr4Bdb9B10Rk47WKJOEhuqcU6YvEO4O2rSfvVTDMKf7z3n4Bv6g87XPb7DZmYvK9cRT5cpUcvYdnNawAytBX0"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdAQaNkBKTOL8OzK0QTINycAhN2kmiqf6VmBs6WhP2zLk11If8CUPDnK0aRCt_XKMDTT75uYShaQHAqeebfOuE8p62ddKvZ7tlLbtCaQwvU8Dj"
     }
    ]
   },
@@ -9338,6 +9490,14 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcfV0qtuj8nFmG7AUUu_EPZPqBmEk9Gpm8gr4K0h4vBzNurZWxws95ofw6_Gd9As_2ve0F8EOA9iUiuml4uXK8xzWhGaxBF4LNY1MHtSYaOJiQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFc8ebC7OrkY0uuKV67NP9ocRSl3o7lHzceeuTuD8kQAUk1sethxK9zhFL1TV6aYDZ8nZSE0XIB6K99hADClJ5Y_OOI7GJNuLjagMMn03OUfFJE"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdE04x7j65sjl2qE3q4s5O58QaMcP5eJB1Ropa1PJ12oUGfC4_0wqvvTpmYyUJx8G-Tc5l-TwoRpdnOPxupsJ_42rwhiU1V2I530a3vTIY0-zK7w"
     }
    ]
   },
@@ -34394,6 +34554,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/iad-france-2030201"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFc60Y1RVU4FtOElFemkypGokV5ONkkqq7BWxUXtCgysYzYn-sCPBHo2orEP0y8L8S9X90AC9wt8m2XkqYzBcJVXU1MY3MJicvgHS1FdftYNzkB"
     }
    ]
   },
@@ -35307,7 +35471,13 @@
    "cp": "95370",
    "id": "38b77b3ff9",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdE04x6PaY4Bp1sF-5qRv2vvV0ofWPp378zymZBmmvBp6vj0aFg1ozX33toJqVVQLJIqs1VDGE9zxyDiqMzZtPQ3Xb1xajZDtPEKOYmoAdK5FwMA"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/netty-company51656xzz-appt-2059",
