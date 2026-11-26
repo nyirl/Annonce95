@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-26T10:35:51+00:00",
+ "maj": "2026-11-26T11:30:17+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/ag951006-562879445",
@@ -2241,7 +2241,13 @@
    "cp": "95560",
    "id": "a259272570",
    "premier_vu": "2026-11-21T19:58:50+00:00",
-   "vu": "2026-11-24"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcKHqaKqvdhjLwsFunY6V0uuzZNMRLtD_90pN3Sbaw9HCvn1I0nvup-9tONBRn_X5lNXwnDCkKMOl_3LWk9jWAIgFpPIqgiNV9ddPW8go2SznV"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTmjfE6Gfq-0iUPuX638QMywsvbeoEqbAlfFA9NcU29C9dHPOHEtfHwxA7hud9n4XTTpXrd-pShqx0Ji2b6niT7RSUux8MiE6l_hKfZ3RjdSr0bw",
@@ -7570,6 +7576,18 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFatslbDhEdpvvcTXcB7fdIdJV0dfrCcwLsu0cC3DndnozCvyoZbAeavUQIAO1YRBBIQOjcuFVI0q2bn2BKWq_Ze97XUbGNmey81CqCBNEMawLj"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcF4ef3Vx8RZxfNEarR6jV4npwZZTfOS1KVxPYyMGrIEZehaXA3DBraiPaTy8CaVYxI28Lq7Tb-Mc1Ov4ScG3CcvwBYtfEQCHHHZSuT1Fxyuct"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcF4ef4zbKe6L5W5XwUHyJR4L5gXvSVEvUtQqQVBOAmfPkyGk5jVAj8-QuryAjjDJgkoji5UqI63gnE5lh1xtCCfQ6Ti2IB6Y_oSXvmyKBoP9a"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcF4ef6eZm3B_-M7u4aYM6QSEyr4Bdb9B10Rk47WKJOEhuqcU6YvEO4O2rSfvVTDMKf7z3n4Bv6g87XPb7DZmYvK9cRT5cpUcvYdnNawAytBX0"
     }
    ]
   },
