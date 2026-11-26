@@ -1,6 +1,138 @@
 {
- "maj": "2026-11-26T12:41:04+00:00",
+ "maj": "2026-11-26T14:11:01+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/hektor-vovardimmobilier-2452",
+   "source": "Bien'ici",
+   "titre": "SARCELLES   ROOFTOP F3   83,37 m2   DERNIER ÉTAGE   TERRASSE",
+   "prix": 177000,
+   "surface": 83.37,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "id": "6db9e930db",
+   "premier_vu": "2026-11-26T14:11:01+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562923953",
+   "source": "Bien'ici",
+   "titre": "*Charmant 4 pièces avec balcon face à la Marina*",
+   "prix": 498000,
+   "surface": 90.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "9f5e9b48b9",
+   "premier_vu": "2026-11-26T14:11:01+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61797066",
+   "source": "Bien'ici",
+   "titre": "4 CHAMBRES 102 m2 TERRASSE, ASCENSEUR ET PARKING",
+   "prix": 385000,
+   "surface": 102.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "8cb6468b41",
+   "premier_vu": "2026-11-26T14:11:01+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5486371",
+   "source": "Bien'ici",
+   "titre": "À VENDRE - Charmant deux pièces atypique en plein coeur de Pontoise !",
+   "prix": 113500,
+   "surface": 22.45,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "5335b5bb16",
+   "premier_vu": "2026-11-26T14:11:01+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562913156",
+   "source": "Bien'ici",
+   "titre": "*Charmant studio face à la Marina*",
+   "prix": 236000,
+   "surface": 39.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "a5a5eddadb",
+   "premier_vu": "2026-11-26T14:11:01+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562914950",
+   "source": "Bien'ici",
+   "titre": "*Charmant 2 pièces en coeur de ville*",
+   "prix": 307000,
+   "surface": 52.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "20ccfe7981",
+   "premier_vu": "2026-11-26T14:11:01+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562911143",
+   "source": "Bien'ici",
+   "titre": "*Superbe 3 pièces avec balcon, idéalement situé*",
+   "prix": 332000,
+   "surface": 58.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "6fcadc2484",
+   "premier_vu": "2026-11-26T14:11:01+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562914407",
+   "source": "Bien'ici",
+   "titre": "*Charmant 3 pièces avec loggia en coeur de ville*",
+   "prix": 397000,
+   "surface": 67.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "8e846ed27b",
+   "premier_vu": "2026-11-26T14:11:01+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562913093",
+   "source": "Bien'ici",
+   "titre": "*Charmant 4 pièces avec balcon en coeur de ville*",
+   "prix": 439000,
+   "surface": 79.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "2ebda75bc8",
+   "premier_vu": "2026-11-26T14:11:01+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562915625",
+   "source": "Bien'ici",
+   "titre": "*Charmant 4 pièces avec terrasse en coeur de ville*",
+   "prix": 484000,
+   "surface": 93.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "f122e9777d",
+   "premier_vu": "2026-11-26T14:11:01+00:00",
+   "vu": "2026-11-26"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-562913102",
+   "source": "Bien'ici",
+   "titre": "*Charmant 5 pièces en Duplex avec terrasse 50m2 et balcon en coeur de ville*",
+   "prix": 559000,
+   "surface": 101.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "86a8b1ea16",
+   "premier_vu": "2026-11-26T14:11:01+00:00",
+   "vu": "2026-11-26"
+  },
   {
    "url": "https://www.bienici.com/annonce/era-2-61718026",
    "source": "Bien'ici",
@@ -575,7 +707,13 @@
    "cp": "95320",
    "id": "897931d5e3",
    "premier_vu": "2026-11-25T12:41:21+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562907873"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-562617683",
@@ -587,7 +725,13 @@
    "cp": "95320",
    "id": "1b287422f0",
    "premier_vu": "2026-11-25T12:41:21+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562908173"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-562616489",
@@ -599,7 +743,13 @@
    "cp": "95320",
    "id": "493c0bb24b",
    "premier_vu": "2026-11-25T12:41:21+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562908461"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-562615751",
@@ -611,7 +761,13 @@
    "cp": "95320",
    "id": "4e28ef4516",
    "premier_vu": "2026-11-25T12:41:21+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562908626"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-562614995",
@@ -623,7 +779,13 @@
    "cp": "95320",
    "id": "3fb2bc8982",
    "premier_vu": "2026-11-25T12:41:21+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562908818"
+    }
+   ]
   },
   {
    "prix": 165000,
@@ -5043,7 +5205,7 @@
    "cp": "95120",
    "id": "d4d347b963",
    "premier_vu": "2026-11-18T11:54:51+00:00",
-   "vu": "2026-11-25",
+   "vu": "2026-11-26",
    "autres": [
     {
      "source": "Bien'ici",
@@ -5060,6 +5222,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562464290"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562909532"
     }
    ]
   },
@@ -5812,6 +5978,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562639631"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562908284"
     }
    ]
   },
@@ -5842,6 +6012,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562639703"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562908971"
     }
    ]
   },
@@ -6086,6 +6260,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYX1URLXs8dA_IETh5VufyQNeaC_NC1P-oJ7AbJ1x-kXhxwu8oKhMrDqKjqZuba9-9o0Mfrw-4NbEI0Jq4nK7--Vv6GarrcBh-2Zp87CzaumIS"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFciQJwc4_LJb-1_OCl9vYKhAtabQNhO7TifNtiZeQkeEH7ieZzZUEd68T7vJExx72KM26Q4f0T0qJ0hC4T8KH-5r0XYJ22IYcZH0AGkj45tzBqiw"
     }
    ]
   },
@@ -6549,7 +6727,13 @@
    "cp": "95560",
    "id": "a2c6dbd7f6",
    "premier_vu": "2026-11-17T09:16:39+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-26",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFciQJwjU8tEUveSwzEQSZpQmlC49GQ3EUWogWV4c8_27YFosRdlH_19iWxya75cLg_r6-TSTouDrb005F5MTHF5ajBbketp5PvegmzW2vUvZyYNQ"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKIA7IZ2zGeyU0xBYn_xxXQ-cr1cS2Kurm_qKNuN-C0S_edE_4-U7FmYd33g-GjQr091vNvN27AijynQbniePClvN-2qnkKdFn0J_lDo6ieE8",
@@ -7155,11 +7339,15 @@
    "cp": "95560",
    "id": "79c47813c9",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-24",
+   "vu": "2026-11-26",
    "autres": [
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTmqsQGoxu3CQo72361AlbGIxNOEMNpHbx7KIlj5eMbZ94g_kl_fi4wCr8UCGTSGtiaR0YrOYOc2pMHLiIzFpJ72Gd_d7dWegi_pW_W-q6UEbJRA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcjj7v9aUiZ5G9_DSTgI1ftp8V4Cote5bjkim-fK0LcTeibkP0bNeE1hnK_TZcghq5U6l_7Vn0xGU3iM87ACK7dLMSvau0HxfByYjcDbPIZ4Tm3w"
     }
    ]
   },
@@ -7917,7 +8105,7 @@
    "cp": "95120",
    "id": "9afcb2cfdb",
    "premier_vu": "2026-11-15T20:45:21+00:00",
-   "vu": "2026-11-19",
+   "vu": "2026-11-26",
    "autres": [
     {
      "source": "PAP",
@@ -9042,6 +9230,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbrp1vLlOs0z6niVh9np_l50N92uZ7gB2-eNBRWyI192jhjqm3urDfQcG73ob6Ih6cANqhdR2knh1InfMchRbk-AKyd65_An9mNYBqVBVttJnh"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcfV0qtuj8nFmG7AUUu_EPZPqBmEk9Gpm8gr4K0h4vBzNurZWxws95ofw6_Gd9As_2ve0F8EOA9iUiuml4uXK8xzWhGaxBF4LNY1MHtSYaOJiQ"
     }
    ]
   },
@@ -9208,6 +9400,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562639574"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562908053"
     }
    ]
   },
@@ -17866,6 +18062,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag755942-540263750"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcnYXETcEhCU9IJMj4NYpINPj3MAiGi5ycvlAT6k6D1hOjhnEslF59-tnNmm-CvJDJexRFCCFm0xXUl5ot4qFCYzdypdkt6yX-2bKh8Dg6S3rBCQ"
     }
    ]
   },
@@ -26836,6 +27036,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNQUPO281474977580934"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcnYXER2m3DV4atxQvgJ3llJK-F01ynVvvg6NXof_q1VuHpOR-GRMNlrLZ4ZOcv-hffsUWbpxzlOZy4-JKddc_iawRcVrIQz5PasGyWqX6vawEGw"
     }
    ]
   },
@@ -27196,6 +27400,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977577548"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFcjj7v799YSoOQpn3mUUVOjIGkBc9-Dl3-E0piIe3EqFavyfAfJsjVICWTUsOXh5b8MH49PHSLaf69xOj7YumjBr96c5a7P5cE729tB-7D2-3THg"
     }
    ]
   },
@@ -33910,6 +34118,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/iad-france-2165282"
+    },
+    {
+     "source": "PAP",
+     "url": "https://www.pap.fr/annonces/-r466300956"
     }
    ]
   },
