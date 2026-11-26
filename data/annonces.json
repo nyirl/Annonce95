@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-26T19:54:54+00:00",
+ "maj": "2026-11-26T20:44:38+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/nestenn-1-99939823872",
@@ -6589,11 +6589,15 @@
    "cp": "95560",
    "id": "1c4e8fbae4",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-25",
+   "vu": "2026-11-26",
    "autres": [
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjgsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTva45L7hRQZTK1P8Fi4PKaIy_b_HL9qj24nm9VtyisWpUd5FLnBRvPHAIOEDJgdm1mO4I-DyiTaA_cTW0Mg7nmZcwiV4pPpuJpLGatZ4cLjuWMA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFditdVgSdvBJMoY98qrKH8aw-FKwiXz2lVZQXlvUOy_AAPoicwS73UftqU7HFg5YweUJsVrreMzgL8cPhSvRIqPcw_juxOA3NYeHj-6uIcMsz9"
     }
    ]
   },
@@ -8150,6 +8154,14 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdimHGFvhpwep9rgAA0m-CoeONAM0KAxs9p7S2dcO1SV17Mh4bLcwjolsTqmSmnf1xeEqUlSLeVoUibVpiNw6LUYy6pEp8H4hDfz45LOAWFOPK"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdiuYH5Ydhid_dvxzgL7j7gEGIMGCiPj6wQJK3sq9xd6lRI7sUnmo1G88nu_6IOFe0cjBm6PDxwmnt8kyBAmoKZ9Upigity6pw7jFOLMyyiY1_Tg"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdiuYH60Gs69pG9q6t20OwNLTDrJw4HE6TUe6SFztHKN-yUlIqrnDbk6_UaOtc5aJ7J5_wMyxfo0sYtcPJ9n6hAZF2sO-XP9Qzku0PRqc2MicuvQ"
     }
    ]
   },
