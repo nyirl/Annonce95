@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-27T00:56:01+00:00",
+ "maj": "2026-11-27T02:16:39+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/century-21-202_639_677226",
+   "source": "Bien'ici",
+   "titre": "Appartement 3 pièces",
+   "prix": 189000,
+   "surface": 62.05,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "33830fb17d",
+   "premier_vu": "2026-11-27T02:16:39+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/century-21-202_811_677846",
+   "source": "Bien'ici",
+   "titre": "Appartement 3 pièces",
+   "prix": 189000,
+   "surface": 62.05,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "889ceeea85",
+   "premier_vu": "2026-11-27T02:16:39+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/century-21-202_592_27517",
+   "source": "Bien'ici",
+   "titre": "Appartement 4 pièces",
+   "prix": 215000,
+   "surface": 78.43,
+   "commune": "Sannois",
+   "cp": "95110",
+   "id": "82774d0fe8",
+   "premier_vu": "2026-11-27T02:16:39+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag757026-563038868",
+   "source": "Bien'ici",
+   "titre": "Viager occupé - F84 ans - ENGHIEN LES BAINS (95880)",
+   "prix": 149200,
+   "surface": 113.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "94cda67bab",
+   "premier_vu": "2026-11-27T02:16:39+00:00",
+   "vu": "2026-11-27"
+  },
   {
    "url": "https://www.bienici.com/annonce/visiteonline-p_6414965",
    "source": "Bien'ici",
