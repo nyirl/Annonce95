@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-27T11:48:10+00:00",
+ "maj": "2026-11-27T12:57:57+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag603844-563157893",
+   "source": "Bien'ici",
+   "titre": "BEAUMONT SUR OISE",
+   "prix": 141000,
+   "surface": 46.0,
+   "commune": "Beaumont-sur-Oise",
+   "cp": "95260",
+   "id": "0e9e1bb888",
+   "premier_vu": "2026-11-27T12:57:57+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfQYdFL_Pc49wbxRpGIZ-ggyzoD4h8f_TIODpCqbZiU4Q9A0dSEGSdYL91eqzASrXEIqarvWHDKL3l4zz1qvIhHM0Bwupp235adtH3Z2lNki_9sQ",
+   "source": "SeLoger",
+   "titre": "APPARTEMENT",
+   "prix": 179500,
+   "surface": 47.0,
+   "commune": "Méry-sur-Oise",
+   "cp": "95540",
+   "id": "4ab1a4f8f0",
+   "premier_vu": "2026-11-27T12:57:57+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfOpFdGlnOELG4LOX4M662gn5jCr8Ae5KdLGv9uf4ya2k7rz2gjcfgffyboxNAly0ZWJ5tyFeipnwy5iLDxcVbiePLXaNE3lD-qb0YfpZisjJ-",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces de 46 m² situé à Pontoise",
+   "prix": 185000,
+   "surface": 46.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "0061325d84",
+   "premier_vu": "2026-11-27T12:57:57+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfUI28N8PGzabTBH0t0zsHdnMfqZ7epKOIaAqjjJ964DL6WUisqh2N_KorNQmHeoiuAWgTIab-UjK0hWBYySImgVqfe3EOthv6Zwhzfu0G5fYc",
+   "source": "SeLoger",
+   "titre": "T3 pièces avec balcon - ST OUEN L'AUMONE",
+   "prix": 185000,
+   "surface": 57.9,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "f32d128623",
+   "premier_vu": "2026-11-27T12:57:57+00:00",
+   "vu": "2026-11-27"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2165177",
    "source": "Bien'ici",
@@ -8664,6 +8712,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfKxAwqvv2lhiCAOvRxvm5AV-ZYSClkIRzXnwkIUs5u9w1V5Yr8nuUbtK_0YsXrT6oQCiNca5gScCB4V-9BK9DT5LRaJHAUryo9A5O-YMN8iAq"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfY9_Bk3qIlj7QPjie5mF6AdvtU3FHZXaNfxOVzvYXheYH7iUVYjZeseGPZSoezjDkAlgO6ywNghld4vtJnwDmPKthxp-dSXzDaXULB8S9k3ne"
     }
    ]
   },
@@ -9098,6 +9150,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdcUUoYwHUy3azVPJEmPwjNg1_aEjMOqLz0JW3pvuYHTlUcUMegd-7Z3123IJ82P4DpIn77Lz82kQNEyeJVAr4Z3jNs9WMpJzDwfwb8CHi97UH"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfXxV6CjPXutTM3Olkh_7D4Sy76VlkMUMuHNmL_S_cKk1eyoTXSxSSEKE6etP8cH_7BkVkTc0q7daZ64sAQ1cJ48kTTqRP50eU1rOOKE_0_3f3"
     }
    ]
   },
@@ -25299,7 +25355,13 @@
    "cp": "95280",
    "id": "00b32db4b5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-27"
+   "vu": "2026-11-27",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfXxV6FvgLiOY8Wx6Qykqb5FWBQLi2MYtnnrSUiemJE0MBYnSmemtbiITGP_Yc8ia91abZiNnJ2A8QABHFbeEFhotssEA85vZr8zUuPxeTA63y"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1978236",
@@ -25652,6 +25714,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTmqsQIG_wlc_SoUAa47yOCHZH9zhPqfdcxeZdJmgGWiC2XNgVMCC-9CzWydd-TC2WO6_rhYcU5PFZgajl1DifvJ949n1LvwTvhX-9f5xRimZc5w"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfQYdFUGGYb_FujwS1HCftmApV2F29ja4tu1KZ46EFTnEiUK-HfhqzHTd-w_IIJ2mmuupDNXJV6JCpdgJOoN9O3zAWaCUTeVl0uHFyvHGiBEh3Fw"
     }
    ]
   },
@@ -26602,6 +26668,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/safti-1-1682132"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfXxV6EGnQ53rrSQJ72MCpgXfr_AvOBVT5S5mX87Vz6sOx41Uo4_m2WzU8KB57hvx7VrXUVWdAld4RY7K04gOnSuw9vzD-Hlvq3meMi7ywbj5f"
     }
    ]
   },
@@ -43555,7 +43625,13 @@
    "cp": "95880",
    "id": "c751c21429",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-27"
+   "vu": "2026-11-27",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ifsp6a-5502100"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-vovardimmobilier-2416",
