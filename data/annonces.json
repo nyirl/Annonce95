@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-27T12:57:57+00:00",
+ "maj": "2026-11-27T14:17:43+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFffIT7BEYPrKplFEzIreYhR_VzgZzL0mWRH-TMlzQhF2va8f4uVCY8sP7R3SxbRfK_qIQkLIM2-5d2HQU77bBBbIBIgitm85oTeDCsbIBO30wu",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces",
+   "prix": 140000,
+   "surface": 49.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "bf8da57447",
+   "premier_vu": "2026-11-27T14:17:43+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "prix": 193000,
+   "surface": 37.0,
+   "commune": "Herblay",
+   "cp": "95220",
+   "url": "https://www.pap.fr/annonces/-r465902594",
+   "source": "PAP",
+   "titre": "Herblay (95220) Vente appartement 2 pièces 37 m² 193.000 € Voir l'annonce",
+   "id": "9709b9784b",
+   "premier_vu": "2026-11-27T14:17:43+00:00",
+   "vu": "2026-11-27"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag603844-563157893",
    "source": "Bien'ici",
@@ -9154,6 +9178,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfXxV6CjPXutTM3Olkh_7D4Sy76VlkMUMuHNmL_S_cKk1eyoTXSxSSEKE6etP8cH_7BkVkTc0q7daZ64sAQ1cJ48kTTqRP50eU1rOOKE_0_3f3"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFffIT7CsIhVYyb_Ty3VPzUPQfo8Ie4g4_Va9F_cThzOHgdq9qqsF68YH2CewVZ3lrbOOy3-w5XvCmR7fejizAz88HTGT7lwyhBr0tEm0R76uGo"
     }
    ]
   },
@@ -28522,6 +28550,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZIR2USQgXgdCBkhSLrQnTN-kQ6p9lFhCxQSg6aOjEIDtba51pYqrb_6Cdb1pSn5IO0jBh2j3qGlBxbVJ4rt0ZpVGnJeYFJlW1DUFwroJr_MMe"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfhmjR1a5Dy0RZV-4A05QD-qdpff0e-nmGikMbVUMKeMe5iKqvwmqqedD-iOcr_wfAtCJ8MhFiydAFJ2lHjovUzO1vA5PoU654WgcN04sf_PFh"
     }
    ]
   },
@@ -60250,6 +60282,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61585415"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61801221"
     }
    ]
   },
