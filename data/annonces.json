@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-27T20:31:26+00:00",
+ "maj": "2026-11-27T21:31:10+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/netty-company56766aku-appt-1927",
+   "source": "Bien'ici",
+   "titre": "BEL APPARTEMENT 3 PIECES AVEC BALCON",
+   "prix": 226800,
+   "surface": 75.16,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "b49eecde07",
+   "premier_vu": "2026-11-27T21:31:10+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2169588",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 155000,
+   "surface": 39.46,
+   "commune": "Domont",
+   "cp": "95330",
+   "id": "397c161465",
+   "premier_vu": "2026-11-27T21:31:10+00:00",
+   "vu": "2026-11-27"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag951006-563247782",
    "source": "Bien'ici",
@@ -1785,7 +1809,13 @@
    "cp": "95300",
    "id": "8f815ceee4",
    "premier_vu": "2026-11-25T06:32:41+00:00",
-   "vu": "2026-11-27"
+   "vu": "2026-11-27",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFgtzTi-mwjUoofzy26EK6MCre2xWEL14MYgX1B-2TUyGivWTv_tCfPBzAGgGQWw95seF1ru4XjrKB2qnPW_sNbJNnitANggVTgb12zMEsMPnU"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-562566380",
@@ -10150,6 +10180,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZd8vQwYPpkTImyrDcpPNdijtyhf9YCkYhpxUYIpfEZBuNjs3UNv71z-mta4iYhkWO1nEiXO7d5PfJL72KGms2meTps7i94VNvlkRKj2rffGhnOg"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFgxaarNki-Y3rDphSIYQYyDHzudWKGUtAbcZJXGFW6G4aFNVjZd2IWnSrPq7IejDPfFMxojGfn-Rx-mpKLsgGOzYnEuSl26XSi-RRVmNEZiukB"
     }
    ]
   },
