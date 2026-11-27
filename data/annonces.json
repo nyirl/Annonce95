@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-27T16:26:13+00:00",
+ "maj": "2026-11-27T17:32:04+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939825462",
+   "source": "Bien'ici",
+   "titre": "Appartement Franconville 3 pièces - Résidence récente - Deux balcons exposé plein Sud",
+   "prix": 215000,
+   "surface": 58.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "df54b56227",
+   "premier_vu": "2026-11-27T17:32:04+00:00",
+   "vu": "2026-11-27"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag783792-563200313",
    "source": "Bien'ici",
@@ -10042,6 +10054,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFaOy_cmxWqkB-tj96JLha3yOJ3allNzzTEVaWoI4jFs2eJpNWa37ITmnKYaQAmeJtZ3d5-T1umdyxYKhQCWVN7CDt50PKAlwbOgjFHDPyuunzZ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFgLvTV4wh4pFT55y67y7TB-lZPVViU95LnkmArwY93zEmCst3UhYl1MDQb-mOhg1mnMrGCYnHoAGmqyRDZKDQL4UsficMJeS1M1BE8-fV2I06L"
     }
    ]
   },
@@ -10354,6 +10370,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFe1iEW6Ms3rLZWQ_GssID7Z2-MNow9S9pd6k9xd31vZSjb5Uu_fp391fPNkUxAj3i5vrUEcQBzbrI42GZFN4DYlvlk-wXbsFiodjHnCBn6mEdb"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFgQhDB7W8QB4p5u1mfekTsbFTitcFzAbpF2P-JKDw2NSC8mOt3gXdpihi3tZfQVrHnVnX3TTp5gftfVnwH0R5eV_hsX5ihCoalv7aHBt5ky3qO"
     }
    ]
   },
