@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-27T08:39:43+00:00",
+ "maj": "2026-11-27T09:45:59+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939814260",
+   "source": "Bien'ici",
+   "titre": "ERMONT CERNAY ? 2 PIÈCES RÉNOVÉ AVEC 2 EXTÉRIEURS ET PARKING ? GARE À PIED",
+   "prix": 195000,
+   "surface": 38.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "a32e0e2a0f",
+   "premier_vu": "2026-11-27T09:45:59+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFeoR8sZ0CBdb_HvY6DZxMOVHFSFOXSuQFdRCS5y_KmElwG4m2HX2AN40W9rlD5c-sM0RnVG4R9RUQLwhOPNHyiHiwpYsdgJW29KFtxbkDFqaFX",
+   "source": "SeLoger",
+   "titre": "Appartement F2 à deux pas de la gare !",
+   "prix": 179900,
+   "surface": 40.0,
+   "commune": "Éragny",
+   "cp": "95610",
+   "id": "ed6cb6b1b0",
+   "premier_vu": "2026-11-27T09:45:59+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "prix": 170000,
+   "surface": 48.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "url": "https://www.pap.fr/annonces/-r464801194",
+   "source": "PAP",
+   "titre": "Saint-Ouen-l'Aumône (95310) Vente appartement 2 pièces 48 m² 170.000 € Voir l'an",
+   "id": "9cff1ba53a",
+   "premier_vu": "2026-11-27T09:45:59+00:00",
+   "vu": "2026-11-27"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFeAjpCccFlmKkY3Iuv7tKk8MqmDX6Uewt9b29NqWHhMW6URIVlRpaWEo6uNUjY982P4lKO1VBKPNNXFIr8LkgToyUDRZAYp3qcdr6Wjhv0sUnmLw",
    "source": "SeLoger",
@@ -5948,6 +5984,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFYX1URITdqe66DbznAMBNgyR007KYmGEd47R05RA0xqs1hp3sr2dPFWQBDWRPOe5Wktnenr7vBYUZ9C8VbFY1CZkl3LXiQZxLFyfYixjOhVyQl"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFeesl1QrWyErfvnm1MUJVYx7flDFl6huaVPoVPrI2Vczb6jumyxreG5LHEglBV2ou36lmlo0Wxh2EJ6QjdlE0PPYoGwXZqU3WWN9beQH6mgXSF"
     }
    ]
   },
@@ -7987,7 +8027,13 @@
    "cp": "95100",
    "id": "a7f07f61f1",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-27",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-562954784"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560431751",
@@ -15463,11 +15509,15 @@
    "cp": "95400",
    "id": "a9f4864de0",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-21",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/apimo-87574729"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/apimo-87639062"
     }
    ]
   },
@@ -56999,11 +57049,15 @@
    "cp": "95250",
    "id": "b164020df0",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-16",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/apimo-87564974"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/apimo-87639208"
     }
    ]
   },
