@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-27T15:19:13+00:00",
+ "maj": "2026-11-27T16:26:13+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag783792-563200313",
+   "source": "Bien'ici",
+   "titre": "Appartement À Vendre",
+   "prix": 219891,
+   "surface": 59.0,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "d1d92bdea2",
+   "premier_vu": "2026-11-27T16:26:13+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag923348-562956443",
+   "source": "Bien'ici",
+   "titre": "Enghien T3 vue sur le lac",
+   "prix": 361000,
+   "surface": 58.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "50625a4d08",
+   "premier_vu": "2026-11-27T16:26:13+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFf4YL45yIg6YT0WKqjaVdVDiZm-aIQvLQNlNJahu9bGZdSgI1qCVnMev3YiMpjLTNJSzVYzAfxQDcFTs8TOQ3RIhMAchdNrjWbRVNGioLIBMRP",
+   "source": "SeLoger",
+   "titre": "Appartement T2 de 44 m² – Beauchamp",
+   "prix": 174000,
+   "surface": 43.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "ab8172385f",
+   "premier_vu": "2026-11-27T16:26:13+00:00",
+   "vu": "2026-11-27"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2168593",
    "source": "Bien'ici",
@@ -4248,6 +4284,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977584173"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFgHxnTVtr6q-85H6XUifBl7e5ewED8AWYm-YLOYeU3ASjCLQClv3GhfqCBis-L77yGhibJJ-w4tkYrAhKhfqk-NrpjZjZh0Lo9hAfdC4YRQLJb"
     }
    ]
   },
@@ -4620,6 +4660,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977584172"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFf72Bf1WFB62MbOVvg789rZtoRn-x3NDKdfYTMlVhtSvAtTaXCPEcc1pDswaM80MtBLQS45PDWRHxArsKfZTYG0ja44bS3CXz5UGbuqGt55-nV"
     }
    ]
   },
@@ -55982,6 +56026,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61791846"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61801495"
     }
    ]
   },
@@ -56032,6 +56080,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61791950"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61801510"
     }
    ]
   },
