@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-27T05:54:13+00:00",
+ "maj": "2026-11-27T07:00:22+00:00",
  "annonces": [
+  {
+   "prix": 165500,
+   "surface": 54.0,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "url": "https://www.pap.fr/annonces/-r465000696",
+   "source": "PAP",
+   "titre": "Eaubonne (95600) Vente appartement 3 pièces 54 m² 165.500 € Voir l'annonce",
+   "id": "455736787e",
+   "premier_vu": "2026-11-27T07:00:22+00:00",
+   "vu": "2026-11-27"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag750949-562189655",
    "source": "Bien'ici",
@@ -263,7 +275,13 @@
    "cp": "95130",
    "id": "ac28c3e065",
    "premier_vu": "2026-11-26T17:48:19+00:00",
-   "vu": "2026-11-27"
+   "vu": "2026-11-27",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFd8Gudw4lFY3bSCA61kzcRK7VeaQN_hDHp4HaXN4b8SxlWeBAXSRj5jASAf2bQMxuIEjv_9paWB6dkecsnhS5HAN1l5KRgytmjH-cH7xJ70QsX"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61775862",
@@ -9826,6 +9844,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFdIeXJJie7COBgy2raRCbFqibpDrM4NcXmbMvkpa0Od4YrY26aUm98QCR6njPbRQvYmmyqaFLmF85jZe-J61dWA6bsGHjDLaNzfGhul1712Yeq"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFd9CFz1-AtvcuWPr4sBkwHdJQphxbL6CCiPB24HGxHX60tdhcpuDIHFKSOVsCJVAmEzSw8Gh0I8V4fHxFhxLwkL8iEZqq_QxVV6XperbOyj27t"
     }
    ]
   },
