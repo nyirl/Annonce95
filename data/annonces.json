@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-27T17:32:04+00:00",
+ "maj": "2026-11-27T18:24:48+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFgMk48hbzne4a95tR614EJWNuKkbAkOfoKguz0U5jk5aHrCLZSGg5FeVXE7kGfDe1kIbgTOW9JD2FYIAwMnrc9BNX1oAty9oyP12FoBcaqpIGg",
+   "source": "SeLoger",
+   "titre": "Appartement de 4 pièces principales",
+   "prix": 169000,
+   "surface": 76.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "a7f8c8188e",
+   "premier_vu": "2026-11-27T18:24:48+00:00",
+   "vu": "2026-11-27"
+  },
   {
    "url": "https://www.bienici.com/annonce/nestenn-1-99939825462",
    "source": "Bien'ici",
@@ -8437,7 +8449,13 @@
    "cp": "95120",
    "id": "f0012ae98c",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-27",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFgfoZd_1v7Kbgh8KuRLY9WM19prHBtdvQRtjXIx-0NGETdEpezOWbJq50XREvQY0bWve83Ced4L7sfDZzTJ-fFtv7LUFCoq5nQ-6eI7vU6zzge"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFJPLEDf12Rf4C0kcLU1v-eYKs--6WU-S7Ko4eqtZ5XI3rhKAxSDyr7HaI483vRUqH0LXtxDU4Jpsbzu51G65oaQZUPcSYHpPef1-BV_Y7h",
