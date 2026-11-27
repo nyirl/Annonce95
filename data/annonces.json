@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-27T18:24:48+00:00",
+ "maj": "2026-11-27T19:36:50+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag951006-563247782",
+   "source": "Bien'ici",
+   "titre": "SAINT GRATIEN LAC",
+   "prix": 105000,
+   "surface": 16.0,
+   "commune": "Saint-Gratien",
+   "cp": "95210",
+   "id": "d40b0537fd",
+   "premier_vu": "2026-11-27T19:36:50+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2168729",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 159000,
+   "surface": 78.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "e1183b44a4",
+   "premier_vu": "2026-11-27T19:36:50+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2169803",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 179000,
+   "surface": 50.08,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "74d66fcbbb",
+   "premier_vu": "2026-11-27T19:36:50+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-4916129",
+   "source": "Bien'ici",
+   "titre": "Appartement denier étage ? 128 m² ? Terrasse, balcon, cave, 2 stationnements",
+   "prix": 499000,
+   "surface": 128.0,
+   "commune": "Saint-Gratien",
+   "cp": "95210",
+   "id": "aa5d5bb3a5",
+   "premier_vu": "2026-11-27T19:36:50+00:00",
+   "vu": "2026-11-27"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFgMk48hbzne4a95tR614EJWNuKkbAkOfoKguz0U5jk5aHrCLZSGg5FeVXE7kGfDe1kIbgTOW9JD2FYIAwMnrc9BNX1oAty9oyP12FoBcaqpIGg",
    "source": "SeLoger",
@@ -10392,6 +10440,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFgQhDB7W8QB4p5u1mfekTsbFTitcFzAbpF2P-JKDw2NSC8mOt3gXdpihi3tZfQVrHnVnX3TTp5gftfVnwH0R5eV_hsX5ihCoalv7aHBt5ky3qO"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFgsIYd5Dt_mj78skCZeWIwNtBLS7yUbRs5G0bY-7IlgEvCwRJZaSeudU02y7KcIU36kJBPZMw65uxW7a69pBf_5MtiWhFEiCRkJjxlr12ybOyN"
     }
    ]
   },
@@ -10482,6 +10534,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFbQivHcY8VtDQtZh5GZ3W6L7WC0vrxXnY9z92MYG1MYeurG0-_czz_uzzFl_xoSlFi_CrsH_AiEwUyFNyhWVszjI6CXSMtm7w7BWdZKaFsHZUw0g"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFgsIYd3kq_crq-VEo_-4jAmUOT2N7iaTlMP5nn-SlyzET7O6naYMve7Aes_pZevCnanQj3VNH6ahEDR4EzlOj9x4OMHMf2ZdnXKaXdNyRAzZm7"
     }
    ]
   },
