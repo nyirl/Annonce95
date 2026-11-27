@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-27T14:17:43+00:00",
+ "maj": "2026-11-27T15:19:13+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2168593",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 125000,
+   "surface": 53.0,
+   "commune": "Garges-lès-Gonesse",
+   "cp": "95140",
+   "id": "cf6efc4d30",
+   "premier_vu": "2026-11-27T15:19:13+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2167965",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 199000,
+   "surface": 42.0,
+   "commune": "Montigny-lès-Cormeilles",
+   "cp": "95370",
+   "id": "1a1947c7a9",
+   "premier_vu": "2026-11-27T15:19:13+00:00",
+   "vu": "2026-11-27"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfozMxIm8h1KinJBxULnt29J01tBiAjEkvm0jKKph3W_K8oi65bfHnIbrzoQzY5Y7WvOBQenxdE-rOLHvEePpXTo4S0PxgfJzqqu_Nu328j61s",
+   "source": "SeLoger",
+   "titre": "Appartement 2 Pièces - Dernier Etage - Balcon - Pa...",
+   "prix": 165000,
+   "surface": 40.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "3b2202462b",
+   "premier_vu": "2026-11-27T15:19:13+00:00",
+   "vu": "2026-11-27"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFffIT7BEYPrKplFEzIreYhR_VzgZzL0mWRH-TMlzQhF2va8f4uVCY8sP7R3SxbRfK_qIQkLIM2-5d2HQU77bBBbIBIgitm85oTeDCsbIBO30wu",
    "source": "SeLoger",
@@ -521,7 +557,7 @@
    "cp": "95270",
    "id": "addbbed86a",
    "premier_vu": "2026-11-26T16:40:42+00:00",
-   "vu": "2026-11-26"
+   "vu": "2026-11-27"
   },
   {
    "url": "https://www.bienici.com/annonce/nestenn-1-99939819460",
@@ -1437,11 +1473,15 @@
    "cp": "95320",
    "id": "897931d5e3",
    "premier_vu": "2026-11-25T12:41:21+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562907873"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563183786"
     }
    ]
   },
@@ -1455,11 +1495,15 @@
    "cp": "95320",
    "id": "1b287422f0",
    "premier_vu": "2026-11-25T12:41:21+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562908173"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563183654"
     }
    ]
   },
@@ -1473,11 +1517,15 @@
    "cp": "95320",
    "id": "493c0bb24b",
    "premier_vu": "2026-11-25T12:41:21+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562908461"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563183582"
     }
    ]
   },
@@ -1491,11 +1539,15 @@
    "cp": "95320",
    "id": "4e28ef4516",
    "premier_vu": "2026-11-25T12:41:21+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562908626"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563183510"
     }
    ]
   },
@@ -1509,11 +1561,15 @@
    "cp": "95320",
    "id": "3fb2bc8982",
    "premier_vu": "2026-11-25T12:41:21+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562908818"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563183447"
     }
    ]
   },
@@ -5003,7 +5059,7 @@
    "cp": "95120",
    "id": "e1142688d4",
    "premier_vu": "2026-11-19T15:48:53+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
@@ -5020,6 +5076,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562917701"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563182082"
     }
    ]
   },
@@ -5033,7 +5093,7 @@
    "cp": "95120",
    "id": "57fa94208b",
    "premier_vu": "2026-11-19T15:48:53+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
@@ -5050,6 +5110,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562917761"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563182028"
     }
    ]
   },
@@ -5063,7 +5127,7 @@
    "cp": "95120",
    "id": "b6026e1ec6",
    "premier_vu": "2026-11-19T15:48:53+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
@@ -5080,6 +5144,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562917836"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563181941"
     }
    ]
   },
@@ -6059,7 +6127,7 @@
    "cp": "95120",
    "id": "d4d347b963",
    "premier_vu": "2026-11-18T11:54:51+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
@@ -6080,6 +6148,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562909532"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563183234"
     }
    ]
   },
@@ -6093,7 +6165,7 @@
    "cp": "95120",
    "id": "5270f4df25",
    "premier_vu": "2026-11-18T11:54:51+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
@@ -6114,6 +6186,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562917905"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563181890"
     }
    ]
   },
@@ -6823,7 +6899,7 @@
    "cp": "95320",
    "id": "7ac7616924",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
@@ -6844,6 +6920,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562908284"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563189969"
     }
    ]
   },
@@ -6857,7 +6937,7 @@
    "cp": "95320",
    "id": "863e4206b3",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "Bien'ici",
@@ -6878,6 +6958,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562908971"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563183393"
     }
    ]
   },
@@ -7126,6 +7210,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFciQJwc4_LJb-1_OCl9vYKhAtabQNhO7TifNtiZeQkeEH7ieZzZUEd68T7vJExx72KM26Q4f0T0qJ0hC4T8KH-5r0XYJ22IYcZH0AGkj45tzBqiw"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfrQDseDkvQG7hDYwBGmA7S-JrAGDb32gjEuxLBhyYa1CsAD_QkBgSCcqkA002ectJB4qdv-DnILnZZaiditB4tYsN7THzcH7669PpX77TES58"
     }
    ]
   },
@@ -7161,7 +7249,7 @@
    "titre": "Sannois (95110) Vente appartement 2 pièces 42 m² 198.000 € Voir l'annonce",
    "id": "b53d6f3e76",
    "premier_vu": "2026-11-17T18:38:52+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-27"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK9Bp4-BpbF40KxI-DdevTyMvPgUA0n79Cp6OqljCJ6-iDKd_vn_pmQpnBe-DI7hJh4QxdtMsPiboaOmNjbrtgEzDW9T1I__OrBdjDKb26DWNJ",
@@ -8740,6 +8828,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfY9_Bk3qIlj7QPjie5mF6AdvtU3FHZXaNfxOVzvYXheYH7iUVYjZeseGPZSoezjDkAlgO6ywNghld4vtJnwDmPKthxp-dSXzDaXULB8S9k3ne"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfof49wm-lQcKUfpBUaFK-i5qkiMFAAOp1RFw30PmQ3ZcJ054paozmi_zVU06J_TWL4GvcJYuNykDz1dPcrVkWqJHV_bFm-dDVLNfeNn_IvZqR"
     }
    ]
   },
@@ -10355,7 +10447,7 @@
    "cp": "95320",
    "id": "b00a390dd7",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-26",
+   "vu": "2026-11-27",
    "autres": [
     {
      "source": "SeLoger",
@@ -10388,6 +10480,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-562908053"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-563183732"
     }
    ]
   },
