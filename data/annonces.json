@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-28T04:51:18+00:00",
+ "maj": "2026-11-28T05:49:57+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg99IML25ETiD8Y1gOSEIbrmiLVGTwH6fGTkxXTLfOcmXJRHTBVoe9e5ZaOuBqI2lA9mhGNvGsYfAJvON7uAqFcRlKCPUsK1Bfj2GcT82wVGz9",
+   "source": "SeLoger",
+   "titre": "APPARTEMENT 4 pièces 89 m²",
+   "prix": 167943,
+   "surface": 89.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "f31d04f123",
+   "premier_vu": "2026-11-28T05:49:57+00:00",
+   "vu": "2026-11-28"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag773658-563327165",
    "source": "Bien'ici",
@@ -143,7 +155,13 @@
    "cp": "95000",
    "id": "477a8960cc",
    "premier_vu": "2026-11-28T03:46:45+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg-KB9jFaQqUYHtHL_nHPAzvc5YlvlHD6meYH8fhA3hLAxFVji0a-yXvlnl7CkWZe_6o-JjwBE7LO1MJ5K_JKv4uEwbo7CMyHqFR2UszsTP2AJ"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag951353-563300276",
@@ -2005,7 +2023,13 @@
    "cp": "95250",
    "id": "e8550d90c6",
    "premier_vu": "2026-11-25T06:32:41+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg3j0VojlvLsyr4YS50mq0zTMjdA5vBWwvTnj_E1xX6cHvnW94c4rageUE-5aaVLnXFc4wjyVqEWJdInOQ7QwuFayyvOH6SWrfgfYmaWLGeX8"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFZGEX4xO05IGXsRb4q_4gbsN5fq9WMXEz55fxBHrXUkw-yyfHOTkArYE5vfvpJUfme7FxmPLhV4Y9w2bS0cWZbaoTvqE-Bs42AAvI84jE1ql-JqQ",
@@ -27438,6 +27462,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNQUPO281474977580938"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg-KB-dnJQR5mclya_OK6koqP5tkwAoSTIb22zVwkDQpKkbQnOwMTkCd3haSIyz7xxoVO2bUY-1QxmIy9UxBt5gcHH-UNHerYD_IysmNQhSjq_"
     }
    ]
   },
@@ -27740,6 +27768,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNQUPO281474977580939"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg99INkbgW6EH46UnK8U6SnEPBaS9a-avTMukYi2hkMqVIOD2OCbM0RvAezy6mY7h3ZaRODiJNpVnvDzav6eLEJyuBT7mdLFkpkqNypfOIsD_x"
     }
    ]
   },
