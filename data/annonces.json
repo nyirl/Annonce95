@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-28T01:55:28+00:00",
+ "maj": "2026-11-28T03:46:45+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag951353-563300180",
+   "source": "Bien'ici",
+   "titre": "Appartement Cergy 3 pièce(s) 73,24 m2",
+   "prix": 170000,
+   "surface": 73.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "477a8960cc",
+   "premier_vu": "2026-11-28T03:46:45+00:00",
+   "vu": "2026-11-28"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag951353-563300276",
+   "source": "Bien'ici",
+   "titre": "Appartement Pontoise 3 pièce(s) 63 m2",
+   "prix": 175000,
+   "surface": 63.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "934df1482b",
+   "premier_vu": "2026-11-28T03:46:45+00:00",
+   "vu": "2026-11-28"
+  },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_639_677323",
    "source": "Bien'ici",
