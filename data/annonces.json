@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-28T09:08:19+00:00",
+ "maj": "2026-11-28T10:08:08+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhk52-6dF4aVrUNsWtp660a_cxdbOe0WBjKY2fE8c6V5ZgRQI4hEGGXKTwXc0NvRQpcLLRr4njiAR4IsK0S05f0dg3LXd5pTZ9-js40JcifpsK",
+   "source": "SeLoger",
+   "titre": "Appartement Cergy 3 pièce(s) 52.82 m2",
+   "prix": 170000,
+   "surface": 52.82,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "8a2bb70667",
+   "premier_vu": "2026-11-28T10:08:08+00:00",
+   "vu": "2026-11-28"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhDRuwvYR2HP4sI-eXZDhxT8YdaftlFFilrzmlicvetxH-H6ffW6AG6xUjsuy26wZmyqiMmZUiAooi9FlhZka-vmD5F5ZwQkbfJSsPuAEWen31",
    "source": "SeLoger",
@@ -56428,6 +56440,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61801495"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61804779"
     }
    ]
   },
@@ -56482,6 +56498,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61801510"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61804787"
     }
    ]
   },
