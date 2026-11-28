@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-28T05:49:57+00:00",
+ "maj": "2026-11-28T06:54:59+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-562568525",
+   "source": "Bien'ici",
+   "titre": "T2 - Saint-Martin-du-Tertre",
+   "prix": 168000,
+   "surface": 41.0,
+   "commune": "Saint-Martin-du-Tertre",
+   "cp": "95270",
+   "id": "f35bf54398",
+   "premier_vu": "2026-11-28T06:54:59+00:00",
+   "vu": "2026-11-28"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-562568699",
+   "source": "Bien'ici",
+   "titre": "T4 - Goussainville",
+   "prix": 259000,
+   "surface": 82.0,
+   "commune": "Goussainville",
+   "cp": "95190",
+   "id": "30ee07972c",
+   "premier_vu": "2026-11-28T06:54:59+00:00",
+   "vu": "2026-11-28"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg99IML25ETiD8Y1gOSEIbrmiLVGTwH6fGTkxXTLfOcmXJRHTBVoe9e5ZaOuBqI2lA9mhGNvGsYfAJvON7uAqFcRlKCPUsK1Bfj2GcT82wVGz9",
    "source": "SeLoger",
@@ -11,7 +35,13 @@
    "cp": "95310",
    "id": "f31d04f123",
    "premier_vu": "2026-11-28T05:49:57+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/mgc-ancien-243_G656L-0443-2"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-563327165",
@@ -173,7 +203,13 @@
    "cp": "95300",
    "id": "934df1482b",
    "premier_vu": "2026-11-28T03:46:45+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg_7D7-loMg6NwTrt2lHeGRpfZH34XWNXLpkmYg1_-e-kl45TUNXpjm-aEY-reX9NCx5ao_wv9rZgUzb0h7eaeaLua3Edd3rtDnHK8OKMbjw"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_639_677323",
@@ -197,7 +233,13 @@
    "cp": "95220",
    "id": "54db79a4cc",
    "premier_vu": "2026-11-28T01:55:28+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhBjDT-5kCbcy-QsGzJ93R-xtgZOnRJQlTSDPTMsfSK6s42BzHubUU9Q_WcUv5prOPXAblRX5gNQz4ep3aGytLCft8fXcL-r1c7kjXYfXJFKZy"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_2168_680560",
@@ -3167,7 +3209,13 @@
    "cp": "95520",
    "id": "017cfe8ee9",
    "premier_vu": "2026-11-23T05:04:29+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-562567706"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-560835161",
@@ -3221,7 +3269,13 @@
    "cp": "95160",
    "id": "60183e3bb0",
    "premier_vu": "2026-11-23T05:04:29+00:00",
-   "vu": "2026-11-25"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-562569503"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2163156",
@@ -9255,7 +9309,13 @@
    "cp": "95170",
    "id": "dfa7ec2e80",
    "premier_vu": "2026-11-16T07:35:41+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-563328692"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-560366204",
@@ -11079,7 +11139,7 @@
    "cp": "95560",
    "id": "3af3164003",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-21",
+   "vu": "2026-11-28",
    "autres": [
     {
      "source": "Bien'ici",
@@ -11088,6 +11148,14 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLpzCB1dHwBHRH15msIzNTB_oinfPLU4yXGKqlUsA42K5JRvsHzpeIPyX3l_ZuvsTwvXm8y527P7Lx6y2rAlofpRklFf10ZVvdsiHhF9a3gPw"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-563331104"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg-n7JhAczWpbXqu6H7MVNEON8u2RnJsp2fOn59_p9Kv0tFc6zucW8gEXBK7lXdsByIOb1voH1NnpUolqDZFGQOIRGcxbCZqUJvAVOyZ_SVsc"
     }
    ]
   },
@@ -13772,6 +13840,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNFRPI281474977577817"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg_deQHXTZ5x5QhLY7BjVxX44uooBwY9sK7TpiRWBtMSuojvaf1X9u7nI-0uhNUUYScMIeJdnC25KIcGuB-7ccZBA4Z2x7KGMf9jYmjwAYl1G_"
     }
    ]
   },
@@ -14999,7 +15071,7 @@
    "cp": "95000",
    "id": "6a6c1d037c",
    "premier_vu": "2026-11-09T10:17:46+00:00",
-   "vu": "2026-11-23",
+   "vu": "2026-11-28",
    "autres": [
     {
      "source": "Bien'ici",
@@ -15008,6 +15080,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag773658-561648608"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-563328980"
     }
    ]
   },
@@ -27630,6 +27706,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNQUPO281474977580937"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhBucYRbFGFg6AB71sgoctmAzzFEmgOwcqqzam9KGGu89ASFju-S3mZFD5pUFnrhjUnyY9DoVCVllQ3UP4wEkFLQgN9g4V0SWdhcTXWqBpILUq"
     }
    ]
   },
@@ -28306,6 +28386,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977583661"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhBSIuld01S8u9-XqkmYakot-pdMDP4ya-ENB3fz3IaLRk4Eblqs5dmKTVaB1F7S665OQTbC1FQqX9DJfGIOdqT6tW-oVPSnZ4W0G8Wa0b0El3"
     }
    ]
   },
@@ -28837,7 +28921,13 @@
    "cp": "95800",
    "id": "bf178fb9bc",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg-n7Jiw8O3VSFQHPPJvDUBfrnWDKNbAKUnv1VjmJ8JpUHxpJy2bACTArytzA9rxZVVlbzOZVNHZtCCTkub469CRJ6kxlg_asUU6ZrmDzNHmg"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0015-298000201AJ",
