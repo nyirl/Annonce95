@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-28T10:08:08+00:00",
+ "maj": "2026-11-28T11:05:41+00:00",
  "annonces": [
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhk52-6dF4aVrUNsWtp660a_cxdbOe0WBjKY2fE8c6V5ZgRQI4hEGGXKTwXc0NvRQpcLLRr4njiAR4IsK0S05f0dg3LXd5pTZ9-js40JcifpsK",
@@ -149,7 +149,13 @@
    "cp": "95540",
    "id": "20b94e740a",
    "premier_vu": "2026-11-28T04:51:18+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhuPJhsLNJI99Wq1WI-YS1qa7uvelwkSdoHNzwAy3nIAbn03DRXhh8HmbrlGHrf497Pvb4Ddc8Ytk1hbsladXnc-ejaHyFZGb5cmMVmckwtPf3"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg1Ywblx_Am566AB7JhQho-K4WFVDxDWAg8IOTyTyCuqyi1mh-H98Nqud0YfTRlF28J3YqbWjPoDZnjR7qWFV5jmN_YmUv0qbURzwjwpPsgqss1g",
@@ -173,7 +179,13 @@
    "cp": "95540",
    "id": "5b6b95ff7d",
    "premier_vu": "2026-11-28T04:51:18+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhvoDEqY8cUCWjq9CEmZFhKQ5qo3Z5R8wo7Ao3W2Dv6kj0LSHBRQwM77IRf3IJVedUa29hk5iPS01ZXsORX9oaGbIr2rE273Jp4BgSgYsbkriO"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg9gwplOaV5mU07PuwDPbe1iOjvC6ghoGLOmllDQOsMVVo60RC3W4noP4y7fF-frOq4I2FkHoiQfNc9nUr7ERHKjfKRKSVuyhuFemQegfS9ds",
@@ -1488,6 +1500,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg1YwbqVyRFDJgzdCu7-j0lGFc6reliI-Ls4-Wm7rYwTQnh6lL6QK9uZ-7fZ_ZgKPqdsGbvid8ws9d567Lw_n1aM9uEXuWZ_5bKlYsxbE4lCHLyA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhuPJhqknMi4IbnNUBzaLmmxl87Y0UfTcga1eubV7Iuwldejn8z6WTqnbJEyWB-n_8bJ8Pw66eVYLdGXbTGICWF1N-_T3b8Clb-JrtT5AmtXiW"
     }
    ]
   },
@@ -15511,7 +15527,7 @@
    "titre": "Pontoise (95) Vente appartement 2 pièces 54 m² 181.900 € Voir l'annonce",
    "id": "f25e77eef7",
    "premier_vu": "2026-11-08T14:45:11+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-28"
   },
   {
    "url": "https://www.bienici.com/annonce/ag933595-556337639",
