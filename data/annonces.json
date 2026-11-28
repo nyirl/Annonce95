@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-28T08:08:50+00:00",
+ "maj": "2026-11-28T09:08:19+00:00",
  "annonces": [
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhDRuwvYR2HP4sI-eXZDhxT8YdaftlFFilrzmlicvetxH-H6ffW6AG6xUjsuy26wZmyqiMmZUiAooi9FlhZka-vmD5F5ZwQkbfJSsPuAEWen31",
@@ -22263,7 +22263,13 @@
    "cp": "95520",
    "id": "4f2347b204",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhScTBrJl1ck4KigNnk4xO6xVF2dw6f-39W4fCGLvH23gm7NacjXugIZKWTlv0xRhiizsvXZadZ5WfrxgbPNrIiHAQYIVT4SYSAy8BcItg1JzcoA"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-241845",
@@ -28872,6 +28878,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977583680"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhftHwB48MyfZ1rdCsAFo6paU5ZG_rjVjNDus0Yb5urGPB4Yz5mO1SYxYjkgjVQraEXZFd-8net1VpI3IGttGa0MMcPgknAVjnAzWKwyuN71V7"
     }
    ]
   },
@@ -29449,7 +29459,13 @@
    "cp": "95610",
    "id": "dc9f88ac70",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhScTBsmAdFKCV9YMuKlJasT1ghs6Yx8MphehbhG5NknaNnuI7Gujeo8Fmw1wxzyQpp8dfoTVuItdpfK7DNyph0-A0o-ChdZ3jp3DrIfReClksOA"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag440414-556905926",
@@ -30043,7 +30059,13 @@
    "cp": "95300",
    "id": "b57b514d18",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhScTBuBHot_9xpmXM1LvCu4XBwipbW8gnyBUolS6sxXdqoZqqyDld0yaLnkznpXRCA7UAk1Ta9FB_JTPdlSW-bMWWeBLNGgDu0C0hUl3sKLae4Q"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61602680",
