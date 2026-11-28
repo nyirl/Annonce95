@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-28T14:25:36+00:00",
+ "maj": "2026-11-28T15:24:55+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFiBJpPZ-e2vR0Y1zLjcSE4QRLYrrj3ieThNubgDlJAOvQtfig5zLs0wiqMLEKKT_hrJc2jW_sfbMnNQPXEsUCaWkASAQFwH34uexckwMwZWQ",
+   "source": "SeLoger",
+   "titre": "Appartement 3 pièces 50.53 m² avec parkings à Sain...",
+   "prix": 182000,
+   "surface": 53.5,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "4f33885b48",
+   "premier_vu": "2026-11-28T15:24:55+00:00",
+   "vu": "2026-11-28"
+  },
   {
    "url": "https://www.bienici.com/annonce/hektor-dupontimmobilierPONTOISE-938",
    "source": "Bien'ici",
@@ -10016,6 +10028,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFffIT7CsIhVYyb_Ty3VPzUPQfo8Ie4g4_Va9F_cThzOHgdq9qqsF68YH2CewVZ3lrbOOy3-w5XvCmR7fejizAz88HTGT7lwyhBr0tEm0R76uGo"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFiCFOla11G3Pmca1kDGINRGbocxoPvYhqYMmEedj2Ms2Me1Vx06CNtXw5ItPP3HjNDg1G5YYXVSHnQOMDT0QzdxzZdwjJk_o-xU-1mPNURx_Z9"
     }
    ]
   },
@@ -11088,6 +11104,14 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg_9TZmOKZ5l4X4zfjA4krQAffJ48Cua_8z9vhTiXqfby9IZcamcvGGkgNt9g1lWoQnEwrD1t-54eobjxWvSR79sIPZlVEIecIXhuVcy3VZTwy"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFiECse2BIxHapEB1k4ki9QOycV6SQQ-mEvqU1TtZ1XlMS-KOWu5neRIDJ83gwYLVx49Qed9Yd5gotP1E2fxkHpiMH-OxBwt5qb8UPE4JRyrcJX"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFiFui2xA1KB5YhIcxUsnaVhvXr-vp9IA5qK0CyXHC4ps70w6TmGe5yuZPRlPiQ-JOX4KkiRTRa1Xer2NlbGDwO5LWh-F4HfOHDaq6HDpwvyzDK"
     }
    ]
   },
