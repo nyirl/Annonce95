@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-28T12:02:03+00:00",
+ "maj": "2026-11-28T13:21:10+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1744049",
+   "source": "Bien'ici",
+   "titre": "ARGENTEUIL CENTRE - DUPLEX DE CHARME AVEC JARDIN",
+   "prix": 399000,
+   "surface": 132.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "eb7dd12476",
+   "premier_vu": "2026-11-28T13:21:10+00:00",
+   "vu": "2026-11-28"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61797823",
+   "source": "Bien'ici",
+   "titre": "EXCLUSIVITÉ * VAURÉAL * IDÉAL 1ÈRE ACQUISITION ou investisseur - Résidence agréable 2014 *",
+   "prix": 227000,
+   "surface": 55.45,
+   "commune": "Vauréal",
+   "cp": "95490",
+   "id": "c37d2365bd",
+   "premier_vu": "2026-11-28T13:21:10+00:00",
+   "vu": "2026-11-28"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-BIENCHEZNOUS95-520",
+   "source": "Bien'ici",
+   "titre": "MONTSOULT   Appartement 4 pièces de 84,80 m2 avec terrasse d",
+   "prix": 215000,
+   "surface": 84.8,
+   "commune": "Montsoult",
+   "cp": "95560",
+   "id": "80f613e63a",
+   "premier_vu": "2026-11-28T13:21:10+00:00",
+   "vu": "2026-11-28"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag060811-563397041",
    "source": "Bien'ici",
@@ -22991,7 +23027,13 @@
    "cp": "95130",
    "id": "83c95d8567",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFh2EmXnAsaItwWYIudHproVzLA0mnwxNXZCE0P7ua2q7ztBeY6Y1xsE-v4qWGqEK0ekSMcrYODTDUfKaT1fxOaMoLkoawGYldNhafJWezugkNM"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-dupontimmobilierPONTOISE-921",
@@ -29694,6 +29736,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/era-2-61776417"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhxryaxmon08FFunCbbuCgru1dEzMn77dRVBZGrty8t8kuAiUu8d6FYwLFciYy6_8gLaYHK8sM6_bjxi-cvLUTCCiLCGvrtS1dpx7a_e2tVZR2"
     }
    ]
   },
@@ -37067,7 +37113,13 @@
    "cp": "95220",
    "id": "72001a299f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhxUQInRoeNPYdV4fGV0-anjW7ULK2N5QfvQ40jLsgy7QBKJ4dMjKXt7-Q1hf_5QrlmtxrVRF0R2Rt4gDQg8KYTUFBOtcRMr3tGQNMEnKsOZ0"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/netty-dauchez75-appt-3092",
