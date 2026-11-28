@@ -1,6 +1,66 @@
 {
- "maj": "2026-11-28T15:24:55+00:00",
+ "maj": "2026-11-28T16:27:05+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/laforet-immo-facile-53042344",
+   "source": "Bien'ici",
+   "titre": "Appartement Ermont 2 pièce(s) 48 m2",
+   "prix": 186500,
+   "surface": 48.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "9f743ce20d",
+   "premier_vu": "2026-11-28T16:27:05+00:00",
+   "vu": "2026-11-28"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/laforet-immo-facile-52946970",
+   "source": "Bien'ici",
+   "titre": "Appartement Cergy 5 pièce(s) 101.1 m2",
+   "prix": 360000,
+   "surface": 100.34,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "11d220c9a9",
+   "premier_vu": "2026-11-28T16:27:05+00:00",
+   "vu": "2026-11-28"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939821338",
+   "source": "Bien'ici",
+   "titre": "Appartement Bessancourt 20,56m² au sol",
+   "prix": 88000,
+   "surface": 13.76,
+   "commune": "Bessancourt",
+   "cp": "95550",
+   "id": "96d3710cb7",
+   "premier_vu": "2026-11-28T16:27:05+00:00",
+   "vu": "2026-11-28"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT1152-2659",
+   "source": "Bien'ici",
+   "titre": "Appartement",
+   "prix": 239000,
+   "surface": 44.45,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "7ce77213f4",
+   "premier_vu": "2026-11-28T16:27:05+00:00",
+   "vu": "2026-11-28"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFiDtAy798jRxJ6LndlODmVvGpAbaxWZeBp6-z65hHbMQ4-sBUESfUKBT5wc04hK_t0xVEGa6F6zIEI21Cv1QL2noltm8-HRzHv8i4uV1RftnnD",
+   "source": "SeLoger",
+   "titre": "Le Clos Gaillardet BRS",
+   "prix": 161000,
+   "surface": 41.8,
+   "commune": "Le Plessis-Bouchard",
+   "cp": "95130",
+   "id": "b7e9d6adba",
+   "premier_vu": "2026-11-28T16:27:05+00:00",
+   "vu": "2026-11-28"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFiBJpPZ-e2vR0Y1zLjcSE4QRLYrrj3ieThNubgDlJAOvQtfig5zLs0wiqMLEKKT_hrJc2jW_sfbMnNQPXEsUCaWkASAQFwH34uexckwMwZWQ",
    "source": "SeLoger",
@@ -563,7 +623,13 @@
    "cp": "95370",
    "id": "1a1947c7a9",
    "premier_vu": "2026-11-27T15:19:13+00:00",
-   "vu": "2026-11-28"
+   "vu": "2026-11-28",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFiGc9ZTx5jmkTRXZqTDAR7_GAT0DQFBiCXfZwzb_eHul6MiL_s7m5JIChKYsLNFUX3Lj634t_KqRcg1s44IKLPKJkMDFFYYIWixTJKnSY4qlFJ"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFfozMxIm8h1KinJBxULnt29J01tBiAjEkvm0jKKph3W_K8oi65bfHnIbrzoQzY5Y7WvOBQenxdE-rOLHvEePpXTo4S0PxgfJzqqu_Nu328j61s",
@@ -9580,6 +9646,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFh0PdY9MwTR0p59EH6QEjEETrfB5PPsRrdN76O_aDcz-uuvnY8ngK_BKOmG8A777QdmhaqUTYozzH83v0j1WAPDA9RR7bN2P2IAXjZvtqTWnU7"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFiG4ZIaYJ7EGTqT0ui3daWFEVfxxee59oERB0nhZ-zaF7MsP8Z7QbQwwHfrP9n-OtFDXQqll-5gXS04Vc_apfDKoap_wyMbY-thCMpOhTk4BR2"
     }
    ]
   },
@@ -29524,6 +29594,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag440414-561530630"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag440414-563443631"
     }
    ]
   },
@@ -33166,6 +33240,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag440414-558296528"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag440414-563443601"
     }
    ]
   },
