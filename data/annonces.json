@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-28T11:05:41+00:00",
+ "maj": "2026-11-28T12:02:03+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag060811-563397041",
+   "source": "Bien'ici",
+   "titre": "DEUIL-LA-BARRE (95, VAL D’OISE) – Limitrophe Enghien-les-Bains – appartement 3 pièces F3/T3 – 71,02 m² - stationnement –",
+   "prix": 182000,
+   "surface": 71.0,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "id": "ce4a8f74ac",
+   "premier_vu": "2026-11-28T12:02:03+00:00",
+   "vu": "2026-11-28"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-agencegare-4113",
+   "source": "Bien'ici",
+   "titre": "Appartement type studio 23 m2 vendu loué",
+   "prix": 119000,
+   "surface": 22.7,
+   "commune": "Louvres",
+   "cp": "95380",
+   "id": "135e65dc8c",
+   "premier_vu": "2026-11-28T12:02:03+00:00",
+   "vu": "2026-11-28"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhyVRppsbfiC3HHFVnxkRz7ZsfKJKoZBnuVlZ8_LD3H2Heh9tcuj2MmJiqwqTNRmwik4dImKX-H25-Qe9z4oNgiz93WpT3Y0LPKJ0s1QRl6bEz",
+   "source": "SeLoger",
+   "titre": "Charmant T2 avec terrasse à Baillet-en-France !",
+   "prix": 182000,
+   "surface": 42.4,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "7b2f2222a2",
+   "premier_vu": "2026-11-28T12:02:03+00:00",
+   "vu": "2026-11-28"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhk52-6dF4aVrUNsWtp660a_cxdbOe0WBjKY2fE8c6V5ZgRQI4hEGGXKTwXc0NvRQpcLLRr4njiAR4IsK0S05f0dg3LXd5pTZ9-js40JcifpsK",
    "source": "SeLoger",
@@ -9472,6 +9508,14 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg1YwdCA9-OTuyF82vLqY8iXHwM9MKFSgh9RPnuf9aD28Ljr1zpB3Wfd9bn0ZL4O-X29B-Q7cXSeMCwE31AESxhn7vI_KmCk7yJ_uKBKRV-8TP"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFhyVRprPDn23Lf_Uo-2mA8CAgKp9Z_EdlC7jI9yKJuO3KPDQcE4qmsqQmLGdXovYatONX7osWl1dtYWOKMF7pfeHAO9EX6cVicNhk0htWV0L4I"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFh0PdY9MwTR0p59EH6QEjEETrfB5PPsRrdN76O_aDcz-uuvnY8ngK_BKOmG8A777QdmhaqUTYozzH83v0j1WAPDA9RR7bN2P2IAXjZvtqTWnU7"
     }
    ]
   },
@@ -10094,6 +10138,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg1YwbnSOSbXsG8m58QT8No5jqEojxG84YKLHz1N6EzZ2_bq_Tw1n9Ws_TH4POcADQsruTJC_RuELkCU7hkd40gR5P_uma-I1TlA4iDVW4qztmTQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFh0PdY7lXIylFx-2OumTY-Ti-rbnSZWlJOyNdgJGeokNyIWIkDP1IPpX1ntJ43268OMjx9MbDmYvaqIb_TpzFoBacdc9AgFhxg9YLTopZ8HdKl"
     }
    ]
   },
@@ -10148,6 +10196,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFg1Ywbo6G-dJKa54WJnQEenN-fI0WAwQjvN_UCaMrG0ujPyJsJe2HQHU45MFy0mGnm7Ct9zWJccU1r3Eo4qJs2I0JnD_7ywVS_2EuMf2txQzEOHw"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFh0PdY6Fm3099g51rZ80FsRJvjJ5PUuapd0Ut8oD8gaVZBDD0L0ftz0xYnr0BnJuyb42YRZXcBDo-KwM1FI8nXlHT1TC-nMjYC1FlOyX255Bhz"
     }
    ]
   },
