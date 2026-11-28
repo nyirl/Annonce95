@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-28T13:21:10+00:00",
+ "maj": "2026-11-28T14:25:36+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/hektor-dupontimmobilierPONTOISE-938",
+   "source": "Bien'ici",
+   "titre": "PONTOISE GARE APPARTEMENT 3 PIECES avec ASCENSEUR BALCON et",
+   "prix": 225000,
+   "surface": 75.16,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "90afe1386f",
+   "premier_vu": "2026-11-28T14:25:36+00:00",
+   "vu": "2026-11-28"
+  },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1744049",
    "source": "Bien'ici",
@@ -5298,6 +5310,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977584927"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNzQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFh6qUXhnwtlkygZonDSeKHFfiIIVWQmeNTm2yrWIr5agl8CXZSnJE-DVAIekKcmpHKkGWUMqr04Uz5eZbDqSZ8M-7xgglZuF8vwwpuDRm0v_VS"
     }
    ]
   },
